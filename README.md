@@ -2,4 +2,4 @@
 
 Companion website for my Data and Database Management Course
 
-FAQ
+[FAQ](FAQ.md)

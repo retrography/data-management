@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Course Description
 ---
+# Course Description
 
 - ___Course Title:___ Managing Data and Databases / Data and Database Management
     - ___Course Number:___ INSY 437 / INSY 638

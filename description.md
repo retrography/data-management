@@ -70,12 +70,12 @@ We will be using a relational database for documents (slides, assignments, etc.)
 
 ## ￼￼Grading and Evaluation
 
-| __Activity__                 | __G__ |
-|------------------------------|:-----:|
-| Final project (team)         |  40%  |
-| 2 Quizzes                    |  30%  |
-| 2 Exercises (individual)     |  20%  |
-| Attendance and Participation |  10%  |
+| __Activity__                 | __Grade__ |
+|------------------------------|:---------:|
+| Final project (team)         |    40%    |
+| 2 Quizzes                    |    30%    |
+| 2 Exercises (individual)     |    20%    |
+| Attendance and Participation |    10%    |
 
 ## Final project
 

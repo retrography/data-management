@@ -13,14 +13,14 @@ relative_permalinks: true
 # Setup
 title:               'Data Management'
 tagline:             'a companion'
-description: > # This is the companion website for Data and Database Management course in McGill University, Desautels Faculty of Management.
+description:         'This is the companion website for Data and Database Management course in McGill University, Desautels Faculty of Management.'
 baseurl:             '/data-management'
 url:                 'http://retrography.github.com/data-management'
 paginate:            5
 
 # About/contact
 author:
-  name:              'Mahmood Zargar'
+  name:              'Mahmood Shafeie Zargar'
   url:               'https://twitter.com/mszargar'
   email:             'mahmood.shafeiezargar@mcgill.ca'
 

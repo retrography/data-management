@@ -19,4 +19,8 @@ No, only if you have used unconventional characters in your naming.
 
 ## Single quotes or double quotes?
 
-Whatever works. Single quotes if you are in doubt or if double quotes don't work.
+Whatever works. Typically, double quotes on Heroku and single quotes on Amazon. If you install your own server, you have the choice!
+
+## Is there any good SQL command reference you recommend?
+
+There are many good ones, but almost all of them exclusively cover standard-based SQL. If you want a reference for MySQL's flavor of SQL, read [MySQL's reference manual](https://dev.mysql.com/doc/refman/5.1/en/sql-syntax.html). If you want a quick reference for everyday use, you can find one [here](http://www.1keydata.com/sql/sql.html).

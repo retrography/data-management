@@ -5,8 +5,7 @@ title: Frequently Asked Questions
 
 ## Can I have a copy of the syllabus in PDF?
 
-Oh, you disappoint me... ;) [Of course you can]([Slides]({{ site.baseurl}}/public/misc/insy437638.pdf)
-), but it won't be updated during the trimester, so please check this website regularly, instead of relying on the PDF.
+Oh, you disappoint me... ;) [Of course you can]({{ site.baseurl }}/public/misc/insy437638.pdf), but it won't be updated during the trimester, so please check this website regularly, instead of relying on the PDF.
 
 ## I haven't learned anything up to know, is there any way to learn SQL overnight?
 

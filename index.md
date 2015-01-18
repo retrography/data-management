@@ -47,23 +47,23 @@ We will be using a variety of online articles and selected chapters from three t
 
 ## References
 
-- Data Management by Richard Watson, 6th Edition ([Amazon - Kindle Edition](www.amazon.ca/Data-Management-Richard-Watson-ebook/dp/B00E8HS8N2))
-- The Data Revolution by Rob Kitchin ([Amazon - Kindle Edition](www.amazon.ca/Data-Revolution-Infrastructures-Their-Consequences-ebook/dp/B00L1GM1XG))
+- Data Management by Richard Watson, 6th Edition ([Amazon - Kindle Edition](http://www.amazon.ca/Data-Management-Richard-Watson-ebook/dp/B00E8HS8N2))
+- The Data Revolution by Rob Kitchin ([Amazon - Kindle Edition](http://www.amazon.ca/Data-Revolution-Infrastructures-Their-Consequences-ebook/dp/B00L1GM1XG))
 - A number of additional book chapters and articles from scientific journals and the press
 
 Additional resources:
 
-- MySQL Cookbook by Paul Dubois, 3rd Edition ([Safari Books Online](proquest.safaribooksonline.com/book/databases/mysql/9781449374112))
-- SQL for Dummies by Allen G. Taylor ([Safari Books Online](proquest.safaribooksonline.com/book/databases/sql/9781118657119))
+- MySQL Cookbook by Paul Dubois, 3rd Edition ([Safari Books Online](http://proquest.safaribooksonline.com/book/databases/mysql/9781449374112))
+- SQL for Dummies by Allen G. Taylor ([Safari Books Online](http://proquest.safaribooksonline.com/book/databases/sql/9781118657119))
 - Any online SQL tutorial (e.g. [1keydata](www.1keydata.com/sql/sql.html))
 
 Ask me about more specific resources, if you need additional guidance for your project.
 ￼￼
 ## Software
 
-- MySQLWorkbench ([Oracle](www.mysql.com/products/workbench/))
+- MySQLWorkbench ([Oracle](http://www.mysql.com/products/workbench/))
 - LibreOffice ([The Document Foundation](http://www.libreoffice.org/download/libreoffice-fresh/))
-- dbeaver Enterprise Edition ([JKISS](dbeaver.jkiss.org/download/))￼
+- dbeaver Enterprise Edition ([JKISS](http://dbeaver.jkiss.org/download/))￼
 
 ## Online Resources
 

@@ -82,6 +82,7 @@ We will be using a relational database for documents (slides, assignments, etc.)
 ￼In groups of 4 or 5 members, students will work on a project of their choice. The project will consist of working on an open dataset (e.g. Open Data from The City of Montreal) or developing a database application.
 
 Project deliverables:
+
     - One-page description of the project (contractual)
     - One-page progress report
     - The actual software produced (database, database application, visualization, pivot table, etc...)
@@ -94,7 +95,7 @@ The two workshop sessions (Kickstart session and Capstone session) will also be 
 
 These quizzes will cover all the material not covered in the take-home exercises (see below). This includes non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers. If you have attended and actively participated in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay questions.
 
-The quiz questions are crowdsourced. Each student will contribute one or two questions to each quiz. Subsequently the questions will be curated and published online. The curated list will be your only reference for the quiz.
+The quiz questions are [crowdsourced]({{ site.baseurl }}/quiz/). Each student will contribute one or two questions to each quiz. Subsequently the questions will be curated and published online. The curated list will be your only reference for the quiz.
 
 ## Exercises
 

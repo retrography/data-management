@@ -83,6 +83,7 @@ We will be using a relational database for documents (slides, assignments, etc.)
 ￼In groups of 4 or 5 members, students will work on a project of their choice. The project will consist of working on an open dataset (e.g. [Open Data from The City of Montreal](http://donnees.ville.montreal.qc.ca)) or developing a database application.
 
 Project deliverables:
+
 - One-page description of the project (contractual)
 - One-page progress report
 - The actual software produced (database, database application, visualization, pivot table, etc...)

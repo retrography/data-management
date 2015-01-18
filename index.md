@@ -47,27 +47,27 @@ We will be using a variety of online articles and selected chapters from three t
 
 ## References
 
-- Data Management by Richard Watson, 6th Edition (Amazon - Kindle Edition)
-- The Data Revolution by Rob Kitchin (Amazon - Kindle Edition)
+- Data Management by Richard Watson, 6th Edition ([Amazon - Kindle Edition](www.amazon.ca/Data-Management-Richard-Watson-ebook/dp/B00E8HS8N2))
+- The Data Revolution by Rob Kitchin ([Amazon - Kindle Edition](www.amazon.ca/Data-Revolution-Infrastructures-Their-Consequences-ebook/dp/B00L1GM1XG))
 - A number of additional book chapters and articles from scientific journals and the press
 
 Additional resources:
 
-- MySQL Cookbook by Paul Dubois, 3rd Edition (Safari Books Online)
-- SQL for Dummies by Allen G. Taylor (Safari Books Online)
-- Any online SQL tutorial (e.g. 1keydata, w3c school)
+- MySQL Cookbook by Paul Dubois, 3rd Edition ([Safari Books Online](proquest.safaribooksonline.com/book/databases/mysql/9781449374112))
+- SQL for Dummies by Allen G. Taylor ([Safari Books Online](proquest.safaribooksonline.com/book/databases/sql/9781118657119))
+- Any online SQL tutorial (e.g. [1keydata](www.1keydata.com/sql/sql.html))
 
 Ask me about more specific resources, if you need additional guidance for your project.
 ￼￼
 ## Software
 
-- MySQLWorkbench (Oracle)
-- LibreOffice (The Document Foundation)
-- dbeaver Enterprise Edition (JKISS)￼
+- MySQLWorkbench ([Oracle](www.mysql.com/products/workbench/))
+- LibreOffice ([The Document Foundation](http://www.libreoffice.org/download/libreoffice-fresh/))
+- dbeaver Enterprise Edition ([JKISS](dbeaver.jkiss.org/download/))￼
 
 ## Online Resources
 
-We will be using a relational database for documents (slides, assignments, etc.), announcements, class discussion and grades. We will be using several websites (e.g. Heroku) for data hosting and data retrieval as well.
+We will be using a relational database for documents (slides, assignments, etc.), announcements, class discussion and grades. We will be using several websites (e.g. [Heroku](https://www.heroku.com)) for data hosting and data retrieval as well.
 
 ## ￼￼Grading and Evaluation
 
@@ -80,15 +80,14 @@ We will be using a relational database for documents (slides, assignments, etc.)
 
 ## Final project
 
-￼In groups of 4 or 5 members, students will work on a project of their choice. The project will consist of working on an open dataset (e.g. Open Data from The City of Montreal) or developing a database application.
+￼In groups of 4 or 5 members, students will work on a project of their choice. The project will consist of working on an open dataset (e.g. [Open Data from The City of Montreal](http://donnees.ville.montreal.qc.ca)) or developing a database application.
 
 Project deliverables:
-
-    - One-page description of the project (contractual)
-    - One-page progress report
-    - The actual software produced (database, database application, visualization, pivot table, etc...)
-    - Project presentation
-    - Project documentation (instruction manual, help files, in-line code comments, etc...)
+- One-page description of the project (contractual)
+- One-page progress report
+- The actual software produced (database, database application, visualization, pivot table, etc...)
+- Project presentation
+- Project documentation (instruction manual, help files, in-line code comments, etc...)
 
 The two workshop sessions (Kickstart session and Capstone session) will also be an opportunity for you to demonstrate your performance and mastery of your project.
 

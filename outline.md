@@ -56,7 +56,7 @@ Commands: Create, Select, Insert, Update, Delete, Drop, Alter, Where
 
 Readings:
 
-- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data%2520Driven%2520Business%2520Models.pdf)
+- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data%20Driven%20Business%20Models.pdf)
 - Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
 

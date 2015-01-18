@@ -55,6 +55,8 @@ Additional resources:
 - MySQL Cookbook by Paul Dubois, 3rd Edition (Safari Books Online)
 - SQL for Dummies by Allen G. Taylor (Safari Books Online)
 - Any online SQL tutorial (e.g. 1keydata, w3c school)
+
+Ask me about more specific resources, if you need additional guidance for your project.
 ￼￼
 ## Software
 

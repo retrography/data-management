@@ -42,8 +42,7 @@ By the end of this course, you will be able to:
 - Examine how data enables new business models
 - Conceptualize the increasing importance of data privacy and information security for citizens and corporations
 - Understand the new trends in big data, data science, data-enabled decision making and predictive analytics
-- Understand the new trends in open data and release of public data Materials
-We will be using a variety of online articles and selected chapters from three textbooks that offer different perspectives on the topics covered:
+- Understand the new trends in open data and release of public data
 
 ## References
 

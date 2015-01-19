@@ -3,6 +3,10 @@ layout: page
 title: Frequently Asked Questions
 ---
 
+## Can I use the 5th edition of Watson's book?
+
+I can't say I have extensively researched the differences between the two editions, but have had a look at the 5th edition and at least on the surface it does not seem to have any significant difference with the 6th edition, particularly with regard to what we cover. But unfortunately I can’t guaranty that no part of the chapters has been updated. If you intend to use 5th edition, at least make sure you have verified the order and the topic of the chapters in each version and their eventual differences. Here is the TOC of the 6th edition: http://richardtwatson.com/dm6e/Reader/contents.html
+
 ## Can I have a copy of the syllabus in PDF?
 
 Oh, you disappoint me... ;) [Of course you can]({{ site.baseurl }}/public/misc/insy437638.pdf), but it won't be updated during the trimester, so please check this website regularly, instead of relying on the PDF.

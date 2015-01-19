@@ -1,3 +1,3 @@
 # Data and Database Management
 
-Companion website for my Data and Database Management Course
+Companion website for Data and Database Management Course

@@ -83,3 +83,29 @@ Readings:
 - Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 ***
+
+### Session 8 - Jan. 29
+## Databases: Link Your Lists
+
+Concepts: Relations, Foreign Keys
+
+Commands: Join
+
+Readings: Read Watson Ch. 4 & 5
+
+***
+
+### Session 9 - Feb. 3
+## Data & Society: Open Data
+
+Check out the following websites:
+[http://open.canada.ca](http://open.canada.ca)
+[http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)
+[http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)
+
+Readings:
+- Read Kitchin Ch. 3
+- Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+- Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
+
+***

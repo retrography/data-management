@@ -7,7 +7,7 @@ title: Course Outline
 
 Deliverables: Install MySQL Workbench
 
-[Slides]({{ site.baseurl}}/public/slides/session_1.pdf)
+[Slides]({{ site.baseurl}}/public/slides/session_01.pdf)
 
 ***
 
@@ -23,7 +23,7 @@ Readings:
 
 Concepts: Data, Data Formats, Data Storage Systems
 
-[Slides]({{ site.baseurl}}/public/slides/session_2.pdf)
+[Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
 
 ***
 
@@ -36,6 +36,8 @@ Activities: Discussing The Project
 
 Slides
 
+[Slides]({{ site.baseurl}}/public/slides/session_03.pdf)
+
 ***
 
 ### Session 4 - Jan. 15
@@ -47,7 +49,7 @@ Concepts: Fields, Data Types, Null Value, Tables, Keys, Indexes, Constraints, Un
 
 Commands: Create, Select, Insert, Update, Delete, Drop, Alter, Where
 
-[Slides]({{ site.baseurl}}/public/slides/session_4.pdf)
+[Slides]({{ site.baseurl}}/public/slides/session_04.pdf)
 
 ***
 
@@ -59,6 +61,8 @@ Readings:
 - Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data Driven Business Models.pdf)
 - Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
+
+[Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
 
 ***
 

@@ -98,10 +98,10 @@ Readings: Read Watson Ch. 4 & 5
 ### Session 9 - Feb. 3
 ## Data & Society: Open Data
 
-Check out the following websites:
-[http://open.canada.ca](http://open.canada.ca)
-[http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)
-[http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)
+Check out the following websites:<br />
+[http://open.canada.ca](http://open.canada.ca)<br />
+[http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)<br />
+[http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)<br />
 
 Readings:
 - Read Kitchin Ch. 3

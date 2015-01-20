@@ -219,3 +219,28 @@ Readings:
 [The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
 
 ***
+
+### Session 20 - Mar. 19
+## NoSQL: Document Databases & Big Data Stacks
+
+Deliverable:Exercise 2 Due
+
+Readings:
+- Read: [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
+- Have a look at: [The MongoDB 2.6 Manual](http://docs.mongodb.org/manual/)
+
+***
+
+### Session 21 - Mar. 24
+## Data & Society: Data Ownership and Privacy
+
+Readings:
+- Read Kitchin Ch. 10
+- Have a look at the following news articles:<br />
+[The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)<br />
+[EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
+[A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
+- And if you have time:
+[Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+
+***

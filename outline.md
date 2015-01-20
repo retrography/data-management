@@ -149,3 +149,16 @@ Deliverables:
 - Install dbeaver
 
 ***
+
+### Session 13 - Feb. 17
+## Data & Business: Data Science and Data-Driven Decision Making
+
+Deliverable: Submit one or two questions for mid-term quiz
+
+Readings:
+- Read Kitchin Ch. 6
+- Have a look at the following articles:<br /> 
+[McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)<br /> 
+[Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+
+***

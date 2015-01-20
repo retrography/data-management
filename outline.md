@@ -182,3 +182,40 @@ Discussing The Project: Project mini-presentations (2-3 minutes pergroup). No pa
 Deliverable: Submit one-page description of your project and register your group
 
 ***
+
+### Session 16 - Feb. 26
+## Quiz 1
+
+***
+
+### Session 17 - Mar. 26
+## Databases: Modeling and Normalization
+
+Distributing Exercise 2
+
+Read Watson Ch. 7 & 8
+
+***
+
+### Session 18 - Mar. 12
+## Databases: Dimensional Data for Data Warehousing and BI MapReduce, Hadoop and Distributed Data
+
+Discussing The Project:Informal progress report (2-3 minutes pergroup). No particular preparation required.
+
+Read Watson Ch. 13
+
+***
+
+### Session 19 - Mar. 12
+## Data & Business: Information Security
+
+Readings:
+- Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
+- Have a look at the following news articles:<br /> 
+[Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)<br /> 
+[Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br /> 
+-And one of these two:<br /> 
+[Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
+[The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
+
+***

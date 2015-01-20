@@ -63,6 +63,7 @@ Readings:
 - Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
 
 [Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
+[Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
 
 ***
 

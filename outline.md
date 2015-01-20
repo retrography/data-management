@@ -134,3 +134,18 @@ Readings:
 [Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
 
 ***
+
+### Session 12 - Feb. 12
+## Databases: ETL
+
+Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
+
+Commands: String Functions, Data Casting, Regexp
+
+Practice: Importing and exporting different file formats, ETL tools
+
+Deliverables:
+- Exercise 1 Due
+- Install dbeaver
+
+***

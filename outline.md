@@ -214,7 +214,7 @@ Readings:
 - Have a look at the following news articles:<br /> 
 [Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)<br /> 
 [Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br /> 
--And one of these two:<br /> 
+- And one of these two:<br /> 
 [Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
 [The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
 

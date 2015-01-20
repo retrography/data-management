@@ -73,4 +73,13 @@ Readings: Skim Watson Ch. 10
 
 ***
 
-# TBC
+### Session 7 - Jan. 27
+## Data & Business: Cloud Services and Hosted Data
+
+Readings: 
+
+- Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
+- Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
+- Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+
+***

@@ -173,3 +173,12 @@ Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH
 Have a look at Watson Ref. 2 (SQL Playbook)
 
 ***
+
+### Session 15 - Feb. 24
+## Workshop 1: Project Kickstart
+
+Discussing The Project: Project mini-presentations (2-3 minutes pergroup). No particular preparation needed.
+
+Deliverable: Submit one-page description of your project and register your group
+
+***

@@ -162,3 +162,14 @@ Readings:
 [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
+
+### Session 14 - Feb. 19
+## Databases: CRUD Operations, Views, Reporting
+
+Deliverable: Install LibreOffice
+
+Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH40-BaseHandbook.pdf)
+
+Have a look at Watson Ref. 2 (SQL Playbook)
+
+***

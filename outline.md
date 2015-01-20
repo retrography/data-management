@@ -207,7 +207,7 @@ Read Watson Ch. 13
 
 ***
 
-### Session 19 - Mar. 12
+### Session 19 - Mar. 17
 ## Data & Business: Information Security
 
 Readings:

@@ -109,3 +109,28 @@ Readings:
 - Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
 
 ***
+
+### Session 10 - Feb. 5
+## Databases: Let The Links Flourish
+
+Concepts: Entity Relationship Diagrams, Complex Relations, Complex Joins
+
+Commands: Types of join, Union
+
+Distributing Exercise 1
+
+Readings: Read Watson Ch. 6 & 9
+
+***
+
+### Session 11 - Feb. 10
+## Data & Society: The Data Deluge and Big Data
+
+Readings:
+- Read Kitchin Ch. 4
+- Skim Kitchin Ch. 5
+- Have a look at the following press article:<br /> 
+[Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)<br />
+[Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
+
+***

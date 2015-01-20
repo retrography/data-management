@@ -184,7 +184,8 @@ Deliverable: Submit one-page description of your project and register your group
 ***
 
 ### Session 16 - Feb. 26
-## Quiz 1
+
+Quiz 1
 
 ***
 
@@ -223,7 +224,7 @@ Readings:
 ### Session 20 - Mar. 19
 ## NoSQL: Document Databases & Big Data Stacks
 
-Deliverable:Exercise 2 Due
+Deliverable: Exercise 2 Due
 
 Readings:
 - Read: [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
@@ -242,5 +243,38 @@ Readings:
 [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
 - And if you have time:
 [Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+
+***
+
+### Session 22 - Mar. 26
+## NoSQL: Graph Databases
+
+Deliverable: Submit one or two questions for the final quiz
+
+Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
+
+***
+
+### Session 23 - Mar. 31
+
+Workshop 2: Project Capstone
+
+***
+
+### Session 23 - Mar. 31
+
+Workshop 2: Project Capstone
+
+***
+
+### Session 24 - Apr. 02
+
+Quiz 2
+
+***
+
+### Session 25 - Apr. 07
+
+Project Presentations
 
 ***

@@ -265,12 +265,6 @@ Workshop 2: Project Capstone
 
 ***
 
-### Session 23 - Mar. 31
-
-Workshop 2: Project Capstone
-
-***
-
 ### Session 24 - Apr. 02
 
 Quiz 2

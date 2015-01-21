@@ -21,7 +21,7 @@ Readings:
 - Read Kitchin Ch. 1 (stop at “Temporally and spatially”)
 - Skim Kitchin Ch. 2
 
-Concepts: Data, Data Formats, Data Storage Systems
+Concepts: Data, Data Formats, Data Types, Data Structures, Data Storage Systems
 
 [Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
 
@@ -34,8 +34,6 @@ Readings: Read Watson Section 1 - Ch. 1 & 2
 
 Activities: Discussing The Project
 
-Slides
-
 [Slides]({{ site.baseurl}}/public/slides/session_03.pdf)
 
 ***
@@ -45,9 +43,9 @@ Slides
 
 Readings: Read Watson Ch. 3
 
-Concepts: Fields, Data Types, Null Value, Tables, Keys, Indexes, Constraints, Uniqueness and Auto-increment 
+Concepts: Fields, Data Types, Null Value, Tables, Constraints, Auto-increment, Filtering, Logical Operators 
 
-Commands: Create, Select, Insert, Update, Delete, Drop, Alter, Where
+Commands: `CREATE TABLE`, `SELECT`, `INSERT`, `UPDATE`, `DELETE FROM`, `TRUNCATE TABLE`, `DROP TABLE`, `ALTER TABLE`, `WHERE`, `IN`, `LIKE`, `BETWEEN`, `AND`, `OR`, `NOT`, `LIMIT`, `NOT NULL`, `DEFAULT`, `CHECK`, `UNIQUE`, `PRIMARY KEY`
 
 [Slides]({{ site.baseurl}}/public/slides/session_04.pdf)
 
@@ -62,16 +60,20 @@ Readings:
 - Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
 
-[Slides]({{ site.baseurl}}/public/slides/session_05.pdf) | [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
+Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
+
+[Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
 
 ***
 
 ### Session 6 - Jan. 22
 ## Databases: Retrieve Your Lists
 
-Concepts: Sorting, Filtering, Aggregation, Grouping
+Deliverable: Make sure you know how to create a table, how to insert data into it and how to fetch data out of it
 
-Commands: Order By, Distinct, Group By, Aggregate Functions, Having, In, Not In, Like, Between
+Concepts: Sorting, Aggregating, Grouping
+
+Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `MIN`, `MAX`, `AVG`, `GROUP BY`, `HAVING`
 
 Readings: Skim Watson Ch. 10
 
@@ -80,7 +82,7 @@ Readings: Skim Watson Ch. 10
 ### Session 7 - Jan. 27
 ## Data & Business: Cloud Services and Hosted Data
 
-Readings: 
+Readings:
 
 - Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
 - Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
@@ -91,9 +93,9 @@ Readings:
 ### Session 8 - Jan. 29
 ## Databases: Link Your Lists
 
-Concepts: Relations, Foreign Keys
+Concepts: Entity Relationship Diagrams, Relations, Foreign Keys, Indexes, Subqueries, Aliases
 
-Commands: Join
+Commands: `FOREIGN KEY`, `JOIN`, `UNION`, `EXISTS`, `CREATE INDEX`, `CREATE TABLE LIKE`, `INSERT INTO SELECT`
 
 Readings: Read Watson Ch. 4 & 5
 
@@ -102,12 +104,16 @@ Readings: Read Watson Ch. 4 & 5
 ### Session 9 - Feb. 3
 ## Data & Society: Open Data
 
-Check out the following websites:<br />
-[http://open.canada.ca](http://open.canada.ca)<br />
-[http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)<br />
-[http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)<br />
+Deliverables:
+
+Check out the following websites:
+
+- [http://open.canada.ca](http://open.canada.ca)
+- [http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)
+- [http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)
 
 Readings:
+
 - Read Kitchin Ch. 3
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
@@ -117,11 +123,11 @@ Readings:
 ### Session 10 - Feb. 5
 ## Databases: Let The Links Flourish
 
-Concepts: Entity Relationship Diagrams, Complex Relations, Complex Joins
+Concepts: Complex Relations, Complex Joins, Complex Unions
 
-Commands: Types of join, Union
+Commands: `INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`, `UNION ALL`, `UNION DISTINCT`
 
-Distributing Exercise 1
+Activities: Distributing Exercise 1
 
 Readings: Read Watson Ch. 6 & 9
 
@@ -131,26 +137,27 @@ Readings: Read Watson Ch. 6 & 9
 ## Data & Society: The Data Deluge and Big Data
 
 Readings:
+
 - Read Kitchin Ch. 4
 - Skim Kitchin Ch. 5
-- Have a look at the following press article:<br /> 
-[Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)<br />
-[Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
+- Have a look at [Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)
+- Have a look at [Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
 
 ***
 
 ### Session 12 - Feb. 12
 ## Databases: ETL
 
+Deliverables:
+
+- Exercise 1 due
+- Install dbeaver
+
 Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
 
-Commands: String Functions, Data Casting, Regexp
+Commands: String Functions, Date Functions, Data Casting, Regexp, SQL Wildcards (% , _)
 
-Practice: Importing and exporting different file formats, ETL tools
-
-Deliverables:
-- Exercise 1 Due
-- Install dbeaver
+Activities: Importing, exporting and transforming different file formats
 
 ***
 
@@ -160,17 +167,19 @@ Deliverables:
 Deliverable: Submit one or two questions for mid-term quiz
 
 Readings:
+
 - Read Kitchin Ch. 6
-- Have a look at the following articles:<br /> 
-[McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)<br /> 
-[Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
+- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 
 ### Session 14 - Feb. 19
-## Databases: CRUD Operations, Views, Reporting
+## Databases: CRUD Operations and Reporting
 
 Deliverable: Install LibreOffice
+
+Commands: `CREATE VIEW`, `ALTER VIEW`, `DROP VIEW`
 
 Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH40-BaseHandbook.pdf)
 
@@ -181,9 +190,14 @@ Have a look at Watson Ref. 2 (SQL Playbook)
 ### Session 15 - Feb. 24
 ## Workshop 1: Project Kickstart
 
-Discussing The Project: Project mini-presentations (2-3 minutes pergroup). No particular preparation needed.
-
 Deliverable: Submit one-page description of your project and register your group
+
+Commands: `USE`, `CREATE DATABASE`, `DROP DATABASE`
+
+Activities:
+
+- Setting up an AWS server if the group needs common space
+- Discussing the project - Project mini-presentations (2-3 minutes pergroup). One slide needed.
 
 ***
 
@@ -205,7 +219,7 @@ Read Watson Ch. 7 & 8
 ### Session 18 - Mar. 12
 ## Databases: Dimensional Data for Data Warehousing and BI MapReduce, Hadoop and Distributed Data
 
-Discussing The Project:Informal progress report (2-3 minutes pergroup). No particular preparation required.
+Discussing The Project: Informal progress report (2-3 minutes pergroup). No particular preparation required.
 
 Read Watson Ch. 13
 
@@ -215,13 +229,13 @@ Read Watson Ch. 13
 ## Data & Business: Information Security
 
 Readings:
+
 - Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
-- Have a look at the following news articles:<br /> 
-[Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)<br /> 
-[Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br /> 
-- And one of these two:<br /> 
-[Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
-[The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
+- Have a look at [Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)
+- Have a look at [Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br />
+- Have a look at one of the following (FP is the more interesting one):
+    - [Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
+    - [The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
 
 ***
 
@@ -231,8 +245,9 @@ Readings:
 Deliverable: Exercise 2 Due
 
 Readings:
-- Read: [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
-- Have a look at: [The MongoDB 2.6 Manual](http://docs.mongodb.org/manual/)
+
+- Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
+- Have a look at [The MongoDB 2.6 Manual](http://docs.mongodb.org/manual/)
 
 ***
 
@@ -240,13 +255,12 @@ Readings:
 ## Data & Society: Data Ownership and Privacy
 
 Readings:
+
 - Read Kitchin Ch. 10
-- Have a look at the following news articles:<br />
-[The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)<br />
-[EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
-[A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- And if you have time:
-[Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+- Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+- Have a look at [EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
+- Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
+- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
 
 ***
 
@@ -255,30 +269,26 @@ Readings:
 
 Deliverable: Submit one or two questions for the final quiz
 
-Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
+Readings: Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
 
 ***
 
 ### Session 23 - Mar. 31
-
-Workshop 2: Project Capstone
+## Workshop 2: Project Capstone
 
 ***
 
 ### Session 24 - Apr. 02
-
-Quiz 2
+## Quiz 2
 
 ***
 
 ### Session 25 - Apr. 07
-
-Project Presentations
+## Project Presentations
 
 ***
 
 ### Session 26 - Apr. 09
-
-Project Presentations
+## Project Presentations
 
 ***

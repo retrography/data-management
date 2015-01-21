@@ -9,7 +9,7 @@ I can't say I have extensively researched the differences between the two editio
 
 ## Can I have a copy of the syllabus in PDF?
 
-Oh, you disappoint me... ;) [Of course you can]({{ site.baseurl }}/public/misc/insy437638.pdf), but it won't be updated during the trimester, so please check this website regularly, instead of relying on the PDF.
+Oh, you disappoint me... ;) [Of course you can]({{ site.baseurl }}/public/misc/insy437638.pdf), but it won't be updated during the trimester, so please check this website regularly instead of relying on the PDF.    
 
 ## I haven't learned anything up to know, is there any way to learn SQL overnight?
 
@@ -30,3 +30,6 @@ Whatever works. Typically, double quotes on Heroku and single quotes on Amazon. 
 ## Is there any good SQL command reference you recommend?
 
 There are many good ones, but almost all of them exclusively cover standard-based SQL. If you want a reference for MySQL's flavor of SQL, read [MySQL's reference manual](https://dev.mysql.com/doc/refman/5.1/en/sql-syntax.html). If you want a quick reference for everyday use, you can find one [here](http://www.1keydata.com/sql/sql.html).
+
+
+<!--- queries for database access, also how to create fake data --->

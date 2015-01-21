@@ -77,4 +77,214 @@ Readings: Skim Watson Ch. 10
 
 ***
 
-# TBC
+### Session 7 - Jan. 27
+## Data & Business: Cloud Services and Hosted Data
+
+Readings: 
+
+- Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
+- Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
+- Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+
+***
+
+### Session 8 - Jan. 29
+## Databases: Link Your Lists
+
+Concepts: Relations, Foreign Keys
+
+Commands: Join
+
+Readings: Read Watson Ch. 4 & 5
+
+***
+
+### Session 9 - Feb. 3
+## Data & Society: Open Data
+
+Check out the following websites:<br />
+[http://open.canada.ca](http://open.canada.ca)<br />
+[http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)<br />
+[http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)<br />
+
+Readings:
+- Read Kitchin Ch. 3
+- Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+- Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
+
+***
+
+### Session 10 - Feb. 5
+## Databases: Let The Links Flourish
+
+Concepts: Entity Relationship Diagrams, Complex Relations, Complex Joins
+
+Commands: Types of join, Union
+
+Distributing Exercise 1
+
+Readings: Read Watson Ch. 6 & 9
+
+***
+
+### Session 11 - Feb. 10
+## Data & Society: The Data Deluge and Big Data
+
+Readings:
+- Read Kitchin Ch. 4
+- Skim Kitchin Ch. 5
+- Have a look at the following press article:<br /> 
+[Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)<br />
+[Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
+
+***
+
+### Session 12 - Feb. 12
+## Databases: ETL
+
+Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
+
+Commands: String Functions, Data Casting, Regexp
+
+Practice: Importing and exporting different file formats, ETL tools
+
+Deliverables:
+- Exercise 1 Due
+- Install dbeaver
+
+***
+
+### Session 13 - Feb. 17
+## Data & Business: Data Science and Data-Driven Decision Making
+
+Deliverable: Submit one or two questions for mid-term quiz
+
+Readings:
+- Read Kitchin Ch. 6
+- Have a look at the following articles:<br /> 
+[McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)<br /> 
+[Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+
+***
+
+### Session 14 - Feb. 19
+## Databases: CRUD Operations, Views, Reporting
+
+Deliverable: Install LibreOffice
+
+Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH40-BaseHandbook.pdf)
+
+Have a look at Watson Ref. 2 (SQL Playbook)
+
+***
+
+### Session 15 - Feb. 24
+## Workshop 1: Project Kickstart
+
+Discussing The Project: Project mini-presentations (2-3 minutes pergroup). No particular preparation needed.
+
+Deliverable: Submit one-page description of your project and register your group
+
+***
+
+### Session 16 - Feb. 26
+
+Quiz 1
+
+***
+
+### Session 17 - Mar. 26
+## Databases: Modeling and Normalization
+
+Distributing Exercise 2
+
+Read Watson Ch. 7 & 8
+
+***
+
+### Session 18 - Mar. 12
+## Databases: Dimensional Data for Data Warehousing and BI MapReduce, Hadoop and Distributed Data
+
+Discussing The Project:Informal progress report (2-3 minutes pergroup). No particular preparation required.
+
+Read Watson Ch. 13
+
+***
+
+### Session 19 - Mar. 17
+## Data & Business: Information Security
+
+Readings:
+- Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
+- Have a look at the following news articles:<br /> 
+[Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)<br /> 
+[Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br /> 
+- And one of these two:<br /> 
+[Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
+[The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
+
+***
+
+### Session 20 - Mar. 19
+## NoSQL: Document Databases & Big Data Stacks
+
+Deliverable: Exercise 2 Due
+
+Readings:
+- Read: [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
+- Have a look at: [The MongoDB 2.6 Manual](http://docs.mongodb.org/manual/)
+
+***
+
+### Session 21 - Mar. 24
+## Data & Society: Data Ownership and Privacy
+
+Readings:
+- Read Kitchin Ch. 10
+- Have a look at the following news articles:<br />
+[The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)<br />
+[EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
+[A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
+- And if you have time:
+[Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+
+***
+
+### Session 22 - Mar. 26
+## NoSQL: Graph Databases
+
+Deliverable: Submit one or two questions for the final quiz
+
+Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
+
+***
+
+### Session 23 - Mar. 31
+
+Workshop 2: Project Capstone
+
+***
+
+### Session 23 - Mar. 31
+
+Workshop 2: Project Capstone
+
+***
+
+### Session 24 - Apr. 02
+
+Quiz 2
+
+***
+
+### Session 25 - Apr. 07
+
+Project Presentations
+
+***
+
+### Session 26 - Apr. 09
+
+Project Presentations
+
+***

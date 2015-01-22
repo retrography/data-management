@@ -77,7 +77,7 @@ Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `GROUP BY
 
 Readings: Skim Watson Ch. 10
 
-Activities: [Class Exercise]({{ site.base-url }}/exercises/session_06)
+Activities: [Class Exercise]({{ site.base-url }}/data-management/exercises/session_06)
 
 [Slides]({{ site.base-url }}/public/slides/session_06.pdf)
 

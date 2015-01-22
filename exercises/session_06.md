@@ -9,14 +9,12 @@ Let's first make sure we all have the same table specifications to start with. R
 DROP TABLE IF EXISTS people;
 
 CREATE TABLE people
-(
-    `id` int(11) NOT NULL AUTO_INCREMENT,
+    (`id` int(11) NOT NULL AUTO_INCREMENT,
     `first_name` varchar(45) NOT NULL,
     `last_name` varchar(45) NOT NULL,
     `birth_date` date DEFAULT NULL,
     PRIMARY KEY (`id`),
-    UNIQUE KEY `id_UNIQUE` (`id`)
-);
+    UNIQUE KEY `id_UNIQUE` (`id`));
 {% endhighlight %}
 
 Now check your email and save the `.csv` file you have received. This is the list of the students in the class. Open the file in notepad, textedit, or any other text editor you usually use. Have a look at the columns and figure out what additional columns you will need in your "people" table to import the data. Then try to determine the data types and the constraints that fit them the best.
@@ -38,7 +36,7 @@ Now check your email and save the `.csv` file you have received. This is the lis
 - Delete the intruder who has crept into the class list from the table
 - Import the class list using MySQLWorkbench's graphic interface:
 
-[!Import CSV Recordset]({{ site.base-url }}/public/images/import.png)
+[!Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
 
 - Write a query that shows the students in their 3rd year
 - How many people are there in the class?

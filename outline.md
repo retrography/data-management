@@ -73,9 +73,14 @@ Deliverable: Make sure you know how to create a table, how to insert data into i
 
 Concepts: Sorting, Aggregating, Grouping
 
-Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `MIN`, `MAX`, `AVG`, `GROUP BY`, `HAVING`
+Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `GROUP BY`, `HAVING`
 
 Readings: Skim Watson Ch. 10
+
+Activities: [Class Exercise]({{ site.base-url }}/exercises/session_06)
+
+[Slides]({{ site.base-url }}/public/slides/session_06.pdf)
+
 
 ***
 

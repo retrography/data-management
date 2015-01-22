@@ -36,7 +36,7 @@ Now check your email and save the `.csv` file you have received. This is the lis
 - Delete the intruder who has crept into the class list from the table
 - Import the class list using MySQLWorkbench's graphic interface:
 
-[!Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
+![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
 
 - Write a query that shows the students in their 3rd year
 - How many people are there in the class?

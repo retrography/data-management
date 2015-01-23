@@ -191,11 +191,15 @@ div.highlight pre {
 }
 
 pre code {
-  padding: 10px 10px 10px 10px;
+  padding: 0px;
 /*  font-size: 85%;*/
   color: inherit;
   background-color: transparent;
   line-height: 1.4em;
+}
+
+code span {
+	margin: 0px 10px 0px 10px;
 }
 
 pre span.lineno {

@@ -187,12 +187,11 @@ div.highlight pre {
   box-shadow: 0 1px rgba(255, 255, 255, 0.75), inset 0 1px 3px rgba(0, 0, 0, 0.07);*/
   border: dashed 1px #dedede;
   overflow-y: hidden;
-  padding: 10;
   
 }
 
 pre code {
-  padding: 10px;
+  padding: 0px;
 /*  font-size: 85%;*/
   color: inherit;
   background-color: transparent;
@@ -239,7 +238,7 @@ pre span.lineno:only-of-type {
 
 /* Pygments via Jekyll */
 .highlight {
-  margin: 5rem;
+  margin-bottom: 1rem;
   border-radius: 3px;
 }
 .highlight pre {

@@ -61,9 +61,11 @@ Email | mahmood.shafeiezargar@mcgill.ca
 
 - Write a query that shows the students in their 3rd year
 
-# Solution to Part 1
+## Solution to Part 1
 
 {% gist retrography/f7b2e148dce14ba00794 %}
+
+## Part 2
 
 - How many people are there in the class?
 - How many students are there in the class?

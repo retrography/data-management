@@ -5,7 +5,7 @@ title: Class Exercise 1
 
 Let's first make sure we all have the same table specifications to start with. Run the following lines to drop your "people" table and recreate it.
 
-{% highlight sql linenos %}
+{% highlight sql %}
 DROP TABLE IF EXISTS people;
 
 CREATE TABLE people (`id` int(11) NOT NULL AUTO_INCREMENT,

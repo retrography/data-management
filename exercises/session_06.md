@@ -23,22 +23,6 @@ Now check your email and save the `.csv` file you have received. This is the lis
 
 - Use `ALTER TABLE` to modify the table
 
-{% highlight sql %}
-
-ALTER TABLE people
-ADD mcgill_id CHAR(9) NOT NULL UNIQUE,
-ADD reg_status ENUM('Web Registered','Registered', 'Unregistered'),
-ADD level ENUM('Undergraduate','Graduate'),
-ADD credits DECIMAL(4,2),
-ADD degree ENUM('No Degree','Bachelor of Commerce','Master of Business Administration','Doctor of Philosphy','Bachelor of Software Engr'),
-ADD program ENUM('Exchange/Special/Visiting Mgmt','B Software Engineering','B Com Major','B Com General Management','PhD Management','MBA Major'),
-ADD major VARCHAR(45),
-ADD class VARCHAR(45),
-ADD star BIT,
-ADD email VARCHAR(45) NOT NULL;
-
-{% endhighlight %}
-
 - Insert some information about me in the table using `INSERT INTO` in order to make sure the specifications are correct
 
 Field | Value

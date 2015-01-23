@@ -22,14 +22,23 @@ Now check your email and save the `.csv` file you have received. This is the lis
 - Insert some information about me in the table using `INSERT INTO` in order to make sure the specifications are correct
 
 > First Name: Mahmood
+>
 > Last Name: Zargar
+>
 > Birth Date: Jan 15, 1982
+>
 > McGill ID: 260403725
+>
 > Level: Graduate
+>
 > Degree: Doctor of Philosophy
+>
 > Program: PhD Management
+>
 > Major: Information Systems
+>
 > Class: G Level Year 4
+>
 > Email: mahmood.shafeiezargar@mcgill.ca
 
 - Delete the intruder who has crept into the class list from the table

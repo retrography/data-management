@@ -3,22 +3,42 @@ layout: default
 title: Class Exercise 1
 ---
 
+## Part 1
+
 Let's first make sure we all have the same table specifications to start with. Run the following lines to drop your "people" table and recreate it.
 
 {% highlight sql %}
+
 DROP TABLE IF EXISTS people;
 
-CREATE TABLE people (`id` int(11) NOT NULL AUTO_INCREMENT,
-`first_name` varchar(45) NOT NULL,
-`last_name` varchar(45) NOT NULL,
-`birth_date` date DEFAULT NULL,
-PRIMARY KEY (`id`),
-UNIQUE KEY `id_UNIQUE` (`id`));
+CREATE TABLE people (id int(11) NOT NULL UNIQUE AUTO_INCREMENT,
+first_name varchar(45) NOT NULL,
+last_name varchar(45) NOT NULL,
+birth_date date DEFAULT NULL,
+PRIMARY KEY (id));
+
 {% endhighlight %}
 
 Now check your email and save the `.csv` file you have received. This is the list of the students in the class. Open the file in notepad, textedit, or any other text editor you usually use. Have a look at the columns and figure out what additional columns you will need in your "people" table to import the data. Then try to determine the data types and the constraints that fit them the best.
 
 - Use `ALTER TABLE` to modify the table
+
+{% highlight sql %}
+
+ALTER TABLE people
+ADD mcgill_id CHAR(9) NOT NULL UNIQUE,
+ADD reg_status ENUM('Web Registered','Registered', 'Unregistered'),
+ADD level ENUM('Undergraduate','Graduate'),
+ADD credits DECIMAL(4,2),
+ADD degree ENUM('No Degree','Bachelor of Commerce','Master of Business Administration','Doctor of Philosphy','Bachelor of Software Engr'),
+ADD program ENUM('Exchange/Special/Visiting Mgmt','B Software Engineering','B Com Major','B Com General Management','PhD Management','MBA Major'),
+ADD major VARCHAR(45),
+ADD class VARCHAR(45),
+ADD star BIT,
+ADD email VARCHAR(45) NOT NULL;
+
+{% endhighlight %}
+
 - Insert some information about me in the table using `INSERT INTO` in order to make sure the specifications are correct
 
 Field | Value
@@ -27,7 +47,7 @@ First Name | Mahmood
 Last Name | Zargar
 Birth Date | Jan 15, 1982
 McGill ID | 260403725
-Leve l| Graduate
+Level| Graduate
 Degree | Doctor of Philosophy
 Program | PhD Management
 Major | Information Systems
@@ -40,6 +60,11 @@ Email | mahmood.shafeiezargar@mcgill.ca
 ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
 
 - Write a query that shows the students in their 3rd year
+
+# Solution to Part 1
+
+{% gist retrography/f7b2e148dce14ba00794 %}
+
 - How many people are there in the class?
 - How many students are there in the class?
 - Write a query that shows the number of students in their 2nd year

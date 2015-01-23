@@ -159,7 +159,7 @@ abbr[title] {
 
 code {
   font-family: Monaco, Menlo, "Courier New", monospace;
-  padding: .25em .5em;
+  padding: .25em 2em;
   font-size: 0.85em;
   color: #bf616a;
   background-color: #f9f9f9;
@@ -196,10 +196,6 @@ pre code {
   color: inherit;
   background-color: transparent;
   line-height: 1.4em;
-}
-
-code span {
-	margin: 0px 10px 0px 10px;
 }
 
 pre span.lineno {

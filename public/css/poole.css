@@ -192,7 +192,7 @@ div.highlight pre {
 }
 
 pre code {
-  padding: 5em;
+  padding: 10px;
 /*  font-size: 85%;*/
   color: inherit;
   background-color: transparent;
@@ -224,9 +224,9 @@ pre span.lineno {
 
 pre span.lineno:first-of-type {
   padding-top: 10px;
-  -webkit-box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 1px inset;
+  /*-webkit-box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 1px inset;
   -moz-box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 1px inset;
-  box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 1px inset;
+  box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 1px inset;*/
 }
 
 pre span.lineno:last-of-type {
@@ -239,8 +239,8 @@ pre span.lineno:only-of-type {
 
 /* Pygments via Jekyll */
 .highlight {
-  margin-bottom: 1rem;
-  border-radius: 4px;
+  margin: 5rem;
+  border-radius: 3px;
 }
 .highlight pre {
   margin-bottom: 0;
@@ -317,13 +317,8 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px dashed #e5e5e5;
+  border: 1px solid #e5e5e5;
   border-collapse: collapse;
-  webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
   background-color: #fdfdfd;
 }
 td,

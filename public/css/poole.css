@@ -191,8 +191,7 @@ div.highlight pre {
 }
 
 pre code {
-  padding: 0px;
-  margin: 20px;
+  padding: 10px 10px 10px 10px;
 /*  font-size: 85%;*/
   color: inherit;
   background-color: transparent;

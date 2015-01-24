@@ -43,9 +43,9 @@ Have a look at [generatedata.com](http://www.generatedata.com) as well as [mocka
 - http://data.un.org
 - https://openlibrary.org/data
 
-## Ugh, even the course outline is in a database. Can you give me some SQL commands that let me check the outline?
+## Oops, even the course outline is in a database! Can you give me some SQL commands that help me check the course outline?
 
-I hope by that you mean something beyond `SELECT * FROM table_name;` that you should probably know by today.
+I hope by that you mean something beyond `SELECT * FROM table_name;` that you should probably know very well by now.
 
 Apart from that, to get a list of deliverables corresponding to each session:
 
@@ -58,3 +58,7 @@ For a list of readings assigned for each session:
 For a list of slides and other resources for each session:
 
 {% gist retrography/db50fb8757f1f6877812 %}
+
+## I need more practice!
+
+The Watson book has [a nice companion website](http://richardtwatson.com/dm6e/) with numerous examples and additional exercises.

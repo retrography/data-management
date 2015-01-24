@@ -39,6 +39,7 @@ Class | G Level Year 4
 Email | mahmood.shafeiezargar@mcgill.ca
 
 - Delete the intruder who has crept into the class list from the table
+
 - Import the class list using MySQLWorkbench's graphic interface:
 
 ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
@@ -52,13 +53,13 @@ Email | mahmood.shafeiezargar@mcgill.ca
 ## Part 2
 
 - How many people are there in the class?
-- How many students are there in the class?
+- How many registered or web-registered students are there in the class?
 - Write a query that shows the number of students in their 2nd year
-- Write a query that shows the average class of students who are "Web Registered"
-- Write a query that shows the average class of students who are "Registered"
-- Write a query that compares the two above. Are the "Web Registered" students  more senior?
-- Write a query that sorts the students by their class
-- Write a query that fetches the largest number of years spent in McGill
+- Write a query that shows the average seniority of students who are "Web Registered"
+- Write a query that shows the average seniority of students who are "Registered"
+- Write a query that compares the average seniority of each of the two groups above. Are the "Web Registered" students more senior?
+- Write a query that sorts the students by their seniority
+- Write a query that fetches the row related to the person with the highest level of seniority 
 - Write a query that fetches a list of distinct majors we have in the class
 - Write a query that fetches a list of distinct majors and the number of people in them
-- Write a query that fetches a list of distinct majors with more than two students, as well as the cumulative McGill experience of the individuals in those major
+- Write a query that fetches a list of distinct majors with more than two students, as well as the cumulative McGill experience of the individuals in those majors

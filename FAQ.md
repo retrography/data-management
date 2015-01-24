@@ -29,7 +29,32 @@ Whatever works. Typically, double quotes on Heroku and single quotes on Amazon. 
 
 ## Is there any good SQL command reference you recommend?
 
-There are many good ones, but almost all of them exclusively cover standard-based SQL. If you want a reference for MySQL's flavor of SQL, read [MySQL's reference manual](https://dev.mysql.com/doc/refman/5.1/en/sql-syntax.html). If you want a quick reference for everyday use, you can find one [here](http://www.1keydata.com/sql/sql.html).
+There are many good ones, but almost all of them exclusively cover standard-based SQL. If you want a reference for MySQL's flavor of SQL, read [MySQL's reference manual](https://dev.mysql.com/doc/refman/5.1/en/sql-syntax.html). If you want a quick reference for everyday use, you can find one on [1keydata.com](http://www.1keydata.com/sql/sql.html).
 
+## How can I generate some test data to play with?
 
-<!--- queries for database access, also how to create fake data --->
+Have a look at [generatedata.com](http://www.generatedata.com) as well as [mockaroo.com](http://www.mockaroo.com).
+
+## Where can I get some real data to play with?
+
+- http://donnees.ville.montreal.qc.ca
+- http://open.canada.ca
+- http://www.données.gouv.qc.ca
+- http://data.un.org
+- https://openlibrary.org/data
+
+## Ugh, even the course outline is in a database. Can you give me some SQL commands that let me check the outline?
+
+I hope by that you mean something beyond `SELECT * FROM table_name;` that you should probably know by today.
+
+Apart from that, to get a list of deliverables corresponding to each session:
+
+{% gist retrography/6780da2187556bc09b29 %}
+
+For a list of readings assigned for each session:
+
+{% gist retrography/e6b194919af42af7075a %}
+
+For a list of slides and other resources for each session:
+
+{% gist retrography/db50fb8757f1f6877812 %}

@@ -42,7 +42,7 @@ Now check your email and save the `.csv` file you have received. This is the lis
 
 4. Import the class list using MySQLWorkbench's graphic interface:
 
-   ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
+    ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
 
 5. Write a query that shows the students in their 3rd year
 

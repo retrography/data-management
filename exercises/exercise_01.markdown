@@ -21,9 +21,9 @@ PRIMARY KEY (id));
 
 Now check your email and save the `.csv` file you have received. This is the list of the students in the class. Open the file in notepad, textedit, or any other text editor you usually use. Have a look at the columns and figure out what additional columns you will need in your "people" table to import the data. Then try to determine the data types and the constraints that fit them the best.
 
-- Use `ALTER TABLE` to modify the table
+1) Use `ALTER TABLE` to modify the table
 
-- Insert some information about me in the table using `INSERT INTO` in order to make sure the specifications are correct
+2) Insert some information about me in the table using `INSERT INTO` in order to make sure the specifications are correct
 
 Field | Value
 --- | ---
@@ -38,13 +38,13 @@ Major | Information Systems
 Class | G Level Year 4
 Email | mahmood.shafeiezargar@mcgill.ca
 
-- Delete the intruder who has crept into the class list from the table
+3) Delete the intruder who has crept into the class list from the table
 
-- Import the class list using MySQLWorkbench's graphic interface:
+4) Import the class list using MySQLWorkbench's graphic interface:
 
 ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
 
-- Write a query that shows the students in their 3rd year
+5) Write a query that shows the students in their 3rd year
 
 ## Solution to Part 1
 
@@ -52,14 +52,14 @@ Email | mahmood.shafeiezargar@mcgill.ca
 
 ## Part 2
 
-- How many people are there in the class?
-- How many registered or web-registered students are there in the class?
-- Write a query that shows the number of students in their 2nd year
-- Write a query that shows the average seniority of students who are "Web Registered"
-- Write a query that shows the average seniority of students who are "Registered"
-- Write a query that compares the average seniority of each of the two groups above. Are the "Web Registered" students more senior?
-- Write a query that sorts the students by their seniority
-- Write a query that fetches the row related to the person with the highest level of seniority 
-- Write a query that fetches a list of distinct majors we have in the class
-- Write a query that fetches a list of distinct majors and the number of people in them
-- Write a query that fetches a list of distinct majors with more than two students, as well as the cumulative McGill experience of the individuals in those majors
+1) How many people are there in the class?
+2) How many registered or web-registered students are there in the class?
+3) Write a query that returns the number of students in their 2nd year
+4) Write a query that returns the average seniority of students who are "Web Registered"
+5) Write a query that returns the average seniority of students who are "Registered"
+6) Write a query that returns the average seniority of each of the two groups above. Are the "Web Registered" students more senior?
+7) Write a query that sorts the students by their seniority
+8) Write a query that fetches the row related to the person with the highest level of seniority 
+9) Write a query that fetches a list of distinct majors we have in the class
+10) Write a query that fetches a list of distinct majors and the number of people in them
+11) Write a query that fetches a list of distinct majors with more than two students, as well as the cumulative McGill experience of the individuals in those majors

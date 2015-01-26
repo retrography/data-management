@@ -38,11 +38,11 @@ Now check your email and save the `.csv` file you have received. This is the lis
     Class | G Level Year 4
     Email | mahmood.shafeiezargar@mcgill.ca
 
-3. Delete the intruder who has crept into the class list from the table
-
 4. Import the class list using MySQLWorkbench's graphic interface:
 
     ![Import CSV Recordset]({{ site.baseurl }}/public/images/import.png)
+
+3. Delete the intruder who has crept into the class list from the table
 
 5. Write a query that shows the students in their 3rd year
 

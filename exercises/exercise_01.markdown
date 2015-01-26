@@ -58,8 +58,8 @@ Now check your email and save the `.csv` file you have received. This is the lis
 4. Write a query that returns the average seniority of students who are "Web Registered"
 5. Write a query that returns the average seniority of students who are "Registered"
 6. Write a query that returns the average seniority of each of the two groups above. Are the "Web Registered" students more senior?
-7. Write a query that sorts the students by their seniority
-8. Write a query that fetches the row related to the person with the highest level of seniority 
-9. Write a query that fetches a list of distinct majors we have in the class
-10. Write a query that fetches a list of distinct majors and the number of people in them
-11. Write a query that fetches a list of distinct majors with more than two students, as well as the cumulative McGill experience of the individuals in those majors
+7. Write a query that returns the students sorted by their by their seniority (the more senior ones first)
+8. Write a query that returns the information regarding the most senior person
+9. Write a query that returns a list of distinct majors we have in the class
+10. Write a query that returns a list of distinct majors and the number of people in each of them
+11. Write a query that returns a list of distinct majors with at least two students, as well as the cumulative McGill experience of the individuals in each major

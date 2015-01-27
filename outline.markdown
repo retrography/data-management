@@ -93,6 +93,10 @@ Readings:
 - Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
 - Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
+Activities: [Class Exercise](https://drive.google.com/open?id=1fAKJy_CSxlLUNfQmUvgOwUkXFK5BJxpScuaAF1IpxJY)
+
+[Slides]({{ site.baseurl}}/public/slides/session_07.pdf)
+
 ***
 
 ### Session 8 - Jan. 29

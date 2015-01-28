@@ -28,7 +28,7 @@ Concepts: Data, Data Formats, Data Types, Data Structures, Data Storage Systems
 ***
 
 ### Session 3 - Jan. 13
-## Data & Business: Information lifecycle of the firm
+## Data & Business: Information Lifecycle of The Firm
 
 Readings: Read Watson Section 1 - Ch. 1 & 2
 
@@ -39,7 +39,7 @@ Activities: Discussing The Project
 ***
 
 ### Session 4 - Jan. 15
-## Databases: Save Your Lists
+## Databases: Saving your lists
 
 Readings: Read Watson Ch. 3
 
@@ -52,7 +52,7 @@ Commands: `CREATE TABLE`, `SELECT`, `INSERT`, `UPDATE`, `DELETE FROM`, `TRUNCATE
 ***
 
 ### Session 5 - Jan. 20
-## Data & Business: Data-driven business models
+## Data & Business: Data-driven Business Models
 
 Readings:
 
@@ -67,7 +67,7 @@ Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZ
 ***
 
 ### Session 6 - Jan. 22
-## Databases: Retrieve Your Lists
+## Databases: Retrieving your lists
 
 Deliverable: Make sure you know how to create a table, how to insert data into it and how to fetch data out of it
 
@@ -98,7 +98,7 @@ Readings:
 ***
 
 ### Session 8 - Jan. 29
-## Databases: Link Your Lists
+## Databases: Linking your lists
 
 Concepts: Entity Relationship Diagrams, Relations, Foreign Keys, Indexes, Subqueries, Aliases
 
@@ -128,7 +128,7 @@ Readings:
 ***
 
 ### Session 10 - Feb. 5
-## Databases: Let The Links Flourish
+## Databases: Letting the links flourish
 
 Concepts: Complex Relations, Complex Joins, Complex Unions
 
@@ -224,7 +224,8 @@ Read Watson Ch. 7 & 8
 ***
 
 ### Session 18 - Mar. 12
-## Databases: Dimensional Data for Data Warehousing and BI MapReduce, Hadoop and Distributed Data
+## Databases: Dimensional Data for Data Warehousing and BI 
+## Databases: MapReduce, Hadoop and Distributed Data
 
 Discussing The Project: Informal progress report (2-3 minutes pergroup). No particular preparation required.
 

@@ -106,6 +106,8 @@ Commands: `FOREIGN KEY`, `JOIN`, `UNION`, `EXISTS`, `CREATE INDEX`, `CREATE TABL
 
 Readings: Read Watson Ch. 4 & 5
 
+[Slides]({{ site.baseurl}}/public/slides/session_08.pdf)
+
 ***
 
 ### Session 9 - Feb. 3

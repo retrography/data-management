@@ -77,7 +77,7 @@ Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `GROUP BY
 
 Readings: Skim Watson Ch. 10
 
-Activities: [Class Exercise 1]({{ site.baseurl }}/exercises/exercise_01)
+Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
 [Slides]({{ site.baseurl }}/public/slides/session_06.pdf)
 
@@ -106,7 +106,7 @@ Commands: `FOREIGN KEY`, `JOIN`, `UNION`, `EXISTS`, `CREATE INDEX`, `CREATE TABL
 
 Readings: Read Watson Ch. 4 & 5
 
-Activities: [Class Exercise 1]({{ site.baseurl }}/exercises/exercise_01)
+Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
 [Slides]({{ site.baseurl}}/public/slides/session_08.pdf)
 

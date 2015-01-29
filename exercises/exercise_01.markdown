@@ -64,8 +64,8 @@ Now check your email and save the `.csv` file you have received. This is the lis
 10. Write a query that returns a list of distinct majors and the number of people in each of them
 11. Write a query that returns a list of distinct majors with at least two students, as well as the cumulative McGill experience of the individuals in each major
 
-<!--- ## Solution to Part 2 --->
-<!--- {% gist retrography/6b419f21ee5b674f13db %} --->
+## Solution to Part 2
+{% gist retrography/6b419f21ee5b674f13db %}
 
 ## Part 3
 

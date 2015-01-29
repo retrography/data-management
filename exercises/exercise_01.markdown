@@ -66,3 +66,12 @@ Now check your email and save the `.csv` file you have received. This is the lis
 
 <!--- ## Solution to Part 2 --->
 <!--- {% gist retrography/6b419f21ee5b674f13db %} --->
+
+## Part 3
+
+Before starting Part 3 of the exercise, make sure that you have used the solution from Part 1 to recreate the table and import the data.
+
+1) Add column "team" to the table "people" as a foreign key, along with a lookup table for the foreign key that contains only a team id and a team label. Create some teams and assign students to them in a way you like.
+2) Write a query that returns the list of students along with the name of the teams they belong to. What happens to the students that are not in any team?
+3) Transform all columns in table "people" with categorical values into foreign keys and corresponding lookup tables. This includes the following columns: reg_status, level, degree, program, major.
+4) Write a query that returns the list of students with all the lookup values fetched from the lookup tables using joins. What do you think about the new design of the class database? 

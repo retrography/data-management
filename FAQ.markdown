@@ -3,6 +3,10 @@ layout: page
 title: Frequently Asked Questions
 ---
 
+## I need more practice!
+
+The Watson book has [a nice companion website](http://richardtwatson.com/dm6e/) with numerous examples and additional exercises.
+
 ## Can I use the 5th edition of Watson's book that is available as an ebook in the library?
 
 I can't say I have extensively researched the differences between the two editions, but I have had a look at the 5th edition and at least on the surface it does not seem to have any significant difference with the 6th edition, particularly with regard to what we cover. But unfortunately I can’t guaranty that no part of the chapters has been updated. If you intend to use the 5th edition, at least make sure you have verified the order and the topic of the chapters in each version and their eventual differences. [Here is the TOC of the 6th edition](http://richardtwatson.com/dm6e/Reader/contents.html).
@@ -58,7 +62,3 @@ For a list of readings assigned for each session:
 For a list of slides and other resources for each session:
 
 {% gist retrography/db50fb8757f1f6877812 %}
-
-## I need more practice!
-
-The Watson book has [a nice companion website](http://richardtwatson.com/dm6e/) with numerous examples and additional exercises.

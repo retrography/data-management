@@ -39,7 +39,7 @@ Have a look at [generatedata.com](http://www.generatedata.com) as well as [mocka
 
 - http://donnees.ville.montreal.qc.ca
 - http://open.canada.ca
-- [http://www.données.gouv.qc.ca](http://www.données.gouv.qc.ca/)
+- http://www.donnees.gouv.qc.ca
 - http://data.un.org
 - https://openlibrary.org/data
 

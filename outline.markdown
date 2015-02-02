@@ -128,6 +128,9 @@ Readings:
 - Read Kitchin Ch. 3
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
+- 
+
+Activities: Discussing the project. No special preparation required, but be ready to present your project.
 
 ***
 
@@ -137,8 +140,6 @@ Readings:
 Concepts: Complex Relations, Complex Joins, Complex Unions
 
 Commands: `INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`, `UNION ALL`, `UNION DISTINCT`
-
-Activities: Distributing Exercise 1
 
 Readings: Read Watson Ch. 6 & 9
 
@@ -161,14 +162,17 @@ Readings:
 
 Deliverables:
 
-- Exercise 1 due
 - Install dbeaver
 
 Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
 
 Commands: String Functions, Date Functions, Data Casting, Regexp, SQL Wildcards (% , _)
 
-Activities: Importing, exporting and transforming different file formats
+Activities: 
+
+- Importing, exporting and transforming different file formats
+- Distributing Exercise 2 (Graded)
+
 
 ***
 
@@ -188,7 +192,10 @@ Readings:
 ### Session 14 - Feb. 19
 ## Databases: CRUD Operations and Reporting
 
-Deliverable: Install LibreOffice
+Deliverable: 
+
+- Install LibreOffice
+- Exercise 2 due
 
 Commands: `CREATE VIEW`, `ALTER VIEW`, `DROP VIEW`
 
@@ -218,7 +225,7 @@ Quiz 1
 
 ***
 
-### Session 17 - Mar. 26
+### Session 17 - Mar. 10
 ## Databases: Modeling and Normalization
 
 Distributing Exercise 2

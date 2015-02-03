@@ -132,6 +132,8 @@ Readings:
 
 Activities: Discussing the project. No special preparation required, but be ready to present your project.
 
+[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
+
 ***
 
 ### Session 10 - Feb. 5

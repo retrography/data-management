@@ -145,6 +145,8 @@ Commands: `INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`
 
 Readings: Read Watson Ch. 6 & 9
 
+[Slides]({{ site.baseurl }}/public/slides/session_10.pdf)
+
 ***
 
 ### Session 11 - Feb. 10

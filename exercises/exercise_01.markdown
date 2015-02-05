@@ -74,4 +74,11 @@ Before starting Part 3 of the exercise, make sure that you have used the solutio
 1. Add column "team" to the table "people" as a foreign key, along with a lookup table for the foreign key that contains only a team id and a team label. Create some teams and assign students to them in a way you like.
 2. Write a query that returns the list of students along with the name of the teams they belong to. What happens to the students that are not in any team?
 3. Transform all columns in table "people" containing categorical values into foreign keys and add corresponding lookup tables for each. This includes the following columns: reg_status, level, degree, program, major.
-4. Write a query that returns the list of students with all the lookup values fetched from the lookup tables using joins. What do you think about the new design of the class database? 
+4. Write a query that returns the list of students with all the lookup values fetched from the lookup tables using joins. What do you think about the new design of the class database?
+
+## Part 4
+
+1. Make a "course" table with a many-to-many relationship to "people"
+2. Write a `JOIN` query that returns people and the courses they are taking as one list
+3. Make a new field in "people" that contains information regarding people sitting next to each othe in the class  
+4. Write a 'JOIN' query that returns people sitting next to each other in one list

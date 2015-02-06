@@ -22,15 +22,16 @@ McGill ID
 <br /><input type='text' name='id' class='form-control' /><br />
 
 Message
+<br />
+<em><sub>Please mention which exercise you are submitting.</sub></em><br />
 
 <br /><textarea name="message" class='form-control'></textarea><br />
-<em>Please mention which exercise you are submitting.</emp><br />
 
 File
+<br />
+<em><sub>Make sure you compress the file if you are submitting a text or a script.</sub></em><br />
 
 <br /><input type='file' name='file' class='form-control' /><br />
-
-<em>Make sure you compress the file if you are submitting a text or a script.</emp><br />
 
 <br /><input type='submit' value='Submit' class='form-control' />
 

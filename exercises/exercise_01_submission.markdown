@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Exercise Submission Form (Exercise 1)
+title: Exercise Submission
 ---
 
-# Exercise 1 Submission Form
+# Exercise Submission Form
 
 ---
 
 <form action="https://getsimpleform.com/messages?form_api_token=e864f49cd290bd127eeeb75cc92fd624" method="post" enctype="multipart/form-data">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-<input type='hidden' name='redirect_to' value='http://retrography.github.io/data-management/exercises/exercise_01' />
+<input type='hidden' name='redirect_to' value='http://retrography.github.io/data-management/exercises/' />
 
-<input type='hidden' name='subject' value='Exercise 1' />
+<input type='hidden' name='subject' value='an exercise submission' />
 
 Name
 
@@ -24,6 +24,7 @@ McGill ID
 Message
 
 <br /><textarea name="message" class='form-control'></textarea><br />
+<em>Please at least mention which exercise you are submitting.</emp><br />
 
 File
 

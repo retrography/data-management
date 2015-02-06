@@ -115,8 +115,6 @@ Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 ### Session 9 - Feb. 3
 ## Data & Society: Open Data
 
-Deliverables:
-
 Check out the following websites:
 
 - [http://open.canada.ca](http://open.canada.ca)

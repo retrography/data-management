@@ -3,19 +3,8 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-## How should I prepare for the first graded exercise?
-The first graded exercise (Exercise 2) is mainly about fetching and formatting data using SQL commands. So, obviously you need to know how to `SELECT` data from one or multiple tables, and apply the proper `JOIN` or `UNION` method when needed. Make sure you know how subqueries function since they are necessary for complex requests. Also make sure you know how the aggregate functions work and how you can use SQL clauses like `WHERE`, `HAVING`, `GROUP BY` and `ORDER BY` to filter, sort and group data. 
-
-You will be required to submit your response as a well-commented SQL script that I will subsequently run on my MySQL database. What defines your grade is:
-
-- Whether the code you have submitted uses the correct syntax and runs with no issue
-- Whether your code produces the expected results
-- Whether you are able to explain what the code actually does in your comments (most important)
-- Whether you have come up with your own original reponses to the creative questions (very important)
-
-If you are feeling week or unprepared in any of these areas, you have until the day the exercise is distributed to ask for a tutorial session or to simply ask questions. Also make sure you have read the course material and you have practiced enough. Practice makes perfect.
-
-You can use third-party software to generate code and you can try to solve the tough problems in small groups, but it is very important that you can describe what you have done in your own words (in comments), and provide your own creative solutions where it applies.
+## How can I prepare for graded exercise?
+See [here]({{ site.baseurl }}/exercises/preparation_02) for the first graded exercise (Exercise 2).
 
 ## I need more practice!
 

@@ -5,12 +5,13 @@ title: Exercises
 
 ## Exercise 1 (Class Exercise)
 
-- [Exercise 1]({{ site.baseurl }}/exercises/exercise_01)
+- [Exercise]({{ site.baseurl }}/exercises/exercise_01)
 - [Submission]({{ site.baseurl }}/exercises/submission)
 - Solution
 
 ## Exercise 2 (Graded)
 
+- [Preparation]({{ site.baseurl }}/exercises/preparation_02)
 - Exercise
 - Submission
 - Solution

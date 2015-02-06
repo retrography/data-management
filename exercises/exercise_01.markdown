@@ -82,3 +82,5 @@ Before starting Part 3 of the exercise, make sure that you have used the solutio
 2. Write a `JOIN` query that returns people and the courses they are taking as one list.
 3. Use the graphical user interface to make a self-referencing relationship to save the information regarding students sitting next to each other in the class. Copy the script and keep it. ___Hint:___ _Alternatively you can write the script yourself. All you have to do is to modify the people table and add an integer field and set it as a foreign key referencing the id field of the same table._
 4. Write a `JOIN` query that returns people sitting next to each other in one list. The query should return each pair of juxtaposing students in a single row. Is there any way to return all the students sitting in a row in one row of results? ___Hint:___ _You have to join the table with itself._
+
+[Submit Solution]({{ site.baseurl }}/exercises/submission)

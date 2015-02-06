@@ -93,7 +93,7 @@ Readings:
 - Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
 - Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
-[Slides]({{ site.baseurl}}/public/slides/session_07.pdf)
+[Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
 ***
 
@@ -108,7 +108,7 @@ Readings: Read Watson Ch. 4 & 5
 
 Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
-[Slides]({{ site.baseurl}}/public/slides/session_08.pdf)
+[Slides]({{ site.baseurl }}/public/slides/session_08.pdf)
 
 ***
 
@@ -128,7 +128,6 @@ Readings:
 - Read Kitchin Ch. 3
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
-- 
 
 Activities: Discussing the project. No special preparation required, but be ready to present your project.
 
@@ -144,6 +143,8 @@ Concepts: Complex Relations, Complex Joins, Complex Unions
 Commands: `INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`, `UNION ALL`, `UNION DISTINCT`
 
 Readings: Read Watson Ch. 6 & 9
+
+Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
 [Slides]({{ site.baseurl }}/public/slides/session_10.pdf)
 

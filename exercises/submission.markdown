@@ -24,13 +24,13 @@ McGill ID
 Message
 
 <br /><textarea name="message" class='form-control'></textarea><br />
-<em>Please at least mention which exercise you are submitting.</emp><br />
+<em>Please mention which exercise you are submitting.</emp><br />
 
 File
 
 <br /><input type='file' name='file' class='form-control' /><br />
 
-<em>Please compress the file before uploading it. The server suppresses uncompressed scripts and text files.</emp><br />
+<em>Make sure you compress the file if you are submitting a text or a script.</emp><br />
 
 <br /><input type='submit' value='Submit' class='form-control' />
 

@@ -5,8 +5,8 @@ title: Exercises
 
 ## Exercise 1 (Class Exercise)
 
-- [Exercise]({{ site.baseurl }}/exercises/exercise_01)
-- [Submission]({{ site.baseurl }}/exercises/exercise_01_submission)
+- [Exercise 1]({{ site.baseurl }}/exercises/exercise_01)
+- [Submission]({{ site.baseurl }}/exercises/submission)
 - Solution
 
 ## Exercise 2 (Graded)

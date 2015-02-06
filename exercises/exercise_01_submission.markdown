@@ -11,6 +11,8 @@ title: Exercise Submission Form (Exercise 1)
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
 <input type='hidden' name='redirect_to' value='http://retrography.github.io/data-management/exercises/exercise_01' />
 
+<input type='hidden' name='subject' value='Exercise 1' />
+
 Name
 
 <br /><input type='text' name='name' class='form-control' /><br />

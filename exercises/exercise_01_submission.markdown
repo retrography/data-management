@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Course Description
+title: Exercise Submission Form (Exercise 1)
 ---
+
+# Exercise 1 Submission Form
 
 <form action="https://getsimpleform.com/messages?form_api_token=e864f49cd290bd127eeeb75cc92fd624" method="post" enctype="multipart/form-data">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
@@ -19,7 +21,7 @@ Message
 
 <br /><textarea name="message" class='form-control'></textarea><br />
 
-File (Compress it first, or I won't be able to receive it!)
+File - _Please compress the file before uploading it. The server suppresses uncompressed scripts and text files._
 
 <br /><input type='file' name='file' class='form-control' /><br />
 

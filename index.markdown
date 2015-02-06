@@ -17,7 +17,7 @@ title: Course Description
 - ___For help or feedback:___
     - Come by during our office hours or ask for an appointment
     - Contact us directly by email
-    - Send me an [anonymous note](https://docs.google.com/forms/d/1A6zZo6vwcwyzfDQqiakAViRVhTKXQ9LcOMcSMocIdnM)
+    - Send me [anonymous feedback]({{ site.baseurl }}/feedback/)
 
 
 ## Course Objectives

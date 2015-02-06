@@ -9,19 +9,19 @@ title: Course Description
 
 Name
 
-<input type='text' name='name' />
+<br /><input type='text' name='name' /><br />
 
 McGill ID
 
-<input type='text' name='id' />
+<br /><input type='text' name='id' /><br />
 
 Message
 
-<textarea name="message"></textarea>
+<br /><textarea name="message"></textarea><br />
 
 File
 
-<input type='file' name='file' />
+<br /><input type='file' name='file' /><br />
 
 
 <input type='submit' value='Submit' />

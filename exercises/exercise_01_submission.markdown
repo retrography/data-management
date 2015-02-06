@@ -17,7 +17,7 @@ McGill ID
 
 Message
 
-<br /><textarea name="message" /><br />
+<br /><textarea name="message"></textarea><br />
 
 File
 

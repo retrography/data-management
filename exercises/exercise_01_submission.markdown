@@ -19,9 +19,9 @@ Message
 
 <br /><textarea name="message"></textarea><br />
 
-File
+Script
 
-<br /><input type='file' name='file' /><br />
+<br /><textarea name="message"></textarea><br />
 
 
 <input type='submit' value='Submit' />

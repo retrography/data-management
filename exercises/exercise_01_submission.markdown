@@ -5,26 +5,26 @@ title: Course Description
 
 <form action="https://getsimpleform.com/messages?form_api_token=e864f49cd290bd127eeeb75cc92fd624" method="post" enctype="multipart/form-data">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-<input type='hidden' name='redirect_to' value='http://retrography.githun.io/data-management/exercises/exercise_01' />
+<input type='hidden' name='redirect_to' value='http://retrography.github.io/data-management/exercises/exercise_01' />
 
 Name
 
-<br /><input type='text' name='name' /><br />
+<br /><input type='text' name='name' class='form-control' /><br />
 
 McGill ID
 
-<br /><input type='text' name='id' /><br />
+<br /><input type='text' name='id' class='form-control' /><br />
 
 Message
 
-<br /><textarea name="message"></textarea><br />
+<br /><textarea name="message" class='form-control'></textarea><br />
 
-File
+File (Compress it first, or I won't be able to receive it!)
 
-<br /><input type='file' name='file' /><br />
+<br /><input type='file' name='file' class='form-control' /><br />
 
 
-<input type='submit' value='Submit' />
+<input type='submit' value='Submit' class='form-control' />
 
 </form>
 

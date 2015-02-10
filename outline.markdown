@@ -158,6 +158,8 @@ Readings:
 - Have a look at [Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)
 - Have a look at [Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
 
+[Slides]({{ site.baseurl}}/public/slides/session_11.pdf)
+
 ***
 
 ### Session 12 - Feb. 12

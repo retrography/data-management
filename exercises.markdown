@@ -7,7 +7,7 @@ title: Exercises
 
 - [Exercise]({{ site.baseurl }}/exercises/exercise_01)
 - [Submission]({{ site.baseurl }}/exercises/submission)
-- [Solution](({{ site.baseurl }}/exercises/solution_01)
+- [Solution]({{ site.baseurl }}/exercises/solution_01)
 
 ## Exercise 2 (Graded)
 

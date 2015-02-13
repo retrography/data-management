@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Class Exercise 1
+title: Exercise 1 (Class)
 ---
+
+# Exercise 1 (Class)
 
 ## Part 1
 
@@ -46,10 +48,6 @@ Now check your email and save the `.csv` file you have received. This is the lis
 
 5. Write a query that shows the students in their 3rd year
 
-## Solution to Part 1
-
-{% gist retrography/f7b2e148dce14ba00794 %}
-
 ## Part 2
 
 1. How many people are there in the class?
@@ -63,9 +61,6 @@ Now check your email and save the `.csv` file you have received. This is the lis
 9. Write a query that returns a list of distinct majors we have in the class
 10. Write a query that returns a list of distinct majors and the number of people in each of them
 11. Write a query that returns a list of distinct majors with at least two students, as well as the cumulative McGill experience of the individuals in each major
-
-## Solution to Part 2
-{% gist retrography/6b419f21ee5b674f13db %}
 
 ## Part 3
 

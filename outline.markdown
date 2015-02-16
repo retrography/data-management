@@ -113,7 +113,7 @@ Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 ***
 
 ### Session 9 - Feb. 3
-## Data & Society: Open Data
+## Data & Society: Open and Linked Data
 
 Check out the following websites:
 
@@ -163,10 +163,16 @@ Readings:
 ***
 
 ### Session 12 - Feb. 12
+## Databases: SQL Q&A
+
+***
+
+### Session 13 - Feb. 17
 ## Databases: ETL
 
 Deliverables:
 
+- Submit one or two questions for mid-term quiz
 - Install dbeaver
 
 Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
@@ -176,21 +182,6 @@ Commands: String Functions, Date Functions, Data Casting, Regexp, SQL Wildcards 
 Activities: 
 
 - Importing, exporting and transforming different file formats
-- Distributing Exercise 2 (Graded)
-
-
-***
-
-### Session 13 - Feb. 17
-## Data & Business: Data Science and Data-Driven Decision Making
-
-Deliverable: Submit one or two questions for mid-term quiz
-
-Readings:
-
-- Read Kitchin Ch. 6
-- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
-- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 
@@ -200,7 +191,6 @@ Readings:
 Deliverable: 
 
 - Install LibreOffice
-- Exercise 2 due
 
 Commands: `CREATE VIEW`, `ALTER VIEW`, `DROP VIEW`
 
@@ -232,8 +222,6 @@ Quiz 1
 
 ### Session 17 - Mar. 10
 ## Databases: Modeling and Normalization
-
-Distributing Exercise 2
 
 Read Watson Ch. 7 & 8
 

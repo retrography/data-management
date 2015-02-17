@@ -183,6 +183,10 @@ Activities:
 
 - Importing, exporting and transforming different file formats
 
+[Truncated Montreal Library Data File]({{ site.baseurl }}/public/misc/bib.csv.zip)
+
+[Data casting and string transformation sample script](https://gist.github.com/retrography/7410e861473d4b3cff55)
+
 ***
 
 ### Session 14 - Feb. 19

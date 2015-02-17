@@ -187,6 +187,9 @@ Activities:
 
 [Data casting and string transformation sample script](https://gist.github.com/retrography/7410e861473d4b3cff55)
 
+
+[Slides]({{ site.baseurl }}/public/slides/session_13.pdf)
+
 ***
 
 ### Session 14 - Feb. 19

@@ -205,6 +205,10 @@ Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH
 
 Have a look at Watson Ref. 2 (SQL Playbook)
 
+Activities:
+
+- Distributing exercise 2 (Graded)
+
 ***
 
 ### Session 15 - Feb. 24
@@ -217,11 +221,16 @@ Commands: `USE`, `CREATE DATABASE`, `DROP DATABASE`
 Activities:
 
 - Setting up an AWS server if the group needs common space
+- Helping the groups start up
 - Discussing the project - Project mini-presentations (2-3 minutes pergroup). One slide needed.
 
 ***
 
 ### Session 16 - Feb. 26
+
+Deliverables:
+
+- Exercise 2 due (Students who prefer to work on the exercise after their midterms, can return their solutions until Sunday, March 1.)
 
 Quiz 1
 
@@ -231,6 +240,10 @@ Quiz 1
 ## Databases: Modeling and Normalization
 
 Read Watson Ch. 7 & 8
+
+Activities:
+
+- Distributing Exercise 3 (Graded)
 
 ***
 
@@ -261,7 +274,7 @@ Readings:
 ### Session 20 - Mar. 19
 ## NoSQL: Document Databases & Big Data Stacks
 
-Deliverable: Exercise 2 Due
+Deliverable: Exercise 3 due
 
 Readings:
 

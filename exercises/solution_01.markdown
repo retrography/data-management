@@ -17,6 +17,6 @@ title: Class Exercise 1
 
 {% gist retrography/0be3c30fa18aaf4e66bd %}
 
-<!--- ## Part 4
+## Part 4
 
-{% gist retrography/0be3c30fa18aaf4e66bd %} --->
+{% gist retrography/4274b1e2555445b76004 %} 

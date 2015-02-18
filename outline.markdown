@@ -230,7 +230,7 @@ Activities:
 
 Deliverables:
 
-- Exercise 2 due (Students who prefer to work on the exercise after their midterms, can return their solutions until Sunday, March 1.)
+- Exercise 2 due (Students who prefer to work on the exercise after their midterms, can return their solutions until Sunday, March 1st)
 
 Quiz 1
 

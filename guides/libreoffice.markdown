@@ -2,7 +2,7 @@
 layout: default
 title: Setting up LibreOffice
 ---
-# Setting up LibreOffice on your computer and connection it to your MySQL database
+# Setting up LibreOffice on your computer and connecting it to your MySQL database
 
 First download LibreOffice from [its website](http://www.libreoffice.org) and install it on your computer.
 

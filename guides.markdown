@@ -5,7 +5,7 @@ title: Setup Guides
 
 ## Heroku
 
-[Heroku](https://www.heroku.com) is the default solution we will use to get access to database servers for the course. If you haven't set it up yet, please contact me or Hanieh to set an appointment ASAP. Alternatively, [here is a guide]({{ site.baseurl }}/heroku/) for setting it up (or finding your database password if you have lost it).
+[Heroku](https://www.heroku.com) is the default solution we will use to get access to database servers for the course. If you haven't set it up yet, please contact me or Hanieh to set an appointment ASAP. Alternatively, [here is a guide]({{ site.baseurl }}/guides/heroku/) for setting it up (or finding your database password if you have lost it).
 
 ## Amazon Web Services
 

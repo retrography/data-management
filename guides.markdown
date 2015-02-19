@@ -3,6 +3,10 @@ layout: page
 title: Setup Guides
 ---
 
+## LibreOffice
+
+[LibreOffice](http://www.libreoffice.org) allows you to create interfaces to any database. [Here is a guide]({{ site.baseurl }}/guides/libreoffice/) explaining how to connect it to MySQL server. 
+
 ## dbeaver
 
 [dbeaver](http://dbeaver.jkiss.org) is the best and the easiest tool for importing and exporting data in and out of your database. [Here is a guide]({{ site.baseurl }}/guides/dbeaver/) explaining how to set it up on your computer.

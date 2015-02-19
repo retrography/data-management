@@ -12,7 +12,7 @@ title: Exercises
 ## Exercise 2 (Graded)
 
 - [Preparation]({{ site.baseurl }}/exercises/preparation_02)
-- Exercise
+- [Exercise]({{ site.baseurl }}/exercises/exercise_02)
 - Submission
 - Solution
 

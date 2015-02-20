@@ -30,24 +30,22 @@ session | Contains brief overview of each session
 session_deliverable | Builds an n:m relationship between session and deliverable
 session_has_resource | Builds an n:m relationship between session and resource
 
-
 ## Setup Guide
 
 - Open MySQLWorkbench
 - Go to MySQLWorkbench's Home window and click the plus sign to create a new connection
-- In Manage Server Connection window modify the following values:
+- In Manage Server Connection window modify the following values: (note that all the fields are case-sensitive)
 
 Field | Value
 --- | ---
 Connection Name | Class_DB
 Hostname | insy437638.c67d2busrsq9.us-west-2.rds.amazonaws.com
-Username | guest    (lower case letters)
-Password | insy437638  (lower case letters)
+Username | guest
+Password | insy437638
 Default Schema | class
 
-•	Test the connection
-•	Press OK to close the edit window and now connect to the connection by clicking on the connection in the home window
-
+-	Test the connection
+-	Press OK to close the edit window and now connect to the connection by clicking on the connection in the home window
 
 ## Part 1 - I Can Win
 

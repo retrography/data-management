@@ -37,11 +37,13 @@ session_has_resource | Builds an n:m relationship between session and resource
 - Go to MySQLWorkbench's Home window and click the plus sign to create a new connection
 - In Manage Server Connection window modify the following values:
 
-Connection Name | Class_DB
+Field | Value
 --- | ---
+Connection Name | Class_DB
 Hostname | insy437638.c67d2busrsq9.us-west-2.rds.amazonaws.com
 Username | guest    (lower case letters)
 Password | insy437638  (lower case letters)
+Default Schema | class
 
 •	Test the connection
 •	Press OK to close the edit window and now connect to the connection by clicking on the connection in the home window

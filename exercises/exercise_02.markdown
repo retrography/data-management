@@ -66,7 +66,7 @@ Default Schema | class
 
 ## Part 4 - Hardcore 
 
-10. Using conventional SQL to write a query that gets as close as possible to [our PDF course outline]({{ site.baseurl }}/public/misc/insy437638.pdf). Is it possible to reproduce the exact same outline? Why/how?
+10. Using conventional SQL write a query that gets as close as possible to [our PDF course outline]({{ site.baseurl }}/public/misc/insy437638.pdf). Is it possible to reproduce the exact same outline? Why/how?
 
 ## Part 5 - Nightmare! (Challenge)
 

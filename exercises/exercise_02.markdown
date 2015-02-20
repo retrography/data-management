@@ -61,12 +61,12 @@ Default Schema | class
 
 ## Part 3 - Hurt Me Plenty
 
-7. List all the deliverables that are not due on a single session. Is it possible to write a query that returns _only_ a list of the distinct delivery types associated with the deliverables that are not due on a single session? Why/how?
+7. List all the deliverables that are not due on a single session (either without a due date or due on more than one session). Is it possible to write a query that returns _only_ a list of the distinct delivery types associated with the deliverables that are not due on a single session? Why/how?
 9. Which session has the maximum number of resources associated with it? Write a query that returns the date of the session, the number of resources associated with it, and the number of resource types associated with it. Comment on the accuracy of your query.
 
 ## Part 4 - Hardcore 
 
-10. Using conventional SQL write a query that gets as close to [our PDF course outline]({{ site.baseurl }}/public/misc/insy437638.pdf) as possible. Is it possible to reproduce the exact same outline? Why/how?
+10. Using conventional SQL to write a query that gets as close as possible to [our PDF course outline]({{ site.baseurl }}/public/misc/insy437638.pdf). Is it possible to reproduce the exact same outline? Why/how?
 
 ## Part 5 - Nightmare! (Challenge)
 

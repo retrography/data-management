@@ -49,8 +49,8 @@ Default Schema | class
 
 ## Part 1 - I Can Win
 
-1. List all the references were not published in Harvard Business Review.
-2. List the name and the author(s) of those references that do have author information attributed to them.
+1. List all the references that were not published in Harvard Business Review.
+2. List the name and the author(s) of the references that have author information attributed to them.
 3. Return the number of book chapters from the list of references.
 4. List all the books that are less than a year old.
 

@@ -13,7 +13,7 @@ title: Exercises
 
 - [Preparation]({{ site.baseurl }}/exercises/preparation_02)
 - [Exercise]({{ site.baseurl }}/exercises/exercise_02)
-- Submission
+- [Submission]({{ site.baseurl }}/exercises/submission)
 - Solution
 
 ## Exercise 3

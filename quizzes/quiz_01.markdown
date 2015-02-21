@@ -1,3 +1,11 @@
+---
+layout: default
+title: Quiz 1 Questions
+---
+# Curated questions for Quiz 1
+
+Question | Source(s)
+--- | ---
 What is a business model and what are some examples of its functions? Mention at least four. | Slides
 Why is the cloud worth it for providers and why is the cloud worth it for consumers?	| Slides
 What are the desirable attributes of organizational data? Explain three of them that you deem the most important.	| Watson Ch. 1

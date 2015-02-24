@@ -93,7 +93,7 @@ The two workshop sessions (Kickstart session and Capstone session) will also be 
 
 ## Quizzes
 
-These quizzes will cover all the material not covered in the take-home exercises (see below). This includes non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers. If you have attended and actively participated in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay questions.
+These quizzes will cover all the material not covered in the take-home exercises (see below). This includes non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers. If you have attended and actively participated in class discussion, these should be quite straightforward. The quizzes will take about 50 minutes of the class period and will be composed of a few short essay questions.
 
 The quiz questions are [crowdsourced]({{ site.baseurl }}/quiz/). Each student will contribute one or two questions to each quiz. Subsequently the questions will be curated and published online. The curated list will be your only reference for the quiz.
 
@@ -111,10 +111,10 @@ Course schedule will be shared with you on the first day of the class. One sessi
 
 ## University Policies
 
-1. "McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the Code of Student Conduct and Disciplinary Procedures (see www.mcgill.ca/students/srr/honest/ for more information) "L'université McGill attache une haute importance à l’honnêteté académique. Il incombe par conséquent à tous les étudiants de comprendre ce que l'on entend par tricherie, plagiat et autres infractions académiques, ainsi que les conséquences que peuvent avoir de telles actions, selon le Code de conduite de l'étudiant et des procédures disciplinaires (pour de plus amples renseignements, veuillez consulter le site www.mcgill.ca/students/srr/honest/ )."
+1. "McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the Code of Student Conduct and Disciplinary Procedures (see www.mcgill.ca/students/srr/honest/ for more information) "L'université McGill attache une haute importance à l’honnêteté académique. Il incombe par conséquent à tous les étudiants de comprendre ce que l'on entend par tricherie, plagiat et autres infractions académiques, ainsi que les conséquences que peuvent avoir de telles actions, selon le Code de conduite de l'étudiant et des procédures disciplinaires (pour de plus amples renseignements, veuillez consulter le site www.mcgill.ca/students/srr/honest/ )."
 
 2. “In accord with McGill University’s Charter of Students’ Rights, students in this course have the right to submit in English or in French any written work that is to be graded.” (approved by Senate on 21 January 2009 - see also the section in this document on Assignments and evaluation.)
-"Conformément à la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté (sauf dans le cas des cours dont l’un des objets est la maîtrise d’une langue)."
+"Conformément à la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté (sauf dans le cas des cours dont l’un des objets est la maîtrise d’une langue)."
 
 ## Credits
 

@@ -12,7 +12,7 @@ What are the desirable attributes of organizational data? Explain three of them 
 What are some of the problems with organizational data management systems? Explain at least three of them.	| Watson Ch. 1
 In the context of our current level of technology, will the promotion of open data improve the decision process of the average citizen? What are the conditions that have to be met for such benefits to materialize?	| Class Discussion
 There is a great deal of debate in the economics of open data, specifically on how open data projects are funded in the absence of a direct revenue stream. Why are governments hesitant on funding open data projects? Are their arguments valid - why or why not?	| Kitchin Ch. 3
-What are the different types of organizational ingormation systems and how are they different in their purpose and domain of application?	| Watson Ch. 1 + Class Discussion
+What are the different types of organizational information systems and how are they different in their purpose and domain of application?	| Watson Ch. 1 + Class Discussion
 What are the main axes on which we can characterize the differences between the data driven business models? (They are 6)	| Big Data for Big Business?
 What are the perils of big data and relying on big data analysis? Explain each and bring an example if you can.	| Class Discussion + FT on Big Data
 What are the desirable attributes of data? | Watson Ch. 1

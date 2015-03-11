@@ -230,7 +230,7 @@ Activities:
 
 Deliverables:
 
-- Exercise 2 due (Students who prefer to work on the exercise after their midterms, can return their solutions until Sunday, March 1st)
+- Exercise 2 due (Students who prefer to work on the exercise after their midterms can return their solutions until Sunday, March 1st)
 
 Quiz 1
 
@@ -241,24 +241,40 @@ Quiz 1
 
 Read Watson Ch. 7 & 8
 
+[Slides]({{ site.baseurl }}/public/slides/session_17.pdf)
+
+***
+
+### Session 18 - Mar. 12
+## Data & Business: Data Science and Data-Driven Decision Making
+
+Readings:
+
+- Read Kitchin Ch. 6
+- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
+- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+
 Activities:
 
 - Distributing Exercise 3 (Graded)
 
 ***
 
-### Session 18 - Mar. 12
-## Databases: Dimensional Data for Data Warehousing and BI 
-## Databases: MapReduce, Hadoop and Distributed Data
+### Session 19 - Mar. 17
+## NoSQL: Document Databases & Big Data Stacks
+## NoSQL: Graph Databases
 
-Discussing The Project: Informal progress report (2-3 minutes pergroup). No particular preparation required.
+Readings:
 
-Read Watson Ch. 13
-
+- Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
+- Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
+ 
 ***
 
-### Session 19 - Mar. 17
+### Session 20 - Mar. 19
 ## Data & Business: Information Security
+
+Deliverable: Exercise 3 due
 
 Readings:
 
@@ -271,20 +287,18 @@ Readings:
 
 ***
 
-### Session 20 - Mar. 19
-## NoSQL: Document Databases & Big Data Stacks
+### Session 21 - Mar. 24
+## Databases: Dimensional Data for Data Warehousing and BI 
+## Databases: MapReduce, Hadoop and Distributed Data
 
-Deliverable: Exercise 3 due
-
-Readings:
-
-- Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
-- Have a look at [The MongoDB 2.6 Manual](http://docs.mongodb.org/manual/)
+Read Watson Ch. 13
 
 ***
 
-### Session 21 - Mar. 24
+### Session 22 - Mar. 26
 ## Data & Society: Data Ownership and Privacy
+
+Deliverable: Submit one or two questions for the final quiz
 
 Readings:
 
@@ -292,16 +306,8 @@ Readings:
 - Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 - Have a look at [EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
 - Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution:Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
 
-***
-
-### Session 22 - Mar. 26
-## NoSQL: Graph Databases
-
-Deliverable: Submit one or two questions for the final quiz
-
-Readings: Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
 
 ***
 

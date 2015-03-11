@@ -15,7 +15,7 @@ title: Exercises
 - [Exercise]({{ site.baseurl }}/exercises/exercise_02)
 - [Submission]({{ site.baseurl }}/exercises/submission)
 
-## Exercise 3
+## Exercise 3 (Graded)
 
 - [Preparation]({{ site.baseurl }}/exercises/preparation_03)
 - Exercise

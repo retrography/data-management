@@ -14,10 +14,9 @@ title: Exercises
 - [Preparation]({{ site.baseurl }}/exercises/preparation_02)
 - [Exercise]({{ site.baseurl }}/exercises/exercise_02)
 - [Submission]({{ site.baseurl }}/exercises/submission)
-- Solution
 
 ## Exercise 3
 
+- [Preparation]({{ site.baseurl }}/exercises/preparation_03)
 - Exercise
 - Submission 
-- Solution

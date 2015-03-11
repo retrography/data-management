@@ -8,12 +8,13 @@ title: Course Description
     - ___Course Number:___ INSY 437 / INSY 638
     - ___Date:___ Winter 2015
     - ___Schedule:___ Tue/Thu 4:05pm-5:25pm
+    - ___Location:___ Bronfman 045
 - ___Instructor:___ Mahmood Shafeie Zargar - <mahmood.shafeiezargar@mcgill.ca>
     - ___Office Hours:___ Tuesdays and Thursdays 5:30pm-6:00pm
-    - ___Office:___ Bronfman 045
+    - ___Office:___ Bronfman 548
 - ___Tutor:___ Hanieh Moshki - <hanieh.moshki@hec.ca>
     - ___Office Hours:___ Thursdays 3:00pm-4:00pm
-    - ___Office:___ Bronfman 045
+    - ___Office:___ Bronfman 548
 - ___For help or feedback:___
     - Come by during our office hours or ask for an appointment
     - Contact us directly by email

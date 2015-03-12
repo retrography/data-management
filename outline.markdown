@@ -248,6 +248,12 @@ Read Watson Ch. 7 & 8
 ### Session 18 - Mar. 12
 ## Data & Business: Data Science and Data-Driven Decision Making
 
+Deliverables:
+
+- Create a [Terminal](www.terminal.com/signup?ref_u=mszargar&ref_c=654f351a693f204) account
+- Set up an Open Refine Virtual Machine for yourself (using [this](
+https://www.terminal.com/snapshot/bfa60fbaf93bdecc844bc3a4ac4fd59a341c43a692bcca885c3901d9f9342ac9) snapshot)
+
 Readings:
 
 - Read Kitchin Ch. 6

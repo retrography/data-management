@@ -274,7 +274,9 @@ Readings:
 
 - Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
 - Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
- 
+
+Activities: [Class Exercise](https://docs.google.com/presentation/d/1xwxwYlVWgSYrsnCSXtVJBynqSn2fZCbFFFxlNxODQIk/edit#slide=id.ga91b44ef9_05)
+
 ***
 
 ### Session 20 - Mar. 19

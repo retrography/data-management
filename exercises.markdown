@@ -14,6 +14,8 @@ title: Exercises
 - [Preparation]({{ site.baseurl }}/exercises/preparation_02)
 - [Exercise]({{ site.baseurl }}/exercises/exercise_02)
 - [Submission]({{ site.baseurl }}/exercises/submission)
+- [Solution 1 - Omar](https://gist.github.com/retrography/19affad5d070552f00a9)
+- [Solution 2 - Baptiste](https://gist.github.com/retrography/ff3e2a70d933ed75faf2)
 
 ## Exercise 3 (Graded)
 

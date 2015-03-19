@@ -275,7 +275,11 @@ Readings:
 - Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
 - Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
 
-Activities: [Class Exercise](https://docs.google.com/presentation/d/1xwxwYlVWgSYrsnCSXtVJBynqSn2fZCbFFFxlNxODQIk/edit#slide=id.ga91b44ef9_05)
+Activities: 
+
+- [Class Exercise](https://docs.google.com/presentation/d/1xwxwYlVWgSYrsnCSXtVJBynqSn2fZCbFFFxlNxODQIk/edit#slide=id.ga91b44ef9_05)
+
+[Slides]({{ site.baseurl }}/public/slides/session_19.pdf)
 
 ***
 
@@ -292,6 +296,8 @@ Readings:
 - Have a look at one of the following (FP is the more interesting one):
     - [Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
     - [The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
+
+[Slides]({{ site.baseurl }}/public/slides/session_20.pdf)
 
 ***
 

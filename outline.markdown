@@ -303,9 +303,10 @@ Readings:
 
 ### Session 21 - Mar. 24
 ## Databases: Dimensional Data for Data Warehousing and BI 
-## Databases: MapReduce, Hadoop and Distributed Data
 
 Read Watson Ch. 13
+
+[Slides]({{ site.baseurl}}/public/slides/session_21.pdf)
 
 ***
 
@@ -322,6 +323,7 @@ Readings:
 - Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
 - And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
 
+[Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
 
 ***
 

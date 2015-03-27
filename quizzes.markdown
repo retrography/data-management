@@ -8,5 +8,5 @@ title: Quiz Information
 - [Curated questions]({{ site.baseurl }}/quizzes/quiz_01)
 
 ## Quiz 2
-- Contribute a question
+- [Contribute](https://docs.google.com/forms/d/1o-cv57PL4DFqNonCAoZBHUPqWlaQ4rReWVvHhC0REJY/viewform) a question
 - Curated questions

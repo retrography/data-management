@@ -6,14 +6,14 @@ title: Quiz 2 Questions
 
 Question | Source(s)
 --- | ---
-Briefly describe the three dominant NoSQL data models. How do they compare to the relational model?  | Top 5 Considerations When Evaluating NoSQL Databases
-How do you explain the view that promotes privacy as be the default mode of operation? Mention and discuss some of the principles of the ‘privacy by design’ view (at least four).  | Kitchin Ch. 10
+Briefly describe the three dominant NoSQL data models. How do they compare to the relational model? | Top 5 Considerations When Evaluating NoSQL Databases
+How do you explain the view that promotes privacy as be the default mode of operation? Mention and discuss some of the principles of the ‘privacy by design’ view.  | Kitchin Ch. 10
 How do internet-based companies use/exploit user data for marketing purposes (4 points)? How do you assess each mode of data use in terms of intrusiveness and possible privacy infringements? | Slides on Privacy and class discussion
 What are some advantages and disadvantages of using meaningful vs. meaningless identifiers for data entities? | Watson Ch. 7
 How do the different methods of encryption work, and what are they used for? | Slides on Privacy
 Compare and contrast the pros and cons of data normalization. | Slides on Normalization
-According to Upton and Creese, how can companies deal with inside threats (they mention five points)? How effective do you think these measures are? | The Danger from Within
-What is fairness in information practices? Mention and discuss some of its principles (at least four) | Kitchin Ch. 10
+According to Upton and Creese, how can companies deal with inside threats (five points)? How effective do you think these measures are? | The Danger from Within
+What is fairness in information practices? Mention and discuss some of its principles | Kitchin Ch. 10
 What are supervised and unsupervised machine learning, and how do they differ from each other? Bring examples of business applications. | Kitchin Ch. 6
 What are data warehouses and data marts, and what is the purpose of creating them beside the transactional data stores? What are the structural (design) differences between these?  | Slides on BI
 Name and briefly explain some of the techniques used to mine and analyze unstructured data (text, picture, video, etc.). | Kitchin Ch. 6
@@ -21,7 +21,7 @@ What is Lawrence Lessig’s response to the dilemma of surveillance? Is there a 
 What is meant by ' consent is an empty exercise' in the context of data privacy? | Kitchin Ch. 10
 What are three of the most important causes explaining today's rapid growth of security threats?  | The Danger from Within & Slides
 What is the Streisand effect and how does it tie into notions of data privacy and information security? | Class discussion on Security
-What are the habits of the highly effective data modellers (5/7 points)? Discusses three of them. | Watson Ch. 7
+What are the habits of the highly effective data modellers (7 points)? Discusses three of them. | Watson Ch. 7
 What are the five challenges managers face when transitioning into Big Data? Briefly describe each of them. | Big Data: The management revolution
 What are the four basic sets of questions business analytics aim to answer and what are the four classes of analytics that are used to derive the responses? Do you think some classes of analytics are more prone to respond to certain sets of questions? How and why? | Kitchin Ch. 6
 Describe the role of a data scientist. Explain why this is an important new role for companies. | The sexiest job of 21st century

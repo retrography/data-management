@@ -39,7 +39,7 @@ title: Project
 __Team__ | __Members__ | __Project__
 --- | --- | ---
 Databass2 | Laura, Nicholas, Sam | Twitter economic effects
-Yelpers | Yawen, Yuan, Xavier | Crime in San Francisco
+Databass1 | Yawen, Yuan, Xavier | Crime in San Francisco
 Child raisers | Josh, Kianna, Matthew, Omar | Cost of raising a child
 OfJoin‘N’Union | Bicky, Blaire, Emily, Han, Steven | Instagram tag analysis
 Ski Challengers | Minyel, Baptiste, Liam, Piotr, Shehryar | Ski open data project

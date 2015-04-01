@@ -31,6 +31,7 @@ title: Project
 * A short report (_Maximum_ 10 pages)
 	* The origin of the idea and how it developed
 	* The process of getting to the final solution (trials and erros, changes of plans, reasons for picking a specific technical option)
+	* The data sources
 	* The design of the solution
 	* How to use the solution (user help file)
 

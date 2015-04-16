@@ -119,4 +119,10 @@ Course schedule will be shared with you on the first day of the class. One sessi
 
 ## Credits
 
-Credits go to my colleagues Hani Safadi and Youngsok Bang for providing the original material. I am also indebted to Samer Faraj and Animesh Animesh for their constructive feedback on earlier drafts of the course design.
+Credits go to my colleagues Hani Safadi and Youngsok Bang for providing the original material. I am also indebted to Samer Faraj and Animesh Animesh for their constructive feedback on earlier drafts of the course design. 
+
+I would also like to thank my students _Baptiste, Bicky, Blaire, Cheick, Codrat, Dilhan, Emily, Han, Joshua, Kianna, Laura, Liam, Matthew, Minyel, Natalia, Nick, Omar, Piotr, Sam, Shehryar, Steven, Xavier, Yawen and Yuan Ping_ who were patient with me as I refined this course design and provided me with sincere feedback. You are the inspiration for all the hard work.
+
+![Import CSV Recordset]({{ site.baseurl }}/public/images/guessthefilter.JPG)
+
+

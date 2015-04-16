@@ -31,6 +31,7 @@ title: Project
 * A short report (_Maximum_ 10 pages)
 	* The origin of the idea and how it developed
 	* The process of getting to the final solution (trials and erros, changes of plans, reasons for picking a specific technical option)
+	* The data sources
 	* The design of the solution
 	* How to use the solution (user help file)
 
@@ -40,8 +41,8 @@ __Team__ | __Members__ | __Project__
 --- | --- | ---
 Databass2 | Laura, Nicholas, Sam | Twitter economic effects
 Databass1 | Yawen, Yuan, Xavier | Crime in San Francisco
-Child raisers | Josh, Kianna, Matthew, Omar | Cost of raising a child
+Child raisers | Josh, Kianna, Matthew, Omar | Cost of raising a child on wifi
 OfJoin‘N’Union | Bicky, Blaire, Emily, Han, Steven | Instagram tag analysis
 Ski Challengers | Minyel, Baptiste, Liam, Piotr, Shehryar | Ski open data project
-Premier League| Dilhan, Cheick, Codrat, Natalia | Premier league player analysis
+Premier League | Dilhan, Cheick, Codrat, Natalia | Premier league player analysis
 

@@ -13,11 +13,11 @@ Readings:
 - Read Kitchin Ch. 10 up to "Data Security"
 - Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 - Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- - Have a look at [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
+- Have a look at [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
 - And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
 
 [Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
-<!--- modify the slides and include some Canadian privacy legislation --->
+<!--- modify the slides and include course introduction and some slides about Canadian privacy legislation --->
 ***
 ### Session 1 - Jan. 6
 ## Introduction: Reconstructing course outline

@@ -10,39 +10,39 @@ Deliverable: Submit one or two questions for the final quiz
 
 Readings:
 
-- Read Kitchin Ch. 10 up to "Data Security"
-- Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
-- Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- Have a look at [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
+- Read Kitchin Ch. 10 ( up to "Data Security")
+- Take a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+- Take a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
+- Take a look at [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
 - And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
 
 [Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
 <!--- modify the slides and include course introduction and some slides about Canadian privacy legislation --->
 ***
-### Session 1 - Jan. 6
-## Introduction: Reconstructing course outline
 
-Deliverables: Install MySQL Workbench
-
-[Slides]({{ site.baseurl}}/public/slides/session_01.pdf)
-
-***
-
-### Session 2 - Jan. 8
-## Databases: Saving, retrieving and exchanging data
-
-Deliverable: Open a Heroku account and add a MySQL instance
+### Session 2 
+## Conceptualizing Data and Knowledge Discovery Process 
 
 Readings:
 
-- Read Kitchin Ch. 1 (stop at “Temporally and spatially”)
+- Read Kitchin Ch. 1
 - Skim Kitchin Ch. 2
+- Take a look at [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
 
-Concepts: Data, Data Formats, Data Types, Data Structures, Data Storage Systems
+ <!--- Data Formats, Data Structures, Data Storage Systems--->
 
 [Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
+<!--- modify the slides http://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf, http://www.csd.uwo.ca/faculty/ling/cs435/fayyad.pdf  --->
+***
+
+
+### Session 3 
+## Data Types, Data Formats and Data Structures 
+
+
 
 ***
+
 
 ### Session 3 - Jan. 13
 ## Data & Business: Information Lifecycle of The Firm

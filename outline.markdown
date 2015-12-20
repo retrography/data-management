@@ -2,6 +2,22 @@
 layout: page
 title: Course Outline
 ---
+
+### Session 1 
+## Data & Society: Data Ownership and Privacy
+
+Deliverable: Submit one or two questions for the final quiz
+
+Readings:
+
+- Read Kitchin Ch. 10 up to "Data Security"
+- Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+- Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
+- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+
+[Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
+
+***
 ### Session 1 - Jan. 6
 ## Introduction: Reconstructing course outline
 
@@ -307,23 +323,6 @@ Readings:
 Read Watson Ch. 13
 
 [Slides]({{ site.baseurl}}/public/slides/session_21.pdf)
-
-***
-
-### Session 22 - Mar. 26
-## Data & Society: Data Ownership and Privacy
-
-Deliverable: Submit one or two questions for the final quiz
-
-Readings:
-
-- Read Kitchin Ch. 10
-- Have a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
-- Have a look at [EU Court Backs 'right to Be Forgotten': Google Must Amend Results on Request | The Guardian](http://www.theguardian.com/technology/2014/may/13/right-to-be-forgotten-eu-court-google-search-results)
-- Have a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
-
-[Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
 
 ***
 

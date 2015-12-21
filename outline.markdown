@@ -58,10 +58,9 @@ Readings:
 - Take a look at: [The Open Data Handbook](http://opendatahandbook.org)
 
 Activities: Be ready to register your team of four for the course project.
-
+ <!---Course Project debriefing--->
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
 
- <!---Course Project debriefing--->
  
 ***
 ### Session 5 

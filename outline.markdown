@@ -108,7 +108,9 @@ Important Deadline: Each team submits a one-page project proposal and proposes a
 
 ### Session 10 
 ## Data & Business: Cloud Services and Hosted Data
-## Industry Guest-Speaker
+
+Industry Guest-Speaker
+
 Readings:
 
 - Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
@@ -119,7 +121,7 @@ Readings:
 
 ***
 ### Session 11
-## Databa Modeling and Design: ER Models, Neat & Normalized Data 
+## Data Modeling and Design: ER Models, Neat & Normalized Data 
 ***
 ### Session 4 - Jan. 15
 ## Databases: Saving your lists

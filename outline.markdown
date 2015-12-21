@@ -59,7 +59,7 @@ Readings:
 
  <!--- Course Project debriefing --->
 
-Activities: Be ready to register your team of four for the course project.
+Activities: Be ready to register your team of four for the course project.<br />
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
  
 ***

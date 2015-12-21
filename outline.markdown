@@ -106,9 +106,15 @@ Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZ
 ***
 
 ### Session 10 
-## Data & Business: Cloud Services and Hosted Data
+## Data Analytics in Action: Industry Guest-Speaker
 
-Industry Guest-Speaker
+***
+### Session 11
+## Data Modeling and Design: ER Models, Neat & Normalized Data 
+***
+
+### Session 12
+## Data & Business: Cloud Services and Hosted Data
 
 Readings:
 
@@ -119,37 +125,11 @@ Readings:
 [Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
 ***
-### Session 11
-## Data Modeling and Design: ER Models, Neat & Normalized Data 
-***
-### Session 4 - Jan. 15
-## Databases: Saving your lists
-
-Readings: Read Watson Ch. 3
-
-Concepts: Fields, Data Types, Null Value, Tables, Constraints, Auto-increment, Filtering, Logical Operators 
-
-Commands: `CREATE TABLE`, `SELECT`, `INSERT`, `UPDATE`, `DELETE FROM`, `TRUNCATE TABLE`, `DROP TABLE`, `ALTER TABLE`, `WHERE`, `IN`, `LIKE`, `BETWEEN`, `AND`, `OR`, `NOT`, `LIMIT`, `NOT NULL`, `DEFAULT`, `CHECK`, `UNIQUE`, `PRIMARY KEY`
-
-[Slides]({{ site.baseurl}}/public/slides/session_04.pdf)
+### Session 13
+## Filtering, Pagination and Running Queries on Datasets
 
 ***
 
-
-### Session 5 - Jan. 20
-## Data & Business: Data-driven Business Models
-
-Readings:
-
-- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data Driven Business Models.pdf)
-- Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
-- Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
-
-Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
-
-[Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
-
-***
 
 ### Session 6 - Jan. 22
 ## Databases: Retrieving your lists

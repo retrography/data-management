@@ -29,7 +29,7 @@ Readings:
 - Skim Kitchin Ch. 2
 - Take a look at [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
 
- <!--- Data Formats, Data Structures, Data Storage Systems--->
+ <!--- Data Formats, Data Structures, Data Storage Systems --->
 
 [Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
 <!--- modify the slides http://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf, http://www.csd.uwo.ca/faculty/ling/cs435/fayyad.pdf  --->
@@ -57,10 +57,10 @@ Readings:
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - Take a look at: [The Open Data Handbook](http://opendatahandbook.org)
 
-Activities: Be ready to register your team of four for the course project.
- <!---Course Project debriefing--->
-[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
+ <!--- Course Project debriefing --->
 
+Activities: Be ready to register your team of four for the course project.
+[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
  
 ***
 ### Session 5 

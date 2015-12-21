@@ -43,7 +43,6 @@ Readings:
 ***
 ### Session 4
 ## Sources of Data: Open and Linked Data
- <!--- Course Project debriefing --->
 Check out the following websites:
 
 - [http://open.canada.ca](http://open.canada.ca)
@@ -56,6 +55,7 @@ Readings:
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - Take a look at: [The Open Data Handbook](http://opendatahandbook.org)
 
+ <!--- Course Project debriefing --->
 
 Activities: Be ready to register your team of four for the course project.<br />
 

@@ -29,9 +29,8 @@ Readings:
 - Skim Kitchin Ch. 2
 - Take a look at [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
 
- <!--- Data Formats, Data Structures, Data Storage Systems --->
-
 [Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
+<!--- Data Formats, Data Structures, Data Storage Systems --->
 <!--- modify the slides http://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf, http://www.csd.uwo.ca/faculty/ling/cs435/fayyad.pdf  --->
 ***
 
@@ -94,7 +93,7 @@ Readings:
 - Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
 
 Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)<br />
-Important Deadline: Each team submits a one-page project proposal and proposes a relevant dataset for the project
+**Important Deadline: Each team submits a one-page project proposal and proposes a relevant dataset for the project**
 
 
 [Slides]({{ site.baseurl}}/public/slides/session_05.pdf)

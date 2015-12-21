@@ -74,6 +74,8 @@ Activities: Be ready to register your team of four for the course project.
 - Read Gartner's report [Advancing Business With Advanced Analytics](http://www.gartner.com/document/3090420?ref=solrAll&refval=160421676&qid=10187e0cc7f2db0d549c9d44eb0bf868) 
 - Read Gartner's report [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
 - Take a look at [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
+
+
 ***
 
 ### Session 6

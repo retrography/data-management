@@ -55,15 +55,28 @@ Readings:
 
 - Read Kitchin Ch. 3
 - Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
-- Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
+- Take a look at: [The Open Data Handbook](http://opendatahandbook.org)
 
 Activities: Be ready to register your team of four for the course project.
 
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
 
 ***
+### Session 5 
+## Data Preparation 1: Introduction to Data Scraping and Format Conversion Tools  
 
-### Session 3 - Jan. 13
+***
+### Session 6 
+## Organizational Data and Data Processing Infrastructure   
+
+- Read Watson Ch. 1 (From organizational data management up to components of organizational + Problems with data management systems)
+- Read Watson Ch. 2 (Information and managerial work)
+- Read Gartner's report [Advancing Business With Advanced Analytics](http://www.gartner.com/document/3090420?ref=solrAll&refval=160421676&qid=10187e0cc7f2db0d549c9d44eb0bf868) 
+- Read Gartner's report [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
+- Take a look at [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
+***
+
+### Session 6
 ## Data & Business: Information Lifecycle of The Firm
 
 Readings: Read Watson Section 1 - Ch. 1 & 2
@@ -86,10 +99,7 @@ Commands: `CREATE TABLE`, `SELECT`, `INSERT`, `UPDATE`, `DELETE FROM`, `TRUNCATE
 [Slides]({{ site.baseurl}}/public/slides/session_04.pdf)
 
 ***
-### Session 6 
-## Data Preparation 1: Introduction to Data Scraping and Format Conversion Tools  
 
-***
 
 ### Session 5 - Jan. 20
 ## Data & Business: Data-driven Business Models

@@ -42,7 +42,26 @@ Readings:
 
 
 ***
+### Session 4
+## Sources of Data: Open and Linked Data
 
+Check out the following websites:
+
+- [http://open.canada.ca](http://open.canada.ca)
+- [http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)
+- [http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)
+
+Readings:
+
+- Read Kitchin Ch. 3
+- Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+- Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
+
+Activities: Be ready to register your team of four for the course project.
+
+[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
+
+***
 
 ### Session 3 - Jan. 13
 ## Data & Business: Information Lifecycle of The Firm
@@ -65,6 +84,10 @@ Concepts: Fields, Data Types, Null Value, Tables, Constraints, Auto-increment, F
 Commands: `CREATE TABLE`, `SELECT`, `INSERT`, `UPDATE`, `DELETE FROM`, `TRUNCATE TABLE`, `DROP TABLE`, `ALTER TABLE`, `WHERE`, `IN`, `LIKE`, `BETWEEN`, `AND`, `OR`, `NOT`, `LIMIT`, `NOT NULL`, `DEFAULT`, `CHECK`, `UNIQUE`, `PRIMARY KEY`
 
 [Slides]({{ site.baseurl}}/public/slides/session_04.pdf)
+
+***
+### Session 6 
+## Data Preparation 1: Introduction to Data Scraping and Format Conversion Tools  
 
 ***
 
@@ -129,26 +152,7 @@ Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
 ***
 
-### Session 9 - Feb. 3
-## Data & Society: Open and Linked Data
 
-Check out the following websites:
-
-- [http://open.canada.ca](http://open.canada.ca)
-- [http://www.donnees.gouv.qc.ca](http://www.donnees.gouv.qc.ca)
-- [http://donnees.ville.montreal.qc.ca](http://donnees.ville.montreal.qc.ca)
-
-Readings:
-
-- Read Kitchin Ch. 3
-- Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
-- Have a look at: [The Open Data Handbook](http://opendatahandbook.org)
-
-Activities: Discussing the project. No special preparation required, but be ready to present your project.
-
-[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
-
-***
 
 ### Session 10 - Feb. 5
 ## Databases: Letting the links flourish

@@ -62,6 +62,7 @@ Activities: Be ready to register your team of four for the course project.
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
 
  <!---Course Project debriefing--->
+ 
 ***
 ### Session 5 
 ## Data Preparation 1: Introduction to Data Scraping and Format Conversion Tools  

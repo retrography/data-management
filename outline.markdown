@@ -130,12 +130,12 @@ Readings:
 
 ***
 ### Session 14
-## Introduction to Information Security Terminology and Cloud Security
+## Introduction to Cloud Security 
 
 - Read [Cloudy Security: What Your Advisor Doesn't Know About Cloud Computing Could Hurt You](http://www.forbes.com/sites/kellyphillipserb/2015/12/09/cloudy-security-what-your-advisor-doesnt-know-about-cloud-computing-could-hurt-you/)
 - Read [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
 - Take a look at [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
-- 
+
 ***
 ### Session 6 - Jan. 22
 ## Databases: Retrieving your lists

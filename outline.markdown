@@ -61,6 +61,7 @@ Activities: Be ready to register your team of four for the course project.
 
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
 
+ <!---Course Project debriefing--->
 ***
 ### Session 5 
 ## Data Preparation 1: Introduction to Data Scraping and Format Conversion Tools  
@@ -75,6 +76,25 @@ Activities: Be ready to register your team of four for the course project.
 - Read Gartner's report [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
 - Take a look at [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 
+
+***
+### Session 7
+## Data Preparation 2: Introduction to Data Cleaning with Openrefine
+
+***
+
+### Session 8 
+## Data & Business: Data-driven Business Models
+
+Readings:
+
+- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data Driven Business Models.pdf)
+- Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
+- Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
+
+Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
+Important Deadline: Each team submits a one-page project proposal and proposes a relevant dataset for the project
+[Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
 
 ***
 

@@ -94,6 +94,8 @@ Readings:
 
 Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)
 Important Deadline: Each team submits a one-page project proposal and proposes a relevant dataset for the project
+
+
 [Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
 
 ***

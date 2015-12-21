@@ -60,6 +60,7 @@ Readings:
  <!--- Course Project debriefing --->
 
 Activities: Be ready to register your team of four for the course project.<br />
+<br />
 [Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
  
 ***
@@ -100,17 +101,26 @@ Important Deadline: Each team submits a one-page project proposal and proposes a
 
 ***
 
-### Session 6
-## Data & Business: Information Lifecycle of The Firm
-
-Readings: Read Watson Section 1 - Ch. 1 & 2
-
-Activities: Discussing The Project
-
-[Slides]({{ site.baseurl}}/public/slides/session_03.pdf)
+### Session 9
+## Data Importing and Introduction to Software Ecosystem of this Course
 
 ***
 
+### Session 10 
+## Data & Business: Cloud Services and Hosted Data
+## Industry Guest-Speaker
+Readings:
+
+- Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
+- Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
+- Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+
+[Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
+
+***
+### Session 11
+## Databa Modeling and Design: ER Models, Neat & Normalized Data 
+***
 ### Session 4 - Jan. 15
 ## Databases: Saving your lists
 
@@ -155,19 +165,6 @@ Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
 
 [Slides]({{ site.baseurl }}/public/slides/session_06.pdf)
 
-
-***
-
-### Session 7 - Jan. 27
-## Data & Business: Cloud Services and Hosted Data
-
-Readings:
-
-- Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
-- Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
-- Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
-
-[Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
 ***
 

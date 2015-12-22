@@ -184,7 +184,6 @@ Activities: [SQL Injection](http://www.codebashing.com/sql_demo)
 ### Session 22
 ## Data Visualization with Tableau 2
 
-
 ***
 
 ### Session 23 

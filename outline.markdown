@@ -106,16 +106,7 @@ Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZ
 ***
 
 ### Session 10 
-## Data Analytics in Action: Industry Guest-Speaker
-
-***
-### Session 11
-## Data Modeling and Design: ER Models, Neat & Normalized Data 
-***
-
-### Session 12
-## Data & Business: Cloud Services and Hosted Data
-
+## Cloud Services and Data Analytics in Action (Guest Speaker)
 Readings:
 
 - Read [Bughin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
@@ -123,6 +114,19 @@ Readings:
 - Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 [Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
+***
+### Session 11
+## Data Modeling and Design: ER Models, Neat & Normalized Data 
+***
+
+### Session 12
+## Data & Business: Data Science and Data-Driven Decision Making
+
+Readings:
+
+- Read Kitchin Ch. 6
+- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
+- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 ### Session 13
@@ -142,13 +146,14 @@ Readings:
 
 ***
 ### Session 16
-## Database Security
+## Information and Database Security
 
+- Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
 - Read [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
 - Take a look at [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
 
 Activities: [SQL Injection](http://www.codebashing.com/sql_demo) 
-
+[Slides]({{ site.baseurl }}/public/slides/session_20.pdf)
 ***
 
 ### Session 17
@@ -157,130 +162,47 @@ Activities: [SQL Injection](http://www.codebashing.com/sql_demo)
 ***
 
 ### Session 18
-* Quiz on Theoretical Content*
+
+*Quiz on Theoretical Content*
 
 ***
-
 ### Session 19
-## Big data in Security Analytics and SIEM Guest Speaker
+## Security Analystics and SIEM
 
 ***
 
-### Session 15 - Feb. 24
-## Workshop 1: Project Kickstart
-
-Deliverable: Submit one-page description of your project and register your group
-
-Commands: `USE`, `CREATE DATABASE`, `DROP DATABASE`
-
-Activities:
-
-- Setting up an AWS server if the group needs common space
-- Helping the groups start up
-- Discussing the project - Project mini-presentations (2-3 minutes pergroup). One slide needed.
+### Session 20
+## Data Visualization with Tableau 1
 
 ***
 
-### Session 16 - Feb. 26
-
-Deliverables:
-
-- Exercise 2 due (Students who prefer to work on the exercise after their midterms can return their solutions until Sunday, March 1st)
-
-Quiz 1
+### Session 21
+## Bridging SQL and Excel
 
 ***
 
-### Session 17 - Mar. 10
-## Databases: Modeling and Normalization
+### Session 22
+## Data Visualization with Tableau 2
 
-Read Watson Ch. 7 & 8
-
-[Slides]({{ site.baseurl }}/public/slides/session_17.pdf)
 
 ***
 
-### Session 18 - Mar. 12
-## Data & Business: Data Science and Data-Driven Decision Making
-
-Deliverables:
-
-- Create a [Terminal](http://www.terminal.com/signup?ref_u=mszargar&ref_c=654f351a693f204) account
-- Set up an Open Refine Virtual Machine for yourself (using [this](
-https://www.terminal.com/snapshot/bfa60fbaf93bdecc844bc3a4ac4fd59a341c43a692bcca885c3901d9f9342ac9) snapshot)
-
-Readings:
-
-- Read Kitchin Ch. 6
-- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
-- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
-
-Activities:
-
-- Distributing Exercise 3 (Graded)
+### Session 23 
+## Project Workshop 1
 
 ***
 
-### Session 19 - Mar. 17
-## NoSQL: Document Databases & Big Data Stacks
-## NoSQL: Graph Databases
-
-Readings:
-
-- Read [Top 5 Considerations for NoSQL Databases](http://www.mongodb.com/lp/white-paper/nosql-considerations)
-- Read [Robinson & Webber (2013) Graph Databases.O'Reilly Media - Ch. 1](http://graphdatabases.com)
-
-Activities: 
-
-- [Class Exercise](https://docs.google.com/presentation/d/1xwxwYlVWgSYrsnCSXtVJBynqSn2fZCbFFFxlNxODQIk/edit#slide=id.ga91b44ef9_05)
-
-[Slides]({{ site.baseurl }}/public/slides/session_19.pdf)
+### Session 24 
+## Wrap up and Project Workshop 2
 
 ***
 
-### Session 20 - Mar. 19
-## Data & Business: Information Security
-
-Deliverable: Exercise 3 due
-
-Readings:
-
-- Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
-- Have a look at [Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | WIRED](http://www.wired.com/2014/04/nsa-heartbleed)
-- Have a look at [Data Lost on 583,000 Canada Student Loan Borrowers.| Maclean’s](http://www.macleans.ca/education/uniandcollege/data-lost-on-583000-canada-student-loan-borrowers/)<br />
-- Have a look at one of the following (FP is the more interesting one):
-    - [Stuxnet's Secret Twin | Foreign Policy](http://foreignpolicy.com/2013/11/19/stuxnets-secret-twin/)<br />
-    - [The Real Story of Stuxnet | IEEE Spectrum](http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet)
-
-[Slides]({{ site.baseurl }}/public/slides/session_20.pdf)
-
-***
-
-### Session 21 - Mar. 24
-## Databases: Dimensional Data for Data Warehousing and BI 
-
-Read Watson Ch. 13
-
-[Slides]({{ site.baseurl}}/public/slides/session_21.pdf)
-
-***
-
-### Session 23 - Mar. 31
-## Workshop 2: Project Capstone
-
-***
-
-### Session 24 - Apr. 02
-## Quiz 2
-
-***
-
-### Session 25 - Apr. 07
+### Session 25
 ## Project Presentations
 
 ***
 
-### Session 26 - Apr. 09
+### Session 26 
 ## Project Presentations
 
 ***

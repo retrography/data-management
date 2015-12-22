@@ -137,116 +137,32 @@ Readings:
 - Take a look at [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
 
 ***
-### Session 6 - Jan. 22
-## Databases: Retrieving your lists
+### Session 15
+## Combining Datasets
 
-Deliverable: Make sure you know how to create a table, how to insert data into it and how to fetch data out of it
+***
+### Session 16
+## Database Security
 
-Concepts: Sorting, Aggregating, Grouping
+- Read [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
+- Take a look at [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
 
-Commands: `ORDER BY`, `DISTINCT`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `GROUP BY`, `HAVING`
-
-Readings: Skim Watson Ch. 10
-
-Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
-
-[Slides]({{ site.baseurl }}/public/slides/session_06.pdf)
-
+Activities: [SQL Injection](http://www.codebashing.com/sql_demo) 
 
 ***
 
-### Session 8 - Jan. 29
-## Databases: Linking your lists
-
-Concepts: Entity Relationship Diagrams, Relations, Foreign Keys, Indexes, Subqueries, Aliases
-
-Commands: `FOREIGN KEY`, `JOIN`, `UNION`, `EXISTS`, `CREATE INDEX`, `CREATE TABLE LIKE`, `INSERT INTO SELECT`
-
-Readings: Read Watson Ch. 4 & 5
-
-Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
-
-[Slides]({{ site.baseurl }}/public/slides/session_08.pdf)
+### Session 17
+## Data Aggregation and Sort
 
 ***
 
-
-
-### Session 10 - Feb. 5
-## Databases: Letting the links flourish
-
-Concepts: Complex Relations, Complex Joins, Complex Unions
-
-Commands: `INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`, `UNION ALL`, `UNION DISTINCT`
-
-Readings: Read Watson Ch. 6 & 9
-
-Activities: [Class Exercise]({{ site.baseurl }}/exercises/exercise_01)
-
-[Slides]({{ site.baseurl }}/public/slides/session_10.pdf)
+### Session 18
+* Quiz on Theoretical Content*
 
 ***
 
-### Session 11 - Feb. 10
-## Data & Society: The Data Deluge and Big Data
-
-Readings:
-
-- Read Kitchin Ch. 4
-- Skim Kitchin Ch. 5
-- Have a look at [Why "Big Data" Is a Big Deal | Harvard Magazine](http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)
-- Have a look at [Big Data: Are We Making a Big Mistake? | Financial Times](http://www.ft.com/intl/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html)
-
-[Slides]({{ site.baseurl}}/public/slides/session_11.pdf)
-
-***
-
-### Session 12 - Feb. 12
-## Databases: SQL Q&A
-
-***
-
-### Session 13 - Feb. 17
-## Databases: ETL
-
-Deliverables:
-
-- Submit one or two questions for mid-term quiz
-- Install dbeaver
-
-Concepts: Data Extraction (inc. Cleaning), Transformation and Loading (ETL)
-
-Commands: String Functions, Date Functions, Data Casting, Regexp, SQL Wildcards (% , _)
-
-Activities: 
-
-- Importing, exporting and transforming different file formats
-
-[Truncated Montreal Library Data File]({{ site.baseurl }}/public/misc/bib.csv.zip)
-
-[Data casting and string transformation sample script](https://gist.github.com/retrography/7410e861473d4b3cff55)
-
-
-[Slides]({{ site.baseurl }}/public/slides/session_13.pdf)
-
-***
-
-### Session 14 - Feb. 19
-## Databases: CRUD Operations and Reporting
-
-Deliverable: 
-
-- Install LibreOffice
-
-Commands: `CREATE VIEW`, `ALTER VIEW`, `DROP VIEW`
-
-Check out [Base Handbook 4.0](https://wiki.documentfoundation.org/images/e/e8/BH40-BaseHandbook.pdf)
-
-Have a look at Watson Ref. 2 (SQL Playbook)
-
-Activities:
-
-- Distributing exercise 2 (Graded)
+### Session 19
+## Big data in Security Analytics and SIEM Guest Speaker
 
 ***
 

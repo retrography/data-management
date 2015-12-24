@@ -6,28 +6,31 @@ title: Course Outline
 ### Session 1
 ## Data & Society: Data Ownership and Privacy
 
+Concepts: Information Privacy, Privacy Regulations, Data Ownership
+
 Readings:
 
-- Read Kitchin Ch. 10 ( up to "Data Security")
-- Take a look at [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
-- Take a look at [A Death in the Database | The New Yorker](http://www.newyorker.com/business/currency/a-death-in-the-database)
-- Take a look at [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
-- And if you have time skim [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+- Kitchin Chapter 10 (Ethical, Political, Social and Legal Concerns)
+- [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 
-[Slides]({{ site.baseurl}}/public/slides/session_22.pdf)
+Resources:
+
+- [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
+- [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+
+[Slides](https://docs.google.com/presentation/d/1pgHngzrf7JcmKP902_KpAXu00dNBSkYvmDIGCe1An94/pub?start=false&loop=false&delayms=60000)
 <!--- modify the slides and include course introduction and some slides about Canadian privacy legislation --->
 
 ***
 ### Session 2
 ## Conceptualizing Data and Knowledge Discovery Process
 
-Readings:
+Concepts: Data, Information, Knowledge, Data Types
 
-- Read Kitchin Ch. 1
-- Skim Kitchin Ch. 2
-- Take a look at [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
+Reading: Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
 
-[Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
+Resource: [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
+
 <!--- modify the slides http://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf, http://www.csd.uwo.ca/faculty/ling/cs435/fayyad.pdf  --->
 
 ***
@@ -40,25 +43,26 @@ Deliverable: Open a free [ElephantSQL](http://www.elephantsql.com) account (Turt
 
 Activity: Opening CSV and XML files in Excel
 
-[Slides]({{ site.baseurl}}/public/slides/session_02.pdf)
-
 ***
 ### Session 4
 ## Sources of Data: Open and Linked Data
 
+Concepts: Open Data, Data Markets, Linked Data, Data Augmentation
+
 Readings:
 
-- Read Kitchin Ch. 3
-- Skim [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+- Kitchin Chapter 3 (Open and Linked Data)
 
 Activity: Discussing projects
 
-Additional Resources:
-
+Resources:
+- [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
 - [The Open Data Handbook](http://opendatahandbook.org)
-- [Open data example 1: Open Government Canada](http://open.canada.ca)
-- [Open data example 2: Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
-- [Open data example 3: Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
+
+Open Data Examples:
+- [Open Government Canada](http://open.canada.ca)
+- [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
+- [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
 Note: Project registration starts today. Register ASAP, or your chances of being assigned to your preferred project will diminish.
 
@@ -68,52 +72,63 @@ Note: Project registration starts today. Register ASAP, or your chances of being
 ### Session 5
 ## Data Preparation: Data Scraping and Data APIs
 
+Concepts: Data Scraping, Application Programming Interface
+
 Deliverables:
+
 - Project registration
 - Open a free [Kimono Labs](https://www.kimonolabs.com) account
 
-<!--- need a simple API example here --->
+Activity: Exercise 1
+
 ***
 ### Session 6
-## Organizational Data and Data Processing Infrastructure   
+## Data & Business: Information Lifecycle of The Firm
 
-- Read Watson Ch. 1 (From organizational data management up to components of organizational + Problems with data management systems)
-- Read Watson Ch. 2 (Information and managerial work)
-- Read Gartner's report [Advancing Business With Advanced Analytics](http://www.gartner.com/document/3090420?ref=solrAll&refval=160421676&qid=10187e0cc7f2db0d549c9d44eb0bf868)
-- Read Gartner's report [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
-- Take a look at [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
+Concepts: Organizational Information Systems and Management
+
+Readings:
+
+- Watson Chapter 1 From "Organizational Data Management" to "Components of Organizational Memory"
+- Watson Chapter 1, section "Problems with Data Management Systems"
+- Read Watson Chapter 2, section "Information and Managerial Work"
+
+Resources:
+
+- [Advancing Business With Advanced Analytics](http://www.gartner.com/document/3090420?ref=solrAll&refval=160421676&qid=10187e0cc7f2db0d549c9d44eb0bf868)
+- [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
+- [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 
 Note: Project groups are already finalized. Start finding data sources and preparing your project proposal.
-<!--- decide about format conversion tools --->
+
 ***
 ### Session 7
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
-Concepts:
+Concepts: Data Quality, Data Cleaning
 
-Activity:
+Reading: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 
-- Creating OpenRefine projects from CSV and JSON data sources
-- Using OpenRefine for data cleaning and transformation
-
-Resource: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
+Activity: Exercise 1
 
 ***
-
 ### Session 8
 ## Data & Business: Data-driven Business Models
 
-Deliverable: Important Deadline: Each team submits a one-page project proposal and proposes a relevant dataset for the project
+Concepts: Business Models, Data-related Value-added Activities
+
+Deliverable: Each team submits a one-page project proposal and proposes at least one additional data source to augment the default project datasets
 
 Readings:
 
-- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://www.cambridgeservicealliance.org/uploads/downloadfiles/2014_March_Data Driven Business Models.pdf)
-- Have a look at [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
-- Have a look at [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
+- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/news/March2014Paper)
 
-Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZNtTAydUc0kHBMZl11m5byrdxEte64t28/edit?usp=sharing)<br />
+Activity: TBA
 
-[Slides]({{ site.baseurl}}/public/slides/session_05.pdf)
+Resources:
+
+- [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
+- [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
 
 ***
 
@@ -122,25 +137,27 @@ Activities: [Class Exercise](https://docs.google.com/presentation/d/195ZUXLbBWPZ
 
 Concepts: Data Definition, Data Manipulation, Primary Key, Table, Field
 
+Reading: Watson Chapter 3 (stop at "Querying a database")
+
 Activities:
 
 - Getting familiar with PostgreSQL and Valentina Studio
-- Exercise 1
+- Exercise 3
 
 Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in a week (Session 11).
 
 ***
-
 ### Session 10
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
 Readings:
 
-- Read [Burghin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
-- Read Watson Ch. 19 (stop at “Conclusion—paradisepostponed”)
-- Have a look at [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+- [Burghin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
+- Watson Chapter 19 (stop at “Conclusion — paradise postponed”)
 
 Activity: Guest Speaker - Guillaume Bédard
+
+Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 [Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
@@ -150,21 +167,25 @@ Activity: Guest Speaker - Guillaume Bédard
 
 Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
 
+Readings:
+
+- Watson Chapters 7 & 8
+
 Deliverables:
 
-- 1-pager describing project data import process, and some data descriptives (for each group)
-- 7-minute presentation of the content of the above document. No powerpoint required. You are supposed to demonstrate the outcomes on Valentina.
+- Each team submits a one-page document describing its data cleaning and import process, as well as outlining the data structure.
+- Each team appoints one member to present the above document in front of the class. No powerpoint is required. You are supposed to demonstrate the outcomes directly on Valentina Studio.
 
 ***
-
 ### Session 12
 ## Data & Business: Data Science and Data-Driven Decision Making
 
+Concepts: Big Data, Data-Driven Decision Making, Data Science 
+
 Readings:
 
-- Read Kitchin Ch. 6
-- Have a look at [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
-- Have a look at [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+- [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
+- [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 ### Session 13
@@ -172,7 +193,7 @@ Readings:
 
 Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
 
-Activity: Exercise 2
+Activity: Exercise 4
 
 ***
 ### Session 14
@@ -188,7 +209,7 @@ Activity: Exercise 2
 
 Concepts: Resultset, Union, Cartesian Product, Join
 
-Activity: Exercise 3
+Activity: Exercise 5
 
 ***
 ### Session 16
@@ -207,13 +228,14 @@ Activities: [SQL Injection](http://www.codebashing.com/sql_demo)
 
 Concepts: Aggregation, Grouping, Function
 
-Activity: Exercise 4
+Activity: Exercise 6
 
 ***
 
 ### Session 18
+## Theoretical Quiz
 
-*Quiz on Theoretical Content*
+Activity: Quiz
 
 ***
 ### Session 19
@@ -221,7 +243,7 @@ Activity: Exercise 4
 
 Concepts: Casting Functions, String Functions, Math Functions, Update
 
-Activity: Exercise 5
+Activity: Exercise 7
 
 ***
 
@@ -231,9 +253,11 @@ Activity: Exercise 5
 ***
 
 ### Session 21
-## Security Analytics and SIEM
+## Security Analytics and Technical Quiz
 
-Activity: Guest Speaker - TBA
+Activities:
+- Guest Speaker
+- Quiz
 
 ***
 
@@ -247,7 +271,7 @@ Activity: Guest Speaker - TBA
 
 Concepts: Database Connection
 
-Activity: Exercise 6
+Activity: Exercise 8
 
 ***
 

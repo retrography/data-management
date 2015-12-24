@@ -1,0 +1,57 @@
+Hanieh:
+Make sure links work
+Make sure feedback form works
+Update course index
+Update general project description (describing each step and deliverables)
+FAQ
+
+Exercise 7
+Exercise 8
+
+Mahmood:
+Kimono Tutorial
+Valentina Studio Tutorial
+
+Session 5: Need a simple API example here
+
+Exercise 1
+- Scrape a website with kimono
+
+Exercise 2
+- Convert a json to CSV with open refine
+- http://programminghistorian.org/lessons/cleaning-data-with-openrefine as exercise
+- Creating OpenRefine projects from CSV and JSON data sources
+- Using OpenRefine for data cleaning and transformation
+
+Exercise 3
+- Creating a table
+- Adding fields
+- Importing a CSV file
+
+Exercise 4
+- Run a select query
+- Order by clause
+- Where clauses
+- Limit and Skip
+
+Exercise 5
+- Run a union
+- Run an inner join
+- Run a left outer join
+
+Exercise 6
+- Aggregation functions
+- Group by
+
+Exercise 9
+- Casting functions
+- String manip functions
+- Calculation
+- Creating a new calculated field
+- Creating a new casted field
+- Creating a new transformed text field
+- Create a view
+
+Exercise 10
+- Make a postgresql database connection in Excel
+- Fetch data using a query

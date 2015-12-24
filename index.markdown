@@ -4,17 +4,16 @@ title: Course Description
 ---
 # Course Description
 
-- ___Course Title:___ Managing Data and Databases / Data and Database Management
-    - ___Course Number:___ INSY 437 / INSY 638
-    - ___Date:___ Winter 2015
-    - ___Schedule:___ Tue/Thu 4:05pm-5:25pm
-    - ___Location:___ Bronfman 045
+- ___Course Title:___ Managing Data and Databases
+    - ___Date:___ Winter 2016
+    - ___Schedule:___ Mon/Wed 4:05pm-5:25pm
+    - ___Location:___ Bronfman 205
 - ___Instructor:___ Mahmood Shafeie Zargar - <mahmood.shafeiezargar@mcgill.ca>
-    - ___Office Hours:___ Tuesdays and Thursdays 5:30pm-6:00pm
-    - ___Office:___ Bronfman 548
-- ___Tutor:___ Hanieh Moshki - <hanieh.moshki@hec.ca>
-    - ___Office Hours:___ Thursdays 3:00pm-4:00pm
-    - ___Office:___ Bronfman 548
+    - ___Office Hours:___ Mon 5:30pm-6:30pm
+    - ___Office:___ TBA
+- ___Tutor:___ Hanieh Moshki - <hanieh.moshki@mcgill.ca>
+    - ___Office Hours:___ Wed 5:30pm-6:30pm
+    - ___Office:___ TBA
 - ___For help or feedback:___
     - Come by during our office hours or ask for an appointment
     - Contact us directly by email
@@ -25,7 +24,7 @@ title: Course Description
 
 This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. This course is open to students in their 3rd year. It will count towards the IS concentration or major. It is also open to MBA students in their 2nd year completing an IS concentration or an additional course to enhance their IT knowledge in the workplace. This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. This course is not a substitute for database design and development courses offered in computer science departments.
 
-## ￼￼Learning Outcomes
+## Learning Outcomes
 
 By the end of this course, you will be able to:
 
@@ -114,15 +113,10 @@ Course schedule will be shared with you on the first day of the class. One sessi
 
 1. "McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the Code of Student Conduct and Disciplinary Procedures (see www.mcgill.ca/students/srr/honest/ for more information) "L'université McGill attache une haute importance à l’honnêteté académique. Il incombe par conséquent à tous les étudiants de comprendre ce que l'on entend par tricherie, plagiat et autres infractions académiques, ainsi que les conséquences que peuvent avoir de telles actions, selon le Code de conduite de l'étudiant et des procédures disciplinaires (pour de plus amples renseignements, veuillez consulter le site www.mcgill.ca/students/srr/honest/ )."
 
-2. “In accord with McGill University’s Charter of Students’ Rights, students in this course have the right to submit in English or in French any written work that is to be graded.” (approved by Senate on 21 January 2009 - see also the section in this document on Assignments and evaluation.)
-"Conformément à la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté (sauf dans le cas des cours dont l’un des objets est la maîtrise d’une langue)."
+2. “In accord with McGill University’s Charter of Students’ Rights, students in this course have the right to submit in English or in French any written work that is to be graded.” (approved by Senate on 21 January 2009 - see also the section in this document on Assignments and evaluation.) "Conformément à la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté (sauf dans le cas des cours dont l’un des objets est la maîtrise d’une langue)."
 
 ## Credits
 
 Credits go to my colleagues Hani Safadi and Youngsok Bang for providing the original material. I am also indebted to Samer Faraj and Animesh Animesh for their constructive feedback on earlier drafts of the course design. 
 
 I would also like to thank my students _Baptiste, Bicky, Blaire, Cheick, Codrat, Dilhan, Emily, Han, Joshua, Kianna, Laura, Liam, Matthew, Minyel, Natalia, Nick, Omar, Piotr, Sam, Shehryar, Steven, Xavier, Yawen and Yuan Ping_ who were patient with me as I refined this course design and provided me with sincere feedback. You are the inspiration for all the hard work.
-
-![Import CSV Recordset]({{ site.baseurl }}/public/images/guessthefilter.JPG)
-
-

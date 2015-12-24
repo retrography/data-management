@@ -180,7 +180,7 @@ Deliverables:
 ### Session 12
 ## Data & Business: Data Science and Data-Driven Decision Making
 
-Concepts: Big Data, Data-Driven Decision Making, Data Science 
+Concepts: Big Data, Data-Driven Decision Making, Data Science
 
 Readings:
 
@@ -193,15 +193,29 @@ Readings:
 
 Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
 
+Readings:
+
+- Watson Chapter 3 (starting from "Querying a database")
+
 Activity: Exercise 4
 
 ***
 ### Session 14
-## Introduction to Cloud Security
+## Information Security Management
 
-- Read [Cloudy Security: What Your Advisor Doesn't Know About Cloud Computing Could Hurt You](http://www.forbes.com/sites/kellyphillipserb/2015/12/09/cloudy-security-what-your-advisor-doesnt-know-about-cloud-computing-could-hurt-you/)
-- Read [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
-- Take a look at [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
+Concepts: Information Security, Security Breach, Information Security Management
+
+Readings:
+
+- [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
+- [Solms & Solms (2004) The 10 deadly sins of information security management](http://www.uio.no/studier/emner/matnat/ifi/INF3510/v10/learningdocs/VonSolms-10-Deadly-Sins.pdf)
+
+Activity: TBA
+
+Resources:
+
+- [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
+- [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
 
 ***
 ### Session 15
@@ -209,26 +223,32 @@ Activity: Exercise 4
 
 Concepts: Resultset, Union, Cartesian Product, Join
 
+Readings: Watson Chapter 9
+
 Activity: Exercise 5
 
 ***
 ### Session 16
-## Information and Database Security
+## Security Audit
 
-- Read [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
-- Read [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
-- Take a look at [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
+Concepts: Security Audit, Data Control, Database Security, Security Threat
 
-Activities: [SQL Injection](http://www.codebashing.com/sql_demo)
-[Slides]({{ site.baseurl }}/public/slides/session_20.pdf)
+- [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
+- Sec Audit Reading (TBA)
+
+Activity: [SQL Injection](http://www.codebashing.com/sql_demo)
+
+Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
+
 ***
-
 ### Session 17
 ## SQL: Data Aggregation
 
-Concepts: Aggregation, Grouping, Function
+Concepts: Aggregation, Grouping, Aggregate Functions
 
 Activity: Exercise 6
+
+Resource: Watson Chapter 10
 
 ***
 
@@ -241,17 +261,17 @@ Activity: Quiz
 ### Session 19
 ## SQL: Data Casting and Other Functions
 
-Concepts: Casting Functions, String Functions, Math Functions, Update
+Concepts: Casting, String Functions, Math Functions, Update, View
 
 Activity: Exercise 7
 
 ***
-
 ### Session 20
 ## Data Visualization with Tableau 1
 
-***
+Activity: Exercise 8
 
+***
 ### Session 21
 ## Security Analytics and Technical Quiz
 
@@ -260,18 +280,18 @@ Activities:
 - Quiz
 
 ***
-
 ### Session 22
 ## Data Visualization with Tableau 2
 
-***
+Activity: Exercise 9
 
+***
 ### Session 23
 ## Full Circle: Bridging SQL and Excel
 
 Concepts: Database Connection
 
-Activity: Exercise 8
+Activity: Exercise 10
 
 ***
 

@@ -59,7 +59,7 @@ Additional resources:
 
 - PostgreSQL [online documentation](http://www.postgresql.org/docs/9.4/interactive/index.html)
 - SQL for Dummies by Allen G. Taylor ([Safari Books Online](http://proquest.safaribooksonline.com/book/databases/sql/9781118657119)
-- Any online SQL tutorial (e.g. [1keydata](www.1keydata.com/sql/sql.html))
+- Any online SQL tutorial (e.g. [1keydata](http://www.1keydata.com/sql/sql.html))
 
 Ask us about more specific resources, if you need additional guidance for your project.
 ￼￼

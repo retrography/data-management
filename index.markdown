@@ -71,7 +71,6 @@ Ask us about more specific resources, if you need additional guidance for your p
 - ￼[Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)
 - [Tableau](http://www.tableau.com/academic/students)
 
-
 ## ￼￼Grading and Evaluation
 
 | __Activity__                 | __Grade__ |
@@ -104,13 +103,11 @@ Ask us about more specific resources, if you need additional guidance for your p
 
 ## Quizzes
 
-- Session 18 (25% of final grade): This quiz will cover non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers.
+- Session 18 (25% of final grade): The quiz will cover non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers.
 
 - Session 21 (20% of final grade): The quiz will cover technical SQL concepts covered during the course.
 
 If you attend and actively participate in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay (session 18) and query building (session 21) questions.
-
-The quiz questions are [crowdsourced]({{ site.baseurl }}/quiz/). Each student will contribute one or two questions to each quiz. Subsequently the questions will be curated and published online. The curated list will be your only reference for the quiz.
 
 ## Attendance/Participation
 

@@ -96,8 +96,8 @@ Readings:
 
 Resources:
 
-- [Advancing Business With Advanced Analytics](http://www.gartner.com/document/3090420?ref=solrAll&refval=160421676&qid=10187e0cc7f2db0d549c9d44eb0bf868)
-- [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
+- [Advancing Business With Advanced Analytics](https://www.gartner.com/doc/3090420/advancing-business-advanced-analytics)
+- [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 
 Note: Project teams are already finalized. Start finding data sources and preparing your project proposal.
@@ -129,7 +129,7 @@ Activity: TBA
 Resources:
 
 - [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
-- [Facebook: Quarterly Earning Slides Q3 2014.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/3618325453x0x789303/06decc7b-0588-4a52-a8dd-3a591ab02395/FBQ314EarningsSlides20141027.pdf)
+- [Facebook: Quarterly Earning Slides Q3 2015.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/1237862025x0x859098/DC6C9112-AFF6-4E76-9168-7DBA0D5FFDAB/FB_Q3_15_Earnings_Slides_FINAL.pdf)
 
 ***
 
@@ -217,6 +217,7 @@ Resources:
 
 - [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
 - [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
+--[Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
 
 ***
 ### Session 15

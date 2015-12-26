@@ -8,16 +8,16 @@ title: Course Description
     - ___Date:___ Winter 2016
     - ___Schedule:___ Mon/Wed 4:05pm-5:25pm
     - ___Location:___ Bronfman 205
-- ___Instructor:___ Mahmood Shafeie Zargar - <mahmood.shafeiezargar@mcgill.ca>
+- ___Co-Instructor:___ Mahmood Shafeie Zargar - <mahmood.shafeiezargar@mcgill.ca>
     - ___Office Hours:___ Mon 5:30pm-6:30pm
     - ___Office:___ TBA
-- ___Tutor:___ Hanieh Moshki - <hanieh.moshki@mcgill.ca>
+- ___Co-Instructor:___ Hanieh Moshki - <hanieh.moshki@mcgill.ca>
     - ___Office Hours:___ Wed 5:30pm-6:30pm (upon request)
     - ___Office:___ TBA
 - ___For help or feedback:___
     - Ask for an appointment
     - Contact us directly by email
-    - Send me [anonymous feedback](TBA)
+    - Send us [anonymous feedback](TBA)
 
 
 ## Course Objectives

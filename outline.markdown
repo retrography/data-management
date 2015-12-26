@@ -217,7 +217,7 @@ Resources:
 
 - [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
 - [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
---[Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
+- [Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
 
 ***
 ### Session 15

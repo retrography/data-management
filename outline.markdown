@@ -12,6 +12,7 @@ Readings:
 
 - Kitchin Chapter 10 (Ethical, Political, Social and Legal Concerns)
 - [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+- [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 Resources:
 
@@ -99,7 +100,7 @@ Resources:
 - [ITScore for BI and Analytics](http://www.gartner.com/document/3103517?ref=solrAll&refval=160421610&qid=10187e0cc7f2db0d549c9d44eb0bf868)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 
-Note: Project groups are already finalized. Start finding data sources and preparing your project proposal.
+Note: Project teams are already finalized. Start finding data sources and preparing your project proposal.
 
 ***
 ### Session 7
@@ -109,7 +110,7 @@ Concepts: Data Quality, Data Cleaning
 
 Reading: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 
-Activity: Exercise 1
+Activity: Exercise 2
 
 ***
 ### Session 8
@@ -244,7 +245,7 @@ Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_to
 ### Session 17
 ## SQL: Data Aggregation
 
-Concepts: Aggregation, Grouping, Aggregate Functions
+Concepts: Aggregation, teaming, Aggregate Functions
 
 Activity: Exercise 6
 
@@ -270,6 +271,10 @@ Activity: Exercise 7
 ## Data Visualization with Tableau 1
 
 Activity: Exercise 8
+
+Deliverable:
+
+- Each team submits a two-page progress report which shows the gradual application of the concepts learned during the practical sessions to the project.
 
 ***
 ### Session 21

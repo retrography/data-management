@@ -19,7 +19,7 @@ Resources:
 - [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 - [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
-[Slides](https://drive.google.com/drive/folders/0Bzzq4Ouunww9UEN4d2wtYmpFdjA)
+[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)
 
 ***
 ### Session 2

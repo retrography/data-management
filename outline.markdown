@@ -6,33 +6,38 @@ title: Course Outline
 ### Session 1
 ## Data & Society: Data Ownership and Privacy
 
-Concepts: Information Privacy, Privacy Regulations, Data Ownership
+Concepts: Information Privacy, Privacy violation, Data Ownership
 
 Readings:
 
 - Kitchin Chapter 10 (Ethical, Political, Social and Legal Concerns)
-- [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
-- [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- Newell and Marabelli (2015) [Strategic opportunities (and challenges) of algorithmic decision-making: A call for action on the long-term societal effects of ‘datification’] (http://www.sciencedirect.com/science/article/pii/S0963868715000025)
 
 Resources:
 
 - [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
-- [Lenard & Rubin (2013) The Big Data Revolution: Privacy Considerations](http://www.techpolicyinstitute.org/files/lenard_rubin_thebigdatarevolutionprivacyconsiderations.pdf)
+- [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+- [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
-[Slides](https://docs.google.com/presentation/d/1pgHngzrf7JcmKP902_KpAXu00dNBSkYvmDIGCe1An94/pub?start=false&loop=false&delayms=60000)
-<!--- modify the slides and include course introduction and some slides about Canadian privacy legislation --->
+[Slides](https://drive.google.com/drive/folders/0Bzzq4Ouunww9UEN4d2wtYmpFdjA)
 
 ***
 ### Session 2
-## Conceptualizing Data and Knowledge Discovery Process
+## Conceptualizing Data and Knowledge Extraction Process
 
 Concepts: Data, Information, Knowledge, Data Types
 
 Reading: Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
 
-Resource: [CRISP-DM 1.0 knowledge discovery process](https://www.the-modeling-agency.com/crisp-dm.pdf)
 
-<!--- modify the slides http://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf, http://www.csd.uwo.ca/faculty/ling/cs435/fayyad.pdf  --->
+Exercise 1:
+
+- [Paper for groups 1 & 2](http://delivery.acm.org/10.1145/2810000/2805845/p1293-canzian.pdf?ip=198.48.215.232&id=2805845&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512856_d778106f00a8488a9d5164bfd1fa51cb)
+-[Paper for groups 3 & 4](http://delivery.acm.org/10.1145/2810000/2805828/p1281-zhang.pdf?ip=198.48.215.232&id=2805828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512886_35d6663e9d979c652cb8597fc38c6f58)
+-[Paper for groups 5 & 6 ](http://delivery.acm.org/10.1145/2810000/2807533/p1269-inoue.pdf?ip=198.48.215.232&id=2807533&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512943_6c08373dfcbe626d535b2f7af43ac684)
+-[Paper for groups 7 & 8](http://delivery.acm.org/10.1145/2810000/2805834/p529-rubin.pdf?ip=198.48.215.232&id=2805834&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451513456_8d8c5810eb3e8d671df7d675eb2f6afc)
+
+[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)
 
 ***
 ### Session 3
@@ -48,16 +53,16 @@ Activity: Opening CSV and XML files in Excel
 ### Session 4
 ## Sources of Data: Open and Linked Data
 
-Concepts: Open Data, Data Markets, Linked Data, Data Augmentation
+Concepts: Open Data, Data Markets, Linked Data
 
 Readings:
 
 - Kitchin Chapter 3 (Open and Linked Data)
-
+- [Spiekermann et al. (2015) Personal data markets (Access through McGill library)](http://link.springer.com/article/10.1007/s12525-015-0190-1)
 Activity: Discussing projects
 
 Resources:
-- [Open data: Unlocking innovation and performance with liquid information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+-[Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
 - [The Open Data Handbook](http://opendatahandbook.org)
 
 Open Data Examples:
@@ -65,9 +70,12 @@ Open Data Examples:
 - [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
+Example:
+-[Paper 1: Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
+
 Note: Project registration starts today. Register ASAP, or your chances of being assigned to your preferred project will diminish.
 
-[Slides]({{ site.baseurl }}/public/slides/session_09.pdf)
+[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)
 
 ***
 ### Session 5
@@ -90,18 +98,21 @@ Concepts: Organizational Information Systems and Management
 
 Readings:
 
+
 - Watson Chapter 1 From "Organizational Data Management" to "Components of Organizational Memory"
 - Watson Chapter 1, section "Problems with Data Management Systems"
 - Read Watson Chapter 2, section "Information and Managerial Work"
+- Read [RANSBOTHAM et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
 
 Resources:
 
-- [Advancing Business With Advanced Analytics](https://www.gartner.com/doc/3090420/advancing-business-advanced-analytics)
 - [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
+- [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through Macgill library)](http://www.springer.com/us/book/9781484209875)
 
 Note: Project teams are already finalized. Start finding data sources and preparing your project proposal.
 
+[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)
 ***
 ### Session 7
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion

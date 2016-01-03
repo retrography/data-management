@@ -34,11 +34,11 @@ Exercise 1:
 
 - [Paper for groups 1 & 2](http://delivery.acm.org/10.1145/2810000/2805845/p1293-canzian.pdf?ip=198.48.215.232&id=2805845&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512856_d778106f00a8488a9d5164bfd1fa51cb)
 
--[Paper for groups 3 & 4](http://delivery.acm.org/10.1145/2810000/2805828/p1281-zhang.pdf?ip=198.48.215.232&id=2805828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512886_35d6663e9d979c652cb8597fc38c6f58)
+- [Paper for groups 3 & 4](http://delivery.acm.org/10.1145/2810000/2805828/p1281-zhang.pdf?ip=198.48.215.232&id=2805828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512886_35d6663e9d979c652cb8597fc38c6f58)
 
--[Paper for groups 5 & 6 ](http://delivery.acm.org/10.1145/2810000/2807533/p1269-inoue.pdf?ip=198.48.215.232&id=2807533&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512943_6c08373dfcbe626d535b2f7af43ac684)
+- [Paper for groups 5 & 6 ](http://delivery.acm.org/10.1145/2810000/2807533/p1269-inoue.pdf?ip=198.48.215.232&id=2807533&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512943_6c08373dfcbe626d535b2f7af43ac684)
 
--[Paper for groups 7 & 8](http://delivery.acm.org/10.1145/2810000/2805834/p529-rubin.pdf?ip=198.48.215.232&id=2805834&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451513456_8d8c5810eb3e8d671df7d675eb2f6afc)
+- [Paper for groups 7 & 8](http://delivery.acm.org/10.1145/2810000/2805834/p529-rubin.pdf?ip=198.48.215.232&id=2805834&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451513456_8d8c5810eb3e8d671df7d675eb2f6afc)
 
 [Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)
 
@@ -66,7 +66,7 @@ Activity: Discussing projects
 
 Resources:
 
--[Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
+- [Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
 - [The Open Data Handbook](http://opendatahandbook.org)
 
 Open Data Examples:
@@ -75,7 +75,7 @@ Open Data Examples:
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
 Example:
--[Paper 1: Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
+- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
 
 Note: Project registration starts today. Register ASAP, or your chances of being assigned to your preferred project will diminish.
 

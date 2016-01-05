@@ -37,7 +37,6 @@ By the end of this course, you will be able to:
 - Run simple and complex SQL queries
 - Use a visualization tool backed by a database (Tableau)
 - Work in teams and run a data analysis project from data import to reporting
-
 - Grasp the increasing importance of data privacy and information security for citizens and corporations
 - Analyze the data life cycle in organizations
 - Examine how data enables new business models

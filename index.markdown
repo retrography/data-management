@@ -77,9 +77,11 @@ Ask us about more specific resources, if you need additional guidance for your p
 
 ## Project
 
-The project is a group exercise that will take you through all the stages of data gathering, import, cleaning and to some extent analysis. Project assessment will be gradual and based on several deliverables due throughout the term, with the bulk of project grade being defined by your final results, final presentation and final report. Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester.
+The project is a group exercise that will take you through all the stages of data gathering, import, cleaning and to some extent analysis. Project assessment will be gradual and based on several deliverables due throughout the term, with the bulk of project grade being defined by your final results, final presentation and final report.
 
-For more information about the project, see the [project](../project) page.
+Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester. Also try to make your responsibility and your contribution to the project as clear and distinctive as possible.
+
+For more information about the project, see the [project](./project) page.
 
 ## Quizzes
 
@@ -87,7 +89,7 @@ For more information about the project, see the [project](../project) page.
 
 - Technical Quiz (20% of final grade): The quiz will cover technical concepts and skills, including SQL.
 
-If you attend and actively participate in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay (session 18) and query building (session 21) questions.
+If you attend and actively participate in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay and query building questions.
 
 ## Attendance/Participation
 

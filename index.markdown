@@ -9,20 +9,19 @@ title: Course Description
     - ___Schedule:___ Mon/Wed 4:05pm-5:25pm
     - ___Location:___ Bronfman 205
 - ___Co-Instructor:___ Mahmood Shafeie Zargar - <mahmood.shafeiezargar@mcgill.ca>
-    - ___Office Hours:___ Mon 5:30pm-6:30pm
-    - ___Office:___ TBA
+    - ___Office Hours:___ Wed 5:30pm-6:30pm
+    - ___Office:___ 236
 - ___Co-Instructor:___ Hanieh Moshki - <hanieh.moshki@mcgill.ca>
-    - ___Office Hours:___ Wed 5:30pm-6:30pm (upon request)
-    - ___Office:___ TBA
+    - ___Office Hours:___ Mon 5:30pm-6:30pm
+    - ___Office:___ 236
 - ___For help or feedback:___
     - Ask for an appointment
     - Contact us directly by email
-    - Send us [anonymous feedback](TBA)
 
 
 ## Course Objectives
 
-This course is designed to provide a first hands-on experience with databases as well as a general understanding of data analysis concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. This course is open to students in their 3rd year. It will count towards the IS concentration or major. This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. This course is not a substitute for database design and development courses offered in computer science departments.
+This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. The course is open to students in their 3rd year. It will count towards the IS concentration or major. This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. This course is not a substitute for database design and development courses offered in computer science departments.
 
 ## Practical Learning Outcomes
 
@@ -31,11 +30,11 @@ By the end of this course, you will be able to:
 - Understand the basic concepts of data types, data formats and data structure
 - Use a web scraping tool (Kimono) and data APIs
 - Understand the concept of data quality and use a data cleaning and transformation tool (OpenRefine)
-- Use SQL for data definition (DDL) and data manipulation (DML) purposes
-- Use a database server (ElephantSQL) and a database management tool (Valentina Studio)
-- Design a relational database using Entity Relationship Diagrams (ERD)
-- Use a data visualization tool(Tableau)
-- Set and deploy an integrated ecosystem of data cleaning, data querying and data visualization tools
+- Connect to and use a relational database (PostgreSQL)
+- Design a simple relational database using Entity Relationship Diagrams (ERD)
+- Run simple and complex SQL queries
+- Use a visualization tool backed by a database (Tableau)
+- Understand the fundamentals of data ownership, privacy and data ownership
 - Work in teams on a predefined data analysis project and prepare a professional project presentation and project documentation
 
 ## Theoretical Learning Outcomes

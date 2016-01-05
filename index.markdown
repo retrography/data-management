@@ -21,32 +21,29 @@ title: Course Description
 
 ## Course Objectives
 
-This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. The course is open to students in their 3rd year. It will count towards the IS concentration or major. This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. This course is not a substitute for database design and development courses offered in computer science departments.
+This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. The course is open to students in their 3rd year. It will count towards the IS concentration or major. This is not a substitute for database design and development courses offered in computer science departments.
+
+This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. You are advised to take [INSY 442 Business Intelligence and Data Analytics](http://www.mcgill.ca/study/2015-2016/courses/insy-442) either before or along with this course in order to benefit fully from the content of the course.
 
 ## Practical Learning Outcomes
 
 By the end of this course, you will be able to:
 
-- Understand the basic concepts of data types, data formats and data structure
+- Understand the basic concepts of data storage, retrieval and transformation
 - Use a web scraping tool (Kimono) and data APIs
 - Understand the concept of data quality and use a data cleaning and transformation tool (OpenRefine)
 - Connect to and use a relational database (PostgreSQL)
-- Design a simple relational database using Entity Relationship Diagrams (ERD)
+- Apply modeling techniques to design a simple database
 - Run simple and complex SQL queries
 - Use a visualization tool backed by a database (Tableau)
-- Understand the fundamentals of data ownership, privacy and data ownership
-- Work in teams on a predefined data analysis project and prepare a professional project presentation and project documentation
-
-## Theoretical Learning Outcomes
-
-By the end of this course, you will be able to:
+- Work in teams and run a data analysis project from data import to reporting
 
 - Grasp the increasing importance of data privacy and information security for citizens and corporations
 - Analyze the data life cycle in organizations
 - Examine how data enables new business models
-- Understand the new trends in big data, data science, data-enabled decision making and predictive analytics
+- Understand the new trends in big data, data science, data-enabled decision making
 - Understand the new trends in open data and release of public data
-_ Grasp the cruciality of information security
+- Conceptualize the increasing importance of data privacy and information security for citizens and corporations
 
 ## References
 
@@ -79,32 +76,17 @@ Ask us about more specific resources, if you need additional guidance for your p
 | Practical Quiz               |    20%    |
 | Attendance and Participation |    10%    |
 
-## Final project milestones and deliverables
+## Project
 
-- Session 4: Description of four different project themes will be provided to students. Each project theme explains a debate between two opposing perspectives (4 themes X 2 perspectives = 8 projects) and includes two datasources that are obligatory to deploy. Students will be allocated to teams of 4 or 5 members based on their preferences for the theme and existing restrictions. The perspective of each team will be determined after the formation of teams and by a quick voting during session 6.
+The project is a group exercise that will take you through all the stages of data gathering, import, cleaning and to some extent analysis. Project assessment will be gradual and based on several deliverables due throughout the term, with the bulk of project grade being defined by your final results, final presentation and final report. Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester.
 
-- Session 5: Students can start sharing their project preferences through the [google sheet](https://docs.google.com/spreadsheets/d/1uLZUYcT0lNsftE-JmAflX0qQvXOcdTnfwbLAHWM2vAU/edit). To determine their preferences for the theme students may also want to go through the existing open data sources ( some introduced in session 3 )
-
-- Session 6: Team compositions will be finalized during this session and members can start to intensively discuss and analyze  other datasources that they will use for the project after this session.
-
-- Session 8 (8% of the final grade): By this session teams are to submit a one-page long but precise explanation of their approach and additional datasources for the projects. Each team should explain how it finds the proposed additional datasource(s) relevant for the project and how can all the project datasources be used and related.
-
-- Session 11 (8% of the final grade): By this session teams are to finish data cleaning and data transformation and to import the data to the database server. Teams are to submit a one-page document explaining the data cleaning, transformation and importation procedure and to present it during this session.
-
-- Session 20 (8% of the final grade): By this session teams are to submit a two-page progress report which shows the gradual application of the concepts learned during the practical sessions to the project.
-
-- Session 24: This session will be an opportunity for teams to demonstrate their performance and mastery of their analytical skills.
-
-- Session 25 and 26 (8% of the final grade): During these sessions teams are to present the finalized analysis and visualizations that will support their specific perspectives on each theme.
-
--  Final project documentation (13% of the final project grade) submission deadline:TBA
-
+For more information about the project, see the [project](../project) page.
 
 ## Quizzes
 
-- Session 18 (25% of final grade): The quiz will cover non-technical compulsory readings, material discussed during the class and eventual presentations by classmates or guest speakers.
+- Theory Quiz (25% of final grade): The quiz will cover the compulsory readings from theoretical sessions, material discussed during the class and eventual presentations by classmates or guest speakers.
 
-- Session 21 (20% of final grade): The quiz will cover technical SQL concepts covered during the course.
+- Technical Quiz (20% of final grade): The quiz will cover technical concepts and skills, including SQL.
 
 If you attend and actively participate in class discussion, these should be quite straightforward. The quizzes will take about 45 minutes of the class period and will be composed of a few short essay (session 18) and query building (session 21) questions.
 
@@ -112,9 +94,9 @@ If you attend and actively participate in class discussion, these should be quit
 
 Please e-mail us before class if you will be missing a session. If you miss more than two sessions, your participation grade will drop. However, being in class is not sufficient for receiving full participation points. Be active and contribute to class discussions!
 
-## Course Calendar
+<!--## Course Calendar
 
-[Course shared google calendar](https://calendar.google.com/calendar/embed?src=hanieh.moshki%40gmail.com&ctz=America/Montreal)
+[Course shared google calendar](https://calendar.google.com/calendar/embed?src=hanieh.moshki%40gmail.com&ctz=America/Montreal)-->
 
 ## University Policies
 

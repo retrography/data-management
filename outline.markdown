@@ -19,7 +19,7 @@ Resources:
 - [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 - [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
-[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)
+<!--[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)-->
 
 ***
 ### Session 2
@@ -29,18 +29,14 @@ Concepts: Data, Information, Knowledge, Data Types
 
 Reading: Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
 
-
-Exercise 1:
+Activity: Class Exercise
 
 - [Paper for groups 1 & 2](http://delivery.acm.org/10.1145/2810000/2805845/p1293-canzian.pdf?ip=198.48.215.232&id=2805845&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512856_d778106f00a8488a9d5164bfd1fa51cb)
-
 - [Paper for groups 3 & 4](http://delivery.acm.org/10.1145/2810000/2805828/p1281-zhang.pdf?ip=198.48.215.232&id=2805828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512886_35d6663e9d979c652cb8597fc38c6f58)
-
 - [Paper for groups 5 & 6 ](http://delivery.acm.org/10.1145/2810000/2807533/p1269-inoue.pdf?ip=198.48.215.232&id=2807533&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512943_6c08373dfcbe626d535b2f7af43ac684)
-
 - [Paper for groups 7 & 8](http://delivery.acm.org/10.1145/2810000/2805834/p529-rubin.pdf?ip=198.48.215.232&id=2805834&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451513456_8d8c5810eb3e8d671df7d675eb2f6afc)
 
-[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)
+<!--[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)-->
 
 ***
 ### Session 3
@@ -62,6 +58,7 @@ Readings:
 
 - Kitchin Chapter 3 (Open and Linked Data)
 - [Spiekermann et al. (2015) Personal data markets (Access through McGill library)](http://link.springer.com/article/10.1007/s12525-015-0190-1)
+
 Activity: Discussing projects
 
 Resources:
@@ -70,16 +67,18 @@ Resources:
 - [The Open Data Handbook](http://opendatahandbook.org)
 
 Open Data Examples:
+
 - [Open Government Canada](http://open.canada.ca)
 - [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
+<!--
 Example:
-- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
+- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)-->
 
 Note: Project registration starts today. Register ASAP, or your chances of being assigned to your preferred project will diminish.
 
-[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)
+<!--[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)-->
 
 ***
 ### Session 5
@@ -102,11 +101,10 @@ Concepts: Organizational Information Systems and Management
 
 Readings:
 
-
 - Watson Chapter 1 From "Organizational Data Management" to "Components of Organizational Memory"
 - Watson Chapter 1, section "Problems with Data Management Systems"
 - Read Watson Chapter 2, section "Information and Managerial Work"
-- Read [RANSBOTHAM et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
+- Read [Ransbotham et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
 
 Resources:
 
@@ -116,7 +114,8 @@ Resources:
 
 Note: Project teams are already finalized. Start finding data sources and preparing your project proposal.
 
-[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)
+<!--[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)-->
+
 ***
 ### Session 7
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
@@ -297,6 +296,7 @@ Deliverable:
 ## Security Analytics and Technical Quiz
 
 Activities:
+
 - Guest Speaker
 - Quiz
 

@@ -3,7 +3,7 @@ layout: page
 title: Course Outline
 ---
 
-### Session 1
+### Session 1 - January 7
 ## Data & Society: Data Ownership and Privacy
 
 Concepts: Information Privacy, Privacy violation, Data Ownership
@@ -22,7 +22,7 @@ Resources:
 <!--[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)-->
 
 ***
-### Session 2
+### Session 2 - January 11
 ## Conceptualizing Data and Knowledge Extraction Process
 
 Concepts: Data, Information, Knowledge, Data Types
@@ -39,7 +39,7 @@ Activity: Class Exercise
 <!--[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)-->
 
 ***
-### Session 3
+### Session 3 - January 13
 ## Data Types, Data Formats and Data Structures
 
 Concepts: Data, Data Types, Data Formats, Data Structures
@@ -49,7 +49,7 @@ Deliverable: Open a free [ElephantSQL](http://www.elephantsql.com) account (Turt
 Activity: Opening CSV and XML files in Excel
 
 ***
-### Session 4
+### Session 4 - January 18
 ## Sources of Data: Open and Linked Data
 
 Concepts: Open Data, Data Markets, Linked Data
@@ -81,7 +81,7 @@ Note: Project registration starts today. Register ASAP, or your chances of being
 <!--[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)-->
 
 ***
-### Session 5
+### Session 5 - January 20
 ## Data Preparation: Data Scraping and Data APIs
 
 Concepts: Data Scraping, Application Programming Interface
@@ -94,7 +94,7 @@ Deliverables:
 Activity: Exercise 1
 
 ***
-### Session 6
+### Session 6 - January 25
 ## Data & Business: Information Lifecycle of The Firm
 
 Concepts: Organizational Information Systems and Management
@@ -117,7 +117,7 @@ Note: Project teams are already finalized. Start finding data sources and prepar
 <!--[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)-->
 
 ***
-### Session 7
+### Session 7 - January 27
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
 Concepts: Data Quality, Data Cleaning
@@ -127,7 +127,7 @@ Reading: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons
 Activity: Exercise 2
 
 ***
-### Session 8
+### Session 8 - February 1
 ## Data & Business: Data-driven Business Models
 
 Concepts: Business Models, Data-related Value-added Activities
@@ -147,7 +147,7 @@ Resources:
 
 ***
 
-### Session 9
+### Session 9 - February 3
 ## From Tabular Data to Database
 
 Concepts: Data Definition, Data Manipulation, Primary Key, Table, Field
@@ -162,7 +162,7 @@ Activities:
 Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in a week (Session 11).
 
 ***
-### Session 10
+### Session 10 - February 8
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
 Readings:
@@ -177,7 +177,7 @@ Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://w
 [Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
 ***
-### Session 11
+### Session 11 - February 10
 ## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
 Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
@@ -192,7 +192,7 @@ Deliverables:
 - Each team appoints one member to present the above document in front of the class. No powerpoint is required. You are supposed to demonstrate the outcomes directly on Valentina Studio.
 
 ***
-### Session 12
+### Session 12 - February 15
 ## Data & Business: Data Science and Data-Driven Decision Making
 
 Concepts: Big Data, Data-Driven Decision Making, Data Science
@@ -203,7 +203,7 @@ Readings:
 - [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
-### Session 13
+### Session 13 - February 17
 ## SQL: Queries, Sorting, Filtering
 
 Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
@@ -215,7 +215,7 @@ Readings:
 Activity: Exercise 4
 
 ***
-### Session 14
+### Session 14 - February 22
 ## Information Security Management
 
 Concepts: Information Security, Security Breach, Information Security Management
@@ -234,17 +234,17 @@ Resources:
 - [Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
 
 ***
-### Session 15
-## SQL: Combining Resultsets
+### Session 15 - February 24
+## SQL: Combining Result Sets
 
-Concepts: Resultset, Union, Cartesian Product, Join
+Concepts: Result Set, Union, Cartesian Product, Join
 
 Readings: Watson Chapter 9
 
 Activity: Exercise 5
 
 ***
-### Session 16
+### Session 16 - March 7
 ## Security Audit
 
 Concepts: Security Audit, Data Control, Database Security, Security Threat
@@ -257,10 +257,10 @@ Activity: [SQL Injection](http://www.codebashing.com/sql_demo)
 Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
 
 ***
-### Session 17
+### Session 17 - March 9
 ## SQL: Data Aggregation
 
-Concepts: Aggregation, teaming, Aggregate Functions
+Concepts: Aggregation, Grouping, Aggregate Functions
 
 Activity: Exercise 6
 
@@ -268,13 +268,13 @@ Resource: Watson Chapter 10
 
 ***
 
-### Session 18
+### Session 18 - March 14
 ## Theoretical Quiz
 
 Activity: Quiz
 
 ***
-### Session 19
+### Session 19 - March 16
 ## SQL: Data Casting and Other Functions
 
 Concepts: Casting, String Functions, Math Functions, Update, View
@@ -282,17 +282,15 @@ Concepts: Casting, String Functions, Math Functions, Update, View
 Activity: Exercise 7
 
 ***
-### Session 20
+### Session 20 - March 21
 ## Data Visualization with Tableau 1
+
+Concepts: TBA
 
 Activity: Exercise 8
 
-Deliverable:
-
-- Each team submits a two-page progress report which shows the gradual application of the concepts learned during the practical sessions to the project.
-
 ***
-### Session 21
+### Session 21 - March 23
 ## Security Analytics and Technical Quiz
 
 Activities:
@@ -301,13 +299,15 @@ Activities:
 - Quiz
 
 ***
-### Session 22
+### Session 22 - March 30
 ## Data Visualization with Tableau 2
+
+Concepts: TBA
 
 Activity: Exercise 9
 
 ***
-### Session 23
+### Session 23 - April 4
 ## Full Circle: Bridging SQL and Excel
 
 Concepts: Database Connection
@@ -316,17 +316,17 @@ Activity: Exercise 10
 
 ***
 
-### Session 24
+### Session 24 - April 7
 ## Wrap up and Project Workshop
 
 ***
 
-### Session 25
+### Session 25 - April 6
 ## Project Presentations
 
 ***
 
-### Session 26
+### Session 26 - April 11
 ## Project Presentations
 
 ***

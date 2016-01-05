@@ -3,34 +3,15 @@ layout: page
 title: Project
 ---
 
-## Grading Scheme
-
-* 50% Me, Hanieh and a third judge
-	* Technical Aptitude
-	* Completeness
-	* Originality
-	* Usefulness
-	* Neatness
-	* Coolness
-	* Organization
-	* Involvement
-* 25% Class
-	* Originality
-	* Usefulness
-	* Neatness
-	* Coolness
-* 25% Team Mates
-	* Involvement
-	* Helpfulness
-	* Responsibility
-
 ## Description
 
-You will be assigned to groups of four or five students to run a data analysis project. You will receive a 
+You will work in a group of four or five students to solve a semi-structured analytic issue. 
 
 - Session 4: Description of four different project themes will be provided to students. Each project theme explains a debate between two opposing perspectives (4 themes X 2 perspectives = 8 projects) and includes two datasources that are obligatory to deploy. Students will be allocated to teams of 4 or 5 members based on their preferences for the theme and existing restrictions. The perspective of each team will be determined after the formation of teams and by a quick voting during session 6.
 
-- Session 5: Students can start sharing their project preferences through the [google sheet](https://docs.google.com/spreadsheets/d/1uLZUYcT0lNsftE-JmAflX0qQvXOcdTnfwbLAHWM2vAU/edit). To determine their preferences for the theme students may also want to go through the existing open data sources ( some introduced in session 3 )
+- Session 5: Students can start sharing their project preferences through the
+
+ To determine their preferences for the theme students may also want to go through the existing open data sources ( some introduced in session 3 )
 
 - Session 6: Team compositions will be finalized during this session and members can start to intensively discuss and analyze  other datasources that they will use for the project after this session.
 
@@ -55,13 +36,29 @@ You will be assigned to groups of four or five students to run a data analysis p
 	* The design of the solution
 	* How to use the solution (user help file)
 
+## Grading Scheme
+
+* 50% Me, Hanieh and a third judge
+	* Technical Aptitude
+	* Completeness
+	* Originality
+	* Usefulness
+	* Neatness
+	* Coolness
+	* Organization
+	* Involvement
+* 25% Class		
+* Originality
+		* Usefulness
+		* Neatness
+		* Coolness
+	* 25% Team Mates
+		* Involvement
+		* Helpfulness
+		* Responsibility
+
 ## Teams
 
 __Team__ | __Members__ | __Project__
 --- | --- | ---
-Databass2 | Laura, Nicholas, Sam | Twitter economic effects
-Databass1 | Yawen, Yuan, Xavier | Crime in San Francisco
-Child raisers | Josh, Kianna, Matthew, Omar | Cost of raising a child on wifi
-OfJoin‘N’Union | Bicky, Blaire, Emily, Han, Steven | Instagram tag analysis
-Ski Challengers | Minyel, Baptiste, Liam, Piotr, Shehryar | Ski open data project
-Premier League | Dilhan, Cheick, Codrat, Natalia | Premier league player analysis
+TBA | TBA | TBA

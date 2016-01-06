@@ -80,7 +80,7 @@ Ask us about more specific resources, if you need additional guidance for your p
 The project is a group exercise that will take you through all the stages of data gathering, import, cleaning and to some extent analysis. Project assessment will be gradual and based on several deliverables due throughout the term, with the bulk of project grade being defined by your final results, final presentation and final report.
 
 Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester. Also try to make your responsibility and your contribution to the project as clear and distinctive as possible.
-
+<!-- make sure you take a small project and you get it done // make sure you don't get stuck in the data stage and allow for more than one iteration-->
 For more information about the project, see the [project](./project) page.
 
 ## Quizzes

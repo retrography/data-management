@@ -5,7 +5,7 @@ title: Project
 
 ## Description
 
-You will work in a group of four or five students to solve a semi-structured analytic issue. 
+This is a semester-long team-based project. You will work in a team of four or five to solve a semi-structured analytic issue, from data gathering to reporting. 
 
 - Session 4: Description of four different project themes will be provided to students. Each project theme explains a debate between two opposing perspectives (4 themes X 2 perspectives = 8 projects) and includes two datasources that are obligatory to deploy. Students will be allocated to teams of 4 or 5 members based on their preferences for the theme and existing restrictions. The perspective of each team will be determined after the formation of teams and by a quick voting during session 6.
 

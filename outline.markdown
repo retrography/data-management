@@ -22,6 +22,7 @@ Resources:
 <!--[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)-->
 
 ***
+
 ### Session 2 - January 11
 ## Conceptualizing Data and Knowledge Extraction Process
 
@@ -39,12 +40,11 @@ Activity: Class Exercise
 <!--[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)-->
 
 ***
+
 ### Session 3 - January 13
 ## Data Types, Data Formats and Data Structures
 
 Concepts: Data, Data Types, Data Formats, Data Structures
-
-Deliverable: Open a free [ElephantSQL](http://www.elephantsql.com) account (Turtle Plan)
 
 Activity: Opening CSV and XML files in Excel
 
@@ -76,11 +76,12 @@ Open Data Examples:
 Example:
 - [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)-->
 
-Note: Project registration starts today. Register ASAP, or your chances of being assigned to your preferred project will diminish.
+Note: Project registration starts today. [Register ASAP](https://docs.google.com/forms/d/1X29-RaIlLhuvK7r6sGtPZH3n5uFec86clNCghSgnVMI/viewform) to maximize the chances of being assigned to your preferred project.
 
 <!--[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)-->
 
 ***
+
 ### Session 5 - January 20
 ## Data Preparation: Data Scraping and Data APIs
 
@@ -112,11 +113,12 @@ Resources:
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 - [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through Macgill library)](http://www.springer.com/us/book/9781484209875)
 
-Note: Project teams are already finalized. Start finding data sources and preparing your project proposal.
+Note: Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
 
 <!--[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)-->
 
 ***
+
 ### Session 7 - January 27
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
@@ -127,6 +129,7 @@ Reading: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons
 Activity: Exercise 2
 
 ***
+
 ### Session 8 - February 1
 ## Data & Business: Data-driven Business Models
 
@@ -152,6 +155,8 @@ Resources:
 
 Concepts: Data Definition, Data Manipulation, Primary Key, Table, Field
 
+Deliverable: Open a free [ElephantSQL](http://www.elephantsql.com) account (Turtle Plan)
+
 Reading: Watson Chapter 3 (stop at "Querying a database")
 
 Activities:
@@ -159,11 +164,14 @@ Activities:
 - Getting familiar with PostgreSQL and Valentina Studio
 - Exercise 3
 
-Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in a week (Session 11).
+Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in two weeks (Session 11).
 
 ***
+
 ### Session 10 - February 8
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
+
+Concepts:
 
 Readings:
 
@@ -177,19 +185,17 @@ Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://w
 [Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
 
 ***
-### Session 11 - February 10
-## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
-Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
+### Session 11 - February 10
+## SQL: Queries, Sorting, Filtering
+
+Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
 
 Readings:
 
-- Watson Chapters 7 & 8
+- Watson Chapter 3 (starting from "Querying a database")
 
-Deliverables:
-
-- Each team submits a one-page document describing its data cleaning and import process, as well as outlining the data structure.
-- Each team appoints one member to present the above document in front of the class. No powerpoint is required. You are supposed to demonstrate the outcomes directly on Valentina Studio.
+Activity: Exercise 4
 
 ***
 ### Session 12 - February 15
@@ -204,15 +210,19 @@ Readings:
 
 ***
 ### Session 13 - February 17
-## SQL: Queries, Sorting, Filtering
+## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
-Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
+Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
 
 Readings:
 
-- Watson Chapter 3 (starting from "Querying a database")
+- Watson Chapters 7 & 8
 
-Activity: Exercise 4
+Deliverables:
+
+- The data engineer of each team submits a document (~1500-2000 words) describing the team's data cleaning and import process, as well as outlining the data structure.
+- The data analyst and visualization specialist of each team submit a short document (~500-700 word) that will give an overview of how the team sees the different pieces of data coming together and how the data will be used for the upcoming analytic steps.
+- The leader and the reporter of each team will present the team's database to the class. No powerpoint slide is required. The presentation will take only five minutes and the data must be demonstrated on a live database connection.
 
 ***
 ### Session 14 - February 22

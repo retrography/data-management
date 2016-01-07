@@ -111,7 +111,7 @@ Resources:
 
 - [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
-- [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through Macgill library)](http://www.springer.com/us/book/9781484209875)
+- [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through McGill library)](http://www.springer.com/us/book/9781484209875)
 
 Note: Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
 
@@ -135,7 +135,7 @@ Activity: Exercise 2
 
 Concepts: Business Models, Data-related Value-added Activities
 
-Deliverable: Each team submits a one-page project proposal and proposes at least one additional data source to augment the default project datasets
+Deliverable: Project Proposal is due
 
 Readings:
 

@@ -21,11 +21,13 @@ title: Course Description
 
 ## Course Objectives
 
-This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management. The course is open to students in their 3rd year. It will count towards the IS concentration or major. This is not a substitute for database design and development courses offered in computer science departments.
+This course is designed to provide a first hands-on experience with databases as well as a general understanding of data management concepts for B.Com. student completing the concentration/major in Information Systems or interested in data and data management.
+
+This course is open to students in their 3rd year. It will count towards the IS concentration or major. This is not a substitute for database design and development courses offered in computer science departments.
 
 This course does not assume any specific technical background or programming skill, but it comprises a strong technical component and requires a willingness to invest in technical skills. You are advised to take [INSY 442 Business Intelligence and Data Analytics](http://www.mcgill.ca/study/2015-2016/courses/insy-442) either before or along with this course in order to benefit fully from the content of the course.
 
-## Practical Learning Outcomes
+## Learning Outcomes
 
 By the end of this course, you will be able to:
 
@@ -54,9 +56,6 @@ Additional resources:
 
 - PostgreSQL [online documentation](http://www.postgresql.org/docs/9.4/interactive/index.html)
 - SQL for Dummies by Allen G. Taylor ([Safari Books Online](http://proquest.safaribooksonline.com/book/databases/sql/9781118657119))
-- Any online SQL tutorial (e.g. [1keydata](http://www.1keydata.com/sql/sql.html))
-
-Ask us about more specific resources, if you need additional guidance for your project.
 ￼￼
 ## Software
 
@@ -65,6 +64,8 @@ Ask us about more specific resources, if you need additional guidance for your p
 - [ElephantSQL](https://www.elephantsql.com)
 - ￼[Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)
 - [Tableau](http://www.tableau.com/academic/students)
+- Microsoft Excel
+- Other analytics tools of your choice
 
 ## ￼￼Grading and Evaluation
 
@@ -79,9 +80,17 @@ Ask us about more specific resources, if you need additional guidance for your p
 
 The project is a group exercise that will take you through all the stages of data gathering, import, cleaning and to some extent analysis. Project assessment will be gradual and based on several deliverables due throughout the term, with the bulk of project grade being defined by your final results, final presentation and final report.
 
-Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester. Also try to make your responsibility and your contribution to the project as clear and distinctive as possible.
-<!-- make sure you take a small project and you get it done // make sure you don't get stuck in the data stage and allow for more than one iteration-->
-For more information about the project, see the [project](./project) page.
+You will be asked to:
+
+- Structure an open-ended problem and propose a well-studied roadmap for your project
+- Identify at least one additional data source that you can augment the project's original datasets with
+- Demonstrate that you have successfully cleaned your data and imported it in a database
+- Carry out your data transformation and analysis plan, according to your roadmap, and present the results
+- Explain in a final report the stages you went through and the way you arrived at your results (How one can reproduce your results?)
+
+Make sure you allocate enough time to your project at the beginning of the term to build up your team and identify the responsibilities. Some aspects of the project (like finding datasets and cleaning the data) will simply need time to get done, and will not be much accelerated even if you dedicate all your time at the end of the trimester.
+
+For more information about the project, see the [project page](./project).
 
 ## Quizzes
 

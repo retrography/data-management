@@ -39,7 +39,7 @@ You will be asked to take on a specific role within your team. You will be asses
 
 ## Deliverables and Grading Scheme
 
-1. February 1 - Project Proposal (~10% of the final grade)
+### February 1 - Project Proposal (~10% of the final grade)
 
 The leader and the reporter of each team submit a short proposal (~500-700 words) detailing a structured view of the problem the team wants to tackle, and a tentative roadmap for the project. The document also has to identify at least one additional data source to augment the default project datasets.
 
@@ -58,7 +58,7 @@ Pro Tips:
   - Define modest, well-studied and doable objectives. Expand if you have additional time at the end of the term. Most teams need to do two iterations to get to acceptable results, so take that in account.
   - Joining datasets involves finding valuable links between them. For instance if you can join the census data with the election data based on geographical parameters, you may find an interesting relation between median total income per capita in neighborhoods and voting patterns in those neighborhoods. But establishing this kind of link is not always as easy as it seems. For instance, Statistics Canada and Elections Canada may not use the exact same geographical partitioning, or may not offer their data at the same level of granularity. That complicates the task of establishing links!
 
-2. February 17 - Progress Report (~10% of the final grade)
+### February 17 - Progress Report (~10% of the final grade)
 
 The progress report is composed of two documents and a presentation:
 
@@ -68,7 +68,7 @@ The progress report is composed of two documents and a presentation:
 
   - The leader of each team will present the team's database to the class. No powerpoint slide is required. The presentation will take only five minutes and the data must be demonstrated on a live database connection.
 
-3. April 6 and 11 - Final Presentation & Final Report (~25% of the final grade)
+### April 6 and 11 - Final Presentation & Final Report (~25% of the final grade)
 
 The final presentation will mainly focus on the outcomes of the analysis, and if necessary will take the form of a debate with the other teams working on the same project. Live queries and interactive visuals are preferred to static reports and charts. Use powerpoint only for the opening, and then go back to the analysis software you have used. All the team members are asked to take part in the final presentation.
 

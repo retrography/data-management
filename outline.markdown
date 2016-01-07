@@ -48,7 +48,7 @@ __Concepts:__ Open Data, Data Markets, Linked Data
 __Readings:__
 
 - Kitchin Chapter 3 (Open and Linked Data)
-- [Spiekermann et al. (2015) Personal data markets (Access through McGill library)](http://link.springer.com/article/10.1007/s12525-015-0190-1)
+- [Spiekermann et al. (2015) Personal data markets](http://link.springer.com/article/10.1007/s12525-015-0190-1) - Accessible through McGill library VPN
 
 __Activity:__ Discussing projects
 
@@ -103,7 +103,7 @@ __Resources:__
 
 - [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
-- [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through McGill library)](http://www.springer.com/us/book/9781484209875)
+- [Stackowiak et al. (2015) Big Data and The Internet of Things](http://www.springer.com/us/book/9781484209875) - Accessible through McGill library VPN
 
 __Note:__ Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
 
@@ -242,7 +242,7 @@ __Readings:__
 - [Upton & Sadie (2014) The danger from within \|HBR](https://hbr.org/2014/09/the-danger-from-within)
 - [Solms & Solms (2004) The 10 deadly sins of information security management](http://www.uio.no/studier/emner/matnat/ifi/INF3510/v10/learningdocs/VonSolms-10-Deadly-Sins.pdf)
 
-__Activity:__ TBA
+__Activity:__ TBD
 
 __Resources:__
 
@@ -329,7 +329,7 @@ __Activities:__
 
 __Concepts:__ Creating pivots in Tableau (Tentative)
 
-__Activity:__ Exercise / TBA
+__Activity:__ Exercise / TBD
 
 ***
 
@@ -339,7 +339,7 @@ __Activity:__ Exercise / TBA
 
 __Activities:__
 
-- Guest Speaker (TBA)
+- Guest Speaker (TBD)
 - Technical Quiz
 
 ***
@@ -350,7 +350,7 @@ __Activities:__
 
 __Concepts:__ Visualizing geographic data (Tentative)
 
-__Activity:__ Exercise / TBA
+__Activity:__ Exercise / TBD
 
 ***
 

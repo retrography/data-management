@@ -4,6 +4,7 @@ title: Course Outline
 ---
 
 ### Session 1 - January 7
+
 ## Why Data, Why Databases?
 
 Concepts: Course Presentation, Databases, Data Ownership and Privacy
@@ -17,6 +18,7 @@ Resource: [What Organization to Contact If You Have a Privacy Issue in Canada](h
 ***
 
 ### Session 2 - January 11
+
 ## Conceptualizing Data and Knowledge Extraction Process
 
 Concepts: Data, Information, Knowledge, Data Types
@@ -28,6 +30,7 @@ Activity: In groups of four you will analyze data-types and knowledge extraction
 ***
 
 ### Session 3 - January 13
+
 ## Data Types, Data Formats and Data Structures
 
 Concepts: Data, Data Types, Data Formats, Data Structures
@@ -35,7 +38,9 @@ Concepts: Data, Data Types, Data Formats, Data Structures
 Activity: Opening CSV and XML files in Excel
 
 ***
+
 ### Session 4 - January 18
+
 ## Sources of Data: Open and Linked Data
 
 Concepts: Open Data, Data Markets, Linked Data
@@ -68,6 +73,7 @@ Note: Project registration starts today. [Register ASAP](https://docs.google.com
 ***
 
 ### Session 5 - January 20
+
 ## Data Preparation: Data Scraping and Data APIs
 
 Concepts: Data Scraping, Application Programming Interfaces
@@ -80,7 +86,9 @@ Deliverables:
 Activity: Scrape a website with Kimono
 
 ***
+
 ### Session 6 - January 25
+
 ## Data & Business: Information Lifecycle of The Firm
 
 Concepts: Organizational Information Systems and Management
@@ -105,6 +113,7 @@ Note: Project teams are already finalized. Start finding data sources and prepar
 ***
 
 ### Session 7 - January 27
+
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
 Concepts: Data Quality, Data Cleaning
@@ -121,6 +130,7 @@ Resource: [Cleaning Data with OpenRefine](http://programminghistorian.org/lesson
 ***
 
 ### Session 8 - February 1
+
 ## Data & Business: Data-driven Business Models
 
 Concepts: Business Models, Data-related Value-added Activities
@@ -133,12 +143,13 @@ Activity: Identifying startup business models
 
 Resources:
 
-- [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
+- [Apple, Google, Microsoft: Where does the money come from? \| ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - [Facebook: Quarterly Earning Slides Q3 2015.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/1237862025x0x859098/DC6C9112-AFF6-4E76-9168-7DBA0D5FFDAB/FB_Q3_15_Earnings_Slides_FINAL.pdf)
 
 ***
 
 ### Session 9 - February 3
+
 ## From Tabular Data to Database
 
 Concepts: Data Definition, Data Manipulation, Primary Key, Table, Field
@@ -159,6 +170,7 @@ Note: Now that you know how to import data into database, you have to start impo
 ***
 
 ### Session 10 - February 8
+
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
 Readings:
@@ -175,6 +187,7 @@ Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://w
 ***
 
 ### Session 11 - February 10
+
 ## SQL: Queries, Sorting, Filtering
 
 Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
@@ -191,7 +204,9 @@ Activities:
 - `LIMIT` and `SKIP` (or `OFFSET`)
 
 ***
+
 ### Session 12 - February 15
+
 ## Data & Business: Data Science and Data-Driven Decision Making
 
 Concepts: Big Data, Data-Driven Decision Making, Data Science
@@ -202,7 +217,9 @@ Readings:
 - [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
+
 ### Session 13 - February 17
+
 ## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
 Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
@@ -214,7 +231,9 @@ Readings:
 Deliverable: Project progress report
 
 ***
+
 ### Session 14 - February 22
+
 ## Information Security Management
 
 Concepts: Information Security, Security Breach, Information Security Management
@@ -233,7 +252,9 @@ Resources:
 - [Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
 
 ***
+
 ### Session 15 - February 24
+
 ## SQL: Combining Result Sets
 
 Concepts: Result Set, Union, Cartesian Product, Join
@@ -247,7 +268,9 @@ Activities:
 - Running an `OUTER JOIN` query
 
 ***
+
 ### Session 16 - March 7
+
 ## Security Audit
 
 Concepts: Security Audit, Data Control, Database Security, Security Threat
@@ -259,7 +282,9 @@ Activity: [SQL Injection](http://www.codebashing.com/sql_demo)
 Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
 
 ***
+
 ### Session 17 - March 9
+
 ## SQL: Data Aggregation
 
 Concepts: Aggregation, Grouping, Aggregate Functions
@@ -274,12 +299,15 @@ Resource: Watson Chapter 10
 ***
 
 ### Session 18 - March 14
+
 ## Theoretical Quiz
 
 Activity: Quiz
 
 ***
+
 ### Session 19 - March 16
+
 ## SQL: Data Casting and Other Functions
 
 Concepts: Casting, String Functions, Math Functions, Update, View
@@ -295,7 +323,9 @@ Activities:
 - Creating a view
 
 ***
+
 ### Session 20 - March 21
+
 ## Data Visualization with Tableau 1
 
 Concepts: Creating pivots in Tableau (Tentative)
@@ -303,7 +333,9 @@ Concepts: Creating pivots in Tableau (Tentative)
 Activity: Exercise / TBA
 
 ***
+
 ### Session 21 - March 23
+
 ## Security Analytics and Technical Quiz
 
 Activities:
@@ -312,7 +344,9 @@ Activities:
 - Technical Quiz
 
 ***
+
 ### Session 22 - March 30
+
 ## Data Visualization with Tableau 2
 
 Concepts: Visualizing geographic data (Tentative)
@@ -320,7 +354,9 @@ Concepts: Visualizing geographic data (Tentative)
 Activity: Exercise / TBA
 
 ***
+
 ### Session 23 - April 4
+
 ## Full Circle: Bridging SQL and Excel
 
 Concepts: Database Connection
@@ -333,6 +369,7 @@ Activities:
 ***
 
 ### Session 24 - April 7
+
 ## Wrap up and Project Workshop
 
 Activity: Fixing the last glitches in the projects
@@ -340,6 +377,7 @@ Activity: Fixing the last glitches in the projects
 ***
 
 ### Session 25 - April 6
+
 ## Project Presentations
 
 Deliverables:
@@ -350,6 +388,7 @@ Deliverables:
 ***
 
 ### Session 26 - April 11
+
 ## Project Presentations
 
 Deliverables:
@@ -357,4 +396,3 @@ Deliverables:
 - Final presentation
 - Final report
 
-***

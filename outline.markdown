@@ -218,11 +218,7 @@ Readings:
 
 - Watson Chapters 7 & 8
 
-Deliverables:
-
-- The data engineer of each team submits a document (~1500-2000 words) describing the team's data cleaning and import process, as well as outlining the data structure.
-- The data analyst and visualization specialist of each team submit a short document (~500-700 word) that will give an overview of how the team sees the different pieces of data coming together and how the data will be used for the upcoming analytic steps.
-- The leader and the reporter of each team will present the team's database to the class. No powerpoint slide is required. The presentation will take only five minutes and the data must be demonstrated on a live database connection.
+Deliverable: Project progress report
 
 ***
 ### Session 14 - February 22
@@ -353,9 +349,19 @@ Activity: Fixing the last glitches in the projects
 ### Session 25 - April 6
 ## Project Presentations
 
+Deliverables:
+
+- Final presentation
+- Final report
+
 ***
 
 ### Session 26 - April 11
 ## Project Presentations
+
+Deliverables:
+
+- Final presentation
+- Final report
 
 ***

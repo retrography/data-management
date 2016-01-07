@@ -3,7 +3,7 @@ layout: page
 title: Course Outline
 ---
 
-### Session 1 - January 7
+### Session 1 – January 7
 
 ## Why Data, Why Databases?
 
@@ -17,7 +17,7 @@ __Resource:__ [What Organization to Contact If You Have a Privacy Issue in Canad
 
 ***
 
-### Session 2 - January 11
+### Session 2 – January 11
 
 ## Conceptualizing Data and Knowledge Extraction Process
 
@@ -29,7 +29,7 @@ __Activity:__ In groups of four you will analyze data-types and knowledge extrac
 
 ***
 
-### Session 3 - January 13
+### Session 3 – January 13
 
 ## Data Types, Data Formats and Data Structures
 
@@ -39,7 +39,7 @@ __Activity:__ Opening CSV and XML files in Excel
 
 ***
 
-### Session 4 - January 18
+### Session 4 – January 18
 
 ## Sources of Data: Open and Linked Data
 
@@ -54,7 +54,7 @@ __Activity:__ Discussing projects
 
 __Resources:__
 
-- [Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
+- [Lee et al. (2016) Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
 - [The Open Data Handbook](http://opendatahandbook.org)
 
 __Open Data Examples:__
@@ -63,7 +63,7 @@ __Open Data Examples:__
 - [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
-__Example of analysis on open data:__ [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
+__Example of analysis on open data:__ [Chen et al. (2015) Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
 
 __Note:__ Project registration starts today. [Register ASAP](https://docs.google.com/forms/d/1X29-RaIlLhuvK7r6sGtPZH3n5uFec86clNCghSgnVMI/viewform) to maximize the chances of being assigned to your preferred project.
 
@@ -71,7 +71,7 @@ __Note:__ Project registration starts today. [Register ASAP](https://docs.google
 
 ***
 
-### Session 5 - January 20
+### Session 5 – January 20
 
 ## Data Preparation: Data Scraping and Data APIs
 
@@ -86,7 +86,7 @@ __Activity:__ Scrape a website with Kimono
 
 ***
 
-### Session 6 - January 25
+### Session 6 – January 25
 
 ## Data & Business: Information Lifecycle of The Firm
 
@@ -101,8 +101,8 @@ __Readings:__
 
 __Resources:__
 
-- [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
-- [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
+- [ITScore for BI and Analytics \| Gartner](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
+- [Big Data in Big Companies \| International Institute for Analytics / SAS Institute](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 - [Stackowiak et al. (2015) Big Data and The Internet of Things](http://www.springer.com/us/book/9781484209875) - Accessible through McGill library VPN
 
 __Note:__ Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
@@ -111,7 +111,7 @@ __Note:__ Project teams are already finalized. Start finding data sources and pr
 
 ***
 
-### Session 7 - January 27
+### Session 7 – January 27
 
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
@@ -128,7 +128,7 @@ __Resource:__ [Cleaning Data with OpenRefine](http://programminghistorian.org/le
 
 ***
 
-### Session 8 - February 1
+### Session 8 – February 1
 
 ## Data & Business: Data-driven Business Models
 
@@ -147,7 +147,7 @@ __Resources:__
 
 ***
 
-### Session 9 - February 3
+### Session 9 – February 3
 
 ## From Tabular Data to Database
 
@@ -168,7 +168,7 @@ __Note:__ Now that you know how to import data into database, you have to start 
 
 ***
 
-### Session 10 - February 8
+### Session 10 – February 8
 
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
@@ -185,7 +185,7 @@ __Resource:__ [The Details About the CIA's Deal With Amazon \| The Atlantic](htt
 
 ***
 
-### Session 11 - February 10
+### Session 11 – February 10
 
 ## SQL: Queries, Sorting, Filtering
 
@@ -204,7 +204,7 @@ __Activities:__
 
 ***
 
-### Session 12 - February 15
+### Session 12 – February 15
 
 ## Data & Business: Data Science and Data-Driven Decision Making
 
@@ -217,7 +217,7 @@ __Readings:__
 
 ***
 
-### Session 13 - February 17
+### Session 13 – February 17
 
 ## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
@@ -231,7 +231,7 @@ __Deliverable:__ Project progress report
 
 ***
 
-### Session 14 - February 22
+### Session 14 – February 22
 
 ## Information Security Management
 
@@ -246,13 +246,13 @@ __Activity:__ TBD
 
 __Resources:__
 
-- [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
-- [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
-- [Information Security Management Best Practice Based on ISO/IEC 17799](http://www.pitt.edu/~dtipper/2825/ISO_Article.pdf)
+- [Following Incidents into the Cloud | SANS Institute](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
+- [Information Security Management: Understanding ISO 17799 | INS](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
+- [Information Security Management Best Practice Based on ISO/IEC 17799](http://search.proquest.com/docview/227752565) - Accessible through McGill library VPN
 
 ***
 
-### Session 15 - February 24
+### Session 15 – February 24
 
 ## SQL: Combining Result Sets
 
@@ -268,21 +268,21 @@ __Activities:__
 
 ***
 
-### Session 16 - March 7
+### Session 16 – March 7
 
 ## Security Audit
 
 __Concepts:__ Security Audit, Data Control, Database Security, Security Threat
 
-__Reading:__ [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
+__Reading:__ [Murray (2010) Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
 
 __Activity:__ [SQL Injection](http://www.codebashing.com/sql_demo)
 
-__Resource:__ [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
+__Resource:__ [Top Ten Database Security Threats \| Imperva] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
 
 ***
 
-### Session 17 - March 9
+### Session 17 – March 9
 
 ## SQL: Data Aggregation
 
@@ -297,7 +297,7 @@ __Resource:__ Watson Chapter 10
 
 ***
 
-### Session 18 - March 14
+### Session 18 – March 14
 
 ## Theoretical Quiz
 
@@ -305,7 +305,7 @@ __Activity:__ Quiz
 
 ***
 
-### Session 19 - March 16
+### Session 19 – March 16
 
 ## SQL: Data Casting and Other Functions
 
@@ -323,7 +323,7 @@ __Activities:__
 
 ***
 
-### Session 20 - March 21
+### Session 20 – March 21
 
 ## Data Visualization with Tableau 1
 
@@ -333,7 +333,7 @@ __Activity:__ Exercise / TBD
 
 ***
 
-### Session 21 - March 23
+### Session 21 – March 23
 
 ## Security Analytics and Technical Quiz
 
@@ -344,7 +344,7 @@ __Activities:__
 
 ***
 
-### Session 22 - March 30
+### Session 22 – March 30
 
 ## Data Visualization with Tableau 2
 
@@ -354,7 +354,7 @@ __Activity:__ Exercise / TBD
 
 ***
 
-### Session 23 - April 4
+### Session 23 – April 4
 
 ## Full Circle: Bridging SQL and Excel
 
@@ -367,7 +367,7 @@ __Activities:__
 
 ***
 
-### Session 24 - April 7
+### Session 24 – April 7
 
 ## Wrap up and Project Workshop
 
@@ -375,7 +375,7 @@ __Activity:__ Fixing the last glitches in the projects
 
 ***
 
-### Session 25 - April 6
+### Session 25 – April 6
 
 ## Project Presentations
 
@@ -386,7 +386,7 @@ __Deliverables:__
 
 ***
 
-### Session 26 - April 11
+### Session 26 – April 11
 
 ## Project Presentations
 

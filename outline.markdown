@@ -30,14 +30,7 @@ Concepts: Data, Information, Knowledge, Data Types
 
 Reading: Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
 
-Activity: Class Exercise
-
-- [Paper for groups 1 & 2](http://delivery.acm.org/10.1145/2810000/2805845/p1293-canzian.pdf?ip=198.48.215.232&id=2805845&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512856_d778106f00a8488a9d5164bfd1fa51cb)
-- [Paper for groups 3 & 4](http://delivery.acm.org/10.1145/2810000/2805828/p1281-zhang.pdf?ip=198.48.215.232&id=2805828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512886_35d6663e9d979c652cb8597fc38c6f58)
-- [Paper for groups 5 & 6 ](http://delivery.acm.org/10.1145/2810000/2807533/p1269-inoue.pdf?ip=198.48.215.232&id=2807533&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451512943_6c08373dfcbe626d535b2f7af43ac684)
-- [Paper for groups 7 & 8](http://delivery.acm.org/10.1145/2810000/2805834/p529-rubin.pdf?ip=198.48.215.232&id=2805834&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=571728027&CFTOKEN=51218699&__acm__=1451513456_8d8c5810eb3e8d671df7d675eb2f6afc)
-
-<!--[Slides](https://docs.google.com/presentation/d/16tci79KZxBs36IEbyt611LhzLUEFDP3B9a9XB-HOWRk/edit#slide=id.gf5f850127_0_12)-->
+Activity: In groups of four you will analyze data-types and knowledge extraction method used in an academic paper assigned to your group. You will present your analyses during the session.
 
 ***
 
@@ -72,9 +65,8 @@ Open Data Examples:
 - [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
-<!--
-Example:
-- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)-->
+Example of analysis on open data:
+- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
 
 Note: Project registration starts today. [Register ASAP](https://docs.google.com/forms/d/1X29-RaIlLhuvK7r6sGtPZH3n5uFec86clNCghSgnVMI/viewform) to maximize the chances of being assigned to your preferred project.
 
@@ -85,14 +77,14 @@ Note: Project registration starts today. [Register ASAP](https://docs.google.com
 ### Session 5 - January 20
 ## Data Preparation: Data Scraping and Data APIs
 
-Concepts: Data Scraping, Application Programming Interface
+Concepts: Data Scraping, Application Programming Interfaces
 
 Deliverables:
 
 - Project registration
 - Open a free [Kimono Labs](https://www.kimonolabs.com) account
 
-Activity: Exercise 1
+Activity: Scrape a website with Kimono
 
 ***
 ### Session 6 - January 25
@@ -104,8 +96,8 @@ Readings:
 
 - Watson Chapter 1 From "Organizational Data Management" to "Components of Organizational Memory"
 - Watson Chapter 1, section "Problems with Data Management Systems"
-- Read Watson Chapter 2, section "Information and Managerial Work"
-- Read [Ransbotham et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
+- Watson Chapter 2, section "Information and Managerial Work"
+- [Ransbotham et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
 
 Resources:
 
@@ -124,9 +116,14 @@ Note: Project teams are already finalized. Start finding data sources and prepar
 
 Concepts: Data Quality, Data Cleaning
 
-Reading: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
+Reading: Watson Chapter 21, from "Maintaining Data Quality" to "Ensuring Confidentiality"
 
-Activity: Exercise 2
+Activities:
+
+- Creating OpenRefine Projects from CSV and JSON data sources
+- Using OpenRefine for data cleaning and transformation
+
+Resource: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 
 ***
 
@@ -135,13 +132,11 @@ Activity: Exercise 2
 
 Concepts: Business Models, Data-related Value-added Activities
 
-Deliverable: Project Proposal is due
+Deliverable: Project proposal
 
-Readings:
+Reading: [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/news/March2014Paper)
 
-- Read [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/news/March2014Paper)
-
-Activity: TBA
+Activity: Identifying startup business models
 
 Resources:
 
@@ -162,27 +157,27 @@ Reading: Watson Chapter 3 (stop at "Querying a database")
 Activities:
 
 - Getting familiar with PostgreSQL and Valentina Studio
-- Exercise 3
+- Creating a table
+- Adding fields
+- Importing a CSV file as a table
 
-Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in two weeks (Session 11).
+Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in two weeks.
 
 ***
 
 ### Session 10 - February 8
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
-Concepts:
-
 Readings:
 
 - [Burghin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
 - Watson Chapter 19 (stop at “Conclusion — paradise postponed”)
 
-Activity: Guest Speaker - Guillaume Bédard
+Activity: Guest Speaker - Guillaume Bédard (Senior Manager and Strategic Consultant - Data, BI and Analytics in Deloitte)
 
 Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
-[Slides]({{ site.baseurl }}/public/slides/session_07.pdf)
+<!-- [Slides]({{ site.baseurl }}/public/slides/session_07.pdf) -->
 
 ***
 
@@ -195,7 +190,12 @@ Readings:
 
 - Watson Chapter 3 (starting from "Querying a database")
 
-Activity: Exercise 4
+Activities:
+
+- Running a select query (`SELECT`)
+- `ORDER BY` clause
+- `WHERE` clause
+- `LIMIT` and `SKIP` (or `OFFSET`)
 
 ***
 ### Session 12 - February 15
@@ -251,7 +251,11 @@ Concepts: Result Set, Union, Cartesian Product, Join
 
 Readings: Watson Chapter 9
 
-Activity: Exercise 5
+Activities:
+
+- Combining result sets with `UNION`
+- Running a `JOIN` query
+- Running an `OUTER JOIN` query
 
 ***
 ### Session 16 - March 7
@@ -259,8 +263,7 @@ Activity: Exercise 5
 
 Concepts: Security Audit, Data Control, Database Security, Security Threat
 
-- [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
-- Sec Audit Reading (TBA)
+Reading: [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
 
 Activity: [SQL Injection](http://www.codebashing.com/sql_demo)
 
@@ -272,7 +275,10 @@ Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_to
 
 Concepts: Aggregation, Grouping, Aggregate Functions
 
-Activity: Exercise 6
+Activities:
+
+- Using aggregate functions
+- Using `GROUP BY` clause
 
 Resource: Watson Chapter 10
 
@@ -289,15 +295,23 @@ Activity: Quiz
 
 Concepts: Casting, String Functions, Math Functions, Update, View
 
-Activity: Exercise 7
+Activities:
+
+- Data type casting
+- String manipulation functions
+- Calculation
+- Creating a calculated field
+- Creating a casted field
+- Creating a transformed text field
+- Creating a view
 
 ***
 ### Session 20 - March 21
 ## Data Visualization with Tableau 1
 
-Concepts: TBA
+Concepts: Creating pivots in Tableau (Tentative)
 
-Activity: Exercise 8
+Activity: Exercise / TBA
 
 ***
 ### Session 21 - March 23
@@ -305,16 +319,16 @@ Activity: Exercise 8
 
 Activities:
 
-- Guest Speaker
-- Quiz
+- Guest Speaker (TBA)
+- Technical Quiz
 
 ***
 ### Session 22 - March 30
 ## Data Visualization with Tableau 2
 
-Concepts: TBA
+Concepts: Visualizing geographic data (Tentative)
 
-Activity: Exercise 9
+Activity: Exercise / TBA
 
 ***
 ### Session 23 - April 4
@@ -322,12 +336,17 @@ Activity: Exercise 9
 
 Concepts: Database Connection
 
-Activity: Exercise 10
+Activities:
+
+- Making an ODBC database connection in Excel
+- Fetching data using Microsoft Query
 
 ***
 
 ### Session 24 - April 7
 ## Wrap up and Project Workshop
+
+Activity: Fixing the last glitches in the projects
 
 ***
 

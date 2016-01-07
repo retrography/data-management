@@ -7,11 +7,11 @@ title: Course Outline
 
 ## Why Data, Why Databases?
 
-Concepts: Course Presentation, Databases, Data Ownership and Privacy
+__Concepts:__ Course Presentation, Databases, Data Ownership and Privacy
 
-Reading: [The Incorporated Woman \| The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+__Reading:__ [The Incorporated Woman \| The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 
-Resource: [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
+__Resource:__ [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
 
 <!--[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)-->
 
@@ -21,11 +21,11 @@ Resource: [What Organization to Contact If You Have a Privacy Issue in Canada](h
 
 ## Conceptualizing Data and Knowledge Extraction Process
 
-Concepts: Data, Information, Knowledge, Data Types
+__Concepts:__ Data, Information, Knowledge, Data Types
 
-Reading: Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
+__Reading:__ Kitchin Chapters 1 and 2 (Conceptualizing Data and Small Data, Data Infrastructures and Data Brokers)
 
-Activity: In groups of four you will analyze data-types and knowledge extraction method used in an academic paper assigned to your group. You will present your analyses during the session.
+__Activity:__ In groups of four you will analyze data-types and knowledge extraction method used in an academic paper assigned to your group. You will present your analyses during the session.
 
 ***
 
@@ -33,9 +33,9 @@ Activity: In groups of four you will analyze data-types and knowledge extraction
 
 ## Data Types, Data Formats and Data Structures
 
-Concepts: Data, Data Types, Data Formats, Data Structures
+__Concepts:__ Data, Data Types, Data Formats, Data Structures
 
-Activity: Opening CSV and XML files in Excel
+__Activity:__ Opening CSV and XML files in Excel
 
 ***
 
@@ -43,30 +43,29 @@ Activity: Opening CSV and XML files in Excel
 
 ## Sources of Data: Open and Linked Data
 
-Concepts: Open Data, Data Markets, Linked Data
+__Concepts:__ Open Data, Data Markets, Linked Data
 
-Readings:
+__Readings:__
 
 - Kitchin Chapter 3 (Open and Linked Data)
 - [Spiekermann et al. (2015) Personal data markets (Access through McGill library)](http://link.springer.com/article/10.1007/s12525-015-0190-1)
 
-Activity: Discussing projects
+__Activity:__ Discussing projects
 
-Resources:
+__Resources:__
 
 - [Open Data and Civic Apps: First-Generation Failures, Second-Generation Improvements](http://cacm.acm.org/magazines/2016/1/195725-open-data-and-civic-apps/fulltext)
 - [The Open Data Handbook](http://opendatahandbook.org)
 
-Open Data Examples:
+__Open Data Examples:__
 
 - [Open Government Canada](http://open.canada.ca)
 - [Gouvernement Ouvert Québec](http://www.donnees.gouv.qc.ca)
 - [Montréal - Portail Données Ouvertes](http://donnees.ville.montreal.qc.ca)
 
-Example of analysis on open data:
-- [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
+__Example of analysis on open data:__ [Bike sharing station placement leveraging heterogeneous urban open data](http://dl.acm.org/citation.cfm?id=2804291)
 
-Note: Project registration starts today. [Register ASAP](https://docs.google.com/forms/d/1X29-RaIlLhuvK7r6sGtPZH3n5uFec86clNCghSgnVMI/viewform) to maximize the chances of being assigned to your preferred project.
+__Note:__ Project registration starts today. [Register ASAP](https://docs.google.com/forms/d/1X29-RaIlLhuvK7r6sGtPZH3n5uFec86clNCghSgnVMI/viewform) to maximize the chances of being assigned to your preferred project.
 
 <!--[Slides](https://docs.google.com/presentation/d/1Lt8AAPs7Y1THLOq7NBuehtgY2ROUQ4CAhK1jOx7BWiE/edit#slide=id.gf5fe4d43a_2_0)-->
 
@@ -76,14 +75,14 @@ Note: Project registration starts today. [Register ASAP](https://docs.google.com
 
 ## Data Preparation: Data Scraping and Data APIs
 
-Concepts: Data Scraping, Application Programming Interfaces
+__Concepts:__ Data Scraping, Application Programming Interfaces
 
-Deliverables:
+__Deliverables:__
 
 - Project registration
 - Open a free [Kimono Labs](https://www.kimonolabs.com) account
 
-Activity: Scrape a website with Kimono
+__Activity:__ Scrape a website with Kimono
 
 ***
 
@@ -91,22 +90,22 @@ Activity: Scrape a website with Kimono
 
 ## Data & Business: Information Lifecycle of The Firm
 
-Concepts: Organizational Information Systems and Management
+__Concepts:__ Organizational Information Systems and Management
 
-Readings:
+__Readings:__
 
 - Watson Chapter 1 From "Organizational Data Management" to "Components of Organizational Memory"
 - Watson Chapter 1, section "Problems with Data Management Systems"
 - Watson Chapter 2, section "Information and Managerial Work"
 - [Ransbotham et al. (2015) Minding the Analytics Gap](http://ilp.mit.edu/media/news_articles/smr/2015/56320Wx.pdf)
 
-Resources:
+__Resources:__
 
 - [ITScore for BI and Analytics](https://www.gartner.com/doc/3136418/itscore-overview-bi-analytics)
 - [Big Data in Big Companies](http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf)
 - [Stackowiak et al. (2015) Big Data and The Internet of Things (Access through McGill library)](http://www.springer.com/us/book/9781484209875)
 
-Note: Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
+__Note:__ Project teams are already finalized. Start finding data sources and preparing your project proposal. The proposal is due next week.
 
 <!--[Slides](https://docs.google.com/presentation/d/1Pd8fmethAYk5YdtLchH1GmoBFW1MaDmLI2FOTUyLvyk/edit#slide=id.p4)-->
 
@@ -116,16 +115,16 @@ Note: Project teams are already finalized. Start finding data sources and prepar
 
 ## Data Preparation: Data Quality, Data Cleaning and Format Conversion
 
-Concepts: Data Quality, Data Cleaning
+__Concepts:__ Data Quality, Data Cleaning
 
-Reading: Watson Chapter 21, from "Maintaining Data Quality" to "Ensuring Confidentiality"
+__Reading:__ Watson Chapter 21, from "Maintaining Data Quality" to "Ensuring Confidentiality"
 
-Activities:
+__Activities:__
 
 - Creating OpenRefine Projects from CSV and JSON data sources
 - Using OpenRefine for data cleaning and transformation
 
-Resource: [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
+__Resource:__ [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 
 ***
 
@@ -133,15 +132,15 @@ Resource: [Cleaning Data with OpenRefine](http://programminghistorian.org/lesson
 
 ## Data & Business: Data-driven Business Models
 
-Concepts: Business Models, Data-related Value-added Activities
+__Concepts:__ Business Models, Data-related Value-added Activities
 
-Deliverable: Project proposal
+__Deliverable:__ Project proposal
 
-Reading: [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/news/March2014Paper)
+__Reading:__ [Hartmann et al. (2014) Big Data for Big Business? A Taxonomy of Data-Driven Business Models Used by Start-Up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/news/March2014Paper)
 
-Activity: Identifying startup business models
+__Activity:__ Identifying startup business models
 
-Resources:
+__Resources:__
 
 - [Apple, Google, Microsoft: Where does the money come from? \| ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - [Facebook: Quarterly Earning Slides Q3 2015.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/1237862025x0x859098/DC6C9112-AFF6-4E76-9168-7DBA0D5FFDAB/FB_Q3_15_Earnings_Slides_FINAL.pdf)
@@ -152,20 +151,20 @@ Resources:
 
 ## From Tabular Data to Database
 
-Concepts: Data Definition, Data Manipulation, Primary Key, Table, Field
+__Concepts:__ Data Definition, Data Manipulation, Primary Key, Table, Field
 
-Deliverable: Open a free [ElephantSQL](http://www.elephantsql.com) account (Turtle Plan)
+__Deliverable:__ Open a free [ElephantSQL](http://www.elephantsql.com) account (Turtle Plan)
 
-Reading: Watson Chapter 3 (stop at "Querying a database")
+__Reading:__ Watson Chapter 3 (stop at "Querying a database")
 
-Activities:
+__Activities:__
 
 - Getting familiar with PostgreSQL and Valentina Studio
 - Creating a table
 - Adding fields
 - Importing a CSV file as a table
 
-Note: Now that you know how to import data into database, you have to start importing your project data. Your data import is due in two weeks.
+__Note:__ Now that you know how to import data into database, you have to start importing your project data. Your data import is due in two weeks.
 
 ***
 
@@ -173,14 +172,14 @@ Note: Now that you know how to import data into database, you have to start impo
 
 ## Cloud Services and Data Analytics in Action (Guest Speaker)
 
-Readings:
+__Readings:__
 
 - [Burghin et al. (2010) Clouds, big data, and smart assets: Ten tech-enabled business trends to watch McKinsey Quarterly](http://www.mckinsey.com/insights/high_tech_telecoms_internet/clouds_big_data_and_smart_assets_ten_tech-enabled_business_trends_to_watch)
 - Watson Chapter 19 (stop at “Conclusion — paradise postponed”)
 
-Activity: Guest Speaker - Guillaume Bédard (Senior Manager and Strategic Consultant - Data, BI and Analytics in Deloitte)
+__Activity:__ Guest Speaker - Guillaume Bédard (Senior Manager and Strategic Consultant - Data, BI and Analytics in Deloitte)
 
-Resource: [The Details About the CIA's Deal With Amazon \| The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+__Resource:__ [The Details About the CIA's Deal With Amazon \| The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 <!-- [Slides]({{ site.baseurl }}/public/slides/session_07.pdf) -->
 
@@ -190,13 +189,13 @@ Resource: [The Details About the CIA's Deal With Amazon \| The Atlantic](http://
 
 ## SQL: Queries, Sorting, Filtering
 
-Concepts: Query, Sorting, Filtering, Conditional Clause, Pagination
+__Concepts:__ Query, Sorting, Filtering, Conditional Clause, Pagination
 
-Readings:
+__Readings:__
 
 - Watson Chapter 3 (starting from "Querying a database")
 
-Activities:
+__Activities:__
 
 - Running a select query (`SELECT`)
 - `ORDER BY` clause
@@ -209,9 +208,9 @@ Activities:
 
 ## Data & Business: Data Science and Data-Driven Decision Making
 
-Concepts: Big Data, Data-Driven Decision Making, Data Science
+__Concepts:__ Big Data, Data-Driven Decision Making, Data Science
 
-Readings:
+__Readings:__
 
 - [McAfee et al. (2012) Big Data: The management revolution \| HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
 - [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century \| HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
@@ -222,13 +221,13 @@ Readings:
 
 ## Data Modeling and Design: ER Models, Normalization and Data Tidying
 
-Concepts: Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
+__Concepts:__ Entity Relationship Diagram, Foreign Key, Normalization, Tidying, Star Schema
 
-Readings:
+__Readings:__
 
 - Watson Chapters 7 & 8
 
-Deliverable: Project progress report
+__Deliverable:__ Project progress report
 
 ***
 
@@ -236,16 +235,16 @@ Deliverable: Project progress report
 
 ## Information Security Management
 
-Concepts: Information Security, Security Breach, Information Security Management
+__Concepts:__ Information Security, Security Breach, Information Security Management
 
-Readings:
+__Readings:__
 
 - [Upton & Sadie (2014) The danger from within \|HBR](https://hbr.org/2014/09/the-danger-from-within)
 - [Solms & Solms (2004) The 10 deadly sins of information security management](http://www.uio.no/studier/emner/matnat/ifi/INF3510/v10/learningdocs/VonSolms-10-Deadly-Sins.pdf)
 
-Activity: TBA
+__Activity:__ TBA
 
-Resources:
+__Resources:__
 
 - [Following Incidents into the Cloud](https://www.sans.org/reading-room/whitepapers/incident/incidents-cloud-33619)
 - [Information Security Management: Understanding ISO 17799](http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf)
@@ -257,11 +256,11 @@ Resources:
 
 ## SQL: Combining Result Sets
 
-Concepts: Result Set, Union, Cartesian Product, Join
+__Concepts:__ Result Set, Union, Cartesian Product, Join
 
-Readings: Watson Chapter 9
+__Readings:__ Watson Chapter 9
 
-Activities:
+__Activities:__
 
 - Combining result sets with `UNION`
 - Running a `JOIN` query
@@ -273,13 +272,13 @@ Activities:
 
 ## Security Audit
 
-Concepts: Security Audit, Data Control, Database Security, Security Threat
+__Concepts:__ Security Audit, Data Control, Database Security, Security Threat
 
-Reading: [Database Security: What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
+__Reading: [Database Security:__ What Students Need to Know] (http://www.cse.msu.edu/~bezawada/db/DBSecWhatStudentsNeedtoKnowJITEv9IIPp061-077Murray2007.pdf)
 
-Activity: [SQL Injection](http://www.codebashing.com/sql_demo)
+__Activity:__ [SQL Injection](http://www.codebashing.com/sql_demo)
 
-Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
+__Resource:__ [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_topten_database_threats.pdf)
 
 ***
 
@@ -287,14 +286,14 @@ Resource: [Top Ten Database Security Threats] (http://www.imperva.com/docs/wp_to
 
 ## SQL: Data Aggregation
 
-Concepts: Aggregation, Grouping, Aggregate Functions
+__Concepts:__ Aggregation, Grouping, Aggregate Functions
 
-Activities:
+__Activities:__
 
 - Using aggregate functions
 - Using `GROUP BY` clause
 
-Resource: Watson Chapter 10
+__Resource:__ Watson Chapter 10
 
 ***
 
@@ -302,7 +301,7 @@ Resource: Watson Chapter 10
 
 ## Theoretical Quiz
 
-Activity: Quiz
+__Activity:__ Quiz
 
 ***
 
@@ -310,9 +309,9 @@ Activity: Quiz
 
 ## SQL: Data Casting and Other Functions
 
-Concepts: Casting, String Functions, Math Functions, Update, View
+__Concepts:__ Casting, String Functions, Math Functions, Update, View
 
-Activities:
+__Activities:__
 
 - Data type casting
 - String manipulation functions
@@ -328,9 +327,9 @@ Activities:
 
 ## Data Visualization with Tableau 1
 
-Concepts: Creating pivots in Tableau (Tentative)
+__Concepts:__ Creating pivots in Tableau (Tentative)
 
-Activity: Exercise / TBA
+__Activity:__ Exercise / TBA
 
 ***
 
@@ -338,7 +337,7 @@ Activity: Exercise / TBA
 
 ## Security Analytics and Technical Quiz
 
-Activities:
+__Activities:__
 
 - Guest Speaker (TBA)
 - Technical Quiz
@@ -349,9 +348,9 @@ Activities:
 
 ## Data Visualization with Tableau 2
 
-Concepts: Visualizing geographic data (Tentative)
+__Concepts:__ Visualizing geographic data (Tentative)
 
-Activity: Exercise / TBA
+__Activity:__ Exercise / TBA
 
 ***
 
@@ -359,9 +358,9 @@ Activity: Exercise / TBA
 
 ## Full Circle: Bridging SQL and Excel
 
-Concepts: Database Connection
+__Concepts:__ Database Connection
 
-Activities:
+__Activities:__
 
 - Making an ODBC database connection in Excel
 - Fetching data using Microsoft Query
@@ -372,7 +371,7 @@ Activities:
 
 ## Wrap up and Project Workshop
 
-Activity: Fixing the last glitches in the projects
+__Activity:__ Fixing the last glitches in the projects
 
 ***
 
@@ -380,7 +379,7 @@ Activity: Fixing the last glitches in the projects
 
 ## Project Presentations
 
-Deliverables:
+__Deliverables:__
 
 - Final presentation
 - Final report
@@ -391,7 +390,7 @@ Deliverables:
 
 ## Project Presentations
 
-Deliverables:
+__Deliverables:__
 
 - Final presentation
 - Final report

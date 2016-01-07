@@ -36,15 +36,10 @@ Exercise 2
 - Using OpenRefine for data cleaning and transformation
 
 Exercise 3
-- Creating a table
-- Adding fields
-- Importing a CSV file
+
 
 Exercise 4
-- Run a select query
-- Order by clause
-- Where clauses
-- Limit and Skip
+
 
 Exercise 5
 - Run a union
@@ -65,5 +60,3 @@ Exercise 9
 - Create a view
 
 Exercise 10
-- Make a postgresql database connection in Excel
-- Fetch data using a query

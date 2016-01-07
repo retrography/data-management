@@ -4,20 +4,13 @@ title: Course Outline
 ---
 
 ### Session 1 - January 7
-## Data & Society: Data Ownership and Privacy
+## Why Data, Why Databases?
 
-Concepts: Information Privacy, Privacy violation, Data Ownership
+Concepts: Course Presentation, Databases, Data Ownership and Privacy
 
-Readings:
+Reading: [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 
-- Kitchin Chapter 10 (Ethical, Political, Social and Legal Concerns)
-- Newell and Marabelli (2015) [Strategic opportunities (and challenges) of algorithmic decision-making: A call for action on the long-term societal effects of ‘datification’] (http://www.sciencedirect.com/science/article/pii/S0963868715000025)
-
-Resources:
-
-- [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
-- [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
-- [MIT'S NEW BLOCKCHAIN PROJECT ENIGMA WANTS TO LET YOU SHARE YOUR DATA ON YOUR TERMS](http://www.fastcompany.com/3054976/elasticity/mits-new-blockchain-project-enigma-wants-to-let-you-share-your-data-on-your-terms?utm_content=buffer1487f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+Resource: [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
 
 <!--[Slides](https://docs.google.com/presentation/d/1op6nfIoZygcca5IM4HTTJ8HCjYLrTHc-TY_Exac6OvM/edit#slide=id.p4)-->
 

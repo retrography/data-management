@@ -9,7 +9,7 @@ title: Course Outline
 
 Concepts: Course Presentation, Databases, Data Ownership and Privacy
 
-Reading: [The Incorporated Woman | The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
+Reading: [The Incorporated Woman \| The Economist](http://www.economist.com/blogs/schumpeter/2014/06/who-owns-your-personal-data)
 
 Resource: [What Organization to Contact If You Have a Privacy Issue in Canada](https://www.priv.gc.ca/resource/tool-outil/infographic/leg_info_201405_e.asp)
 
@@ -180,7 +180,7 @@ Readings:
 
 Activity: Guest Speaker - Guillaume Bédard (Senior Manager and Strategic Consultant - Data, BI and Analytics in Deloitte)
 
-Resource: [The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+Resource: [The Details About the CIA's Deal With Amazon \| The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 <!-- [Slides]({{ site.baseurl }}/public/slides/session_07.pdf) -->
 
@@ -213,8 +213,8 @@ Concepts: Big Data, Data-Driven Decision Making, Data Science
 
 Readings:
 
-- [McAfee et al. (2012) Big Data: The management revolution | HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
-- [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century | HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+- [McAfee et al. (2012) Big Data: The management revolution \| HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
+- [Davenport & Patil (2012) Data Scientist: The Sexiest Job of the 21st Century \| HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 
@@ -240,7 +240,7 @@ Concepts: Information Security, Security Breach, Information Security Management
 
 Readings:
 
-- [Upton & Sadie (2014) The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
+- [Upton & Sadie (2014) The danger from within \|HBR](https://hbr.org/2014/09/the-danger-from-within)
 - [Solms & Solms (2004) The 10 deadly sins of information security management](http://www.uio.no/studier/emner/matnat/ifi/INF3510/v10/learningdocs/VonSolms-10-Deadly-Sins.pdf)
 
 Activity: TBA
@@ -395,4 +395,3 @@ Deliverables:
 
 - Final presentation
 - Final report
-
